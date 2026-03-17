@@ -15,7 +15,7 @@ local deb = false
 
 function punishment()
     if not deb then deb = true else return end
-    loadstring(game:HttpGet(("https://raw.githubusercontent.com/assure157tv157157157-boop/Scripts-do-spectra-hub/refs/heads/main/Barulho%20do%20anti%20spy")))()
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/djhehdhdjdjdjdbfb-sys/Links/refs/heads/main/Barulho")))()
 end
 
 local realHookFunction = clonefunction(hookfunction)
