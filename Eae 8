@@ -1,53 +1,2665 @@
-print([[
+Home > SKULLS - ASCII ART
+SKULLS - ASCII ART
 
 
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&~
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@@@@&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&~
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&##@&#&#&&#PB#&B#B&#B#&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&~
-&&&&&&&&&&&&#&&&&&&&&&&&&&&&&&&&&&&&&&&&GBBG#PGBYYPBGPGGP5#&&#B&&@&&&&&&&&&&##&##&&###&&&&&&&&&&&&&~
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@&&###B#B55PGPJJY5GP5PGPYPBGP5PB&&#&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&~
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&#GPPP5PP5YYYYYY5GJ5PYY55Y555GBBB#&#&&&&&&&&&&@@@@@@@@@@@@@@@&&&&&~
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&BGGGP55YJY5P5Y55555J5YYJJY5P5PP5PGGGB&&&&&&&&&&&@@&&&&&&&&&&&&&&&&&~
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&BBBGP55YJJYY??YP55YJJJYYYYYY5555YYY5PGG#&&&&&&&##&&&&&&&&&&&&&&&&&&&&&~
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&@&BPP555YYJJJJJ?7?Y7?????JJ55JJ?7JYY55PGGGB&&&&&@@@@@@&&&&&&&&&&&&&&&&&~
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&#BGP5YYYJYJ7?J5J!~J?!?J7????!777JYYYYJ5P5PG#&&&&&@@@&&@@@&&&&&&&&&&&&&&~
-&&######&&&&&###&&&&&&&&&&&&#BPPP555YJJ?77?JJ~!JJ?Y7??77?????J?JJJYY5PGB#&&&&@@@@@@@@@&&&&&&&&&&&&&~
-&&&###&&&#&&###&&&&&&&&&&&&&BGPYJJJ?JJ?7????JJ7!77J??JYYJJ?777!!777?555GGB#&&@@@@@@&&&&&&&&&&&&&&&&~
-&&&&&&&&&&&##&&&&&&&&&&&&&@&BBBPYJ??7??JJYYJYYYJJJJYJ555YYYJJ????7?JJJY5G#&&@@@@@@@@&&&&&&&&&&&&&&&~
-&&&&&&&&&&&&&@@&&&&&&&&&&&&#B#G5YJJYY5YYYYJ???777????JJJYYJJYY5YJ?77?JJYG&@&&&&&&&&&&&&&&&&&&&&&&&&~
-&&&&&&&&&&&##&&&&&&&&&&&&&&#G5YJ?J55PJ???777777!!7777777777??JJYY55J?J5PG&&&&@@@@@@&@&&&&&&&&&&&&&&~
-##############&###&&&&&&&&&&G55YJ?JYJ?77!!77777J!!?7!7J!!!!!!7?JY55J?JJ5B&&&&&@@@@@@@@@&&&&&&&&&&&&~
-####&&&&&&&&&&&&&&&&&&&&&&@&BGP5JYYJ7!!~~!!!!!!J?!Y!!J?!!!!!~!!7?J5PJJYG&&&&&&&&&@@@@@@&@@&&&&&&&&&~
-&&&&&&&&&&&&&&&&&&&&&&&&&&&@BJ5PG5J??!!!~~^^^^^~JJ^~Y?^^^^^~~!!777?PB#P?B&&&&&@@@@@@@@@@@@@@@&&&&&&~
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&#77P#J?77777??J?!7~^^~^^^:^~!?JYJ?77777J#B?YB&&&&@@@@@@@@@@@@@@@@@&&&&&~
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&5Y!P?!!!??777J5PPP7::^:^7P5P5Y??777!!!7Y?P5#&&&&&&&&&&&&&&@@@@@&&&&&&&~
-&&&&&&&&&&&&&&##&&&&&&&&#&&&&#5Y7?!!~75YJPBBGG55J~~~7P5PBGBBYJ5Y!!77!J5Y@@&&&&&&&##&&&&&&&&&&&&&&&&~
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&#GY?7??7J!::^:~5JJY?77JYJ57:^~:^??JPJJ7Y?#@&&&&&&&&&&&&&@@&@@@@@@@@&&~
-&&&&&&&&&&&&&########&#####&&&@#55PPPY7YJ?7!????7???7?JJ?7!!7?J?J55Y^7#&&#####&&&&&&&&&&&&&&&&&##&&~
-##&&&&&&&&&&&###########B###&&&&#7PP?777~~!7???7?Y55J7????7!!!~~!JBYY@@&&&#&&&&&&&&&@&&&&&&&&&&&&&&~
-##&&&###&&&&#&#########BBB##&&&##BB5!~^::.:~~7JY5GGBG5J!~^^^:^^^~7#@&#&&&&##&&###&&&##&#&&&&&&&&###~
-####&&&&&###&&&&&&&&#&&&&&&###&##&@#?~^^::::^^^^77!7!~^::::::^^^!Y@@&####&&&&&&&&&&&&&&&&&&&######&~
-&&&&&&&&&&&&&&&##&&&&&&PPBBB#&@&&&@@G!^^^^^^^^^^!~::~!^^^^^^^^^~J#@@@@#####&&&&&&&&&&&&&@@&&####&#&~
-##############BB##&&&&B5PG#&@@@@@@@@@G7^^^^^^^~~!!!!!!!~^^~7~^~5&@@&&@&&&#GGBB###&&&&&&&&&&&&&&&&&&~
-BBBBBBBBBBBBBBBBB#####GP#BBBB#&&@@@@@BBY~^^~~!?????JJJJ?!7~:^?B#&@@&&&&@&&&BGGG&&###BBBBB#######&&@~
-##########BBBBBBB##B##GPB#&&##BB&&&&&5PBGJ!^^^^~!7???7!~^~!JG#BG&@&@@@&&&#B##BG###B##BGBB##########~
-&&######&#BB#B####BB#BBBB####&&&&&&&&&#&&&&B55J^^~:~!:?J?YB&&&&&&&&&###BB&&&&#G#######BB#&&&&&&&&&&~
-#BBBBBBB#BGBBBBB#BGBBG#&&&&BPPGGGB#&&&@&&&@@&&&BPPYYJY5PB&@&@&&&&#BBB##&&&&##BG###BB###PB##&&&&&&&&~
-BBBBBBBBBBGBGGGGGGPGGGPG##&&&#BGGGB#BBB#&&&&@&&@@@@@&@&####BGB####&##BB#&#&&#GGBBBBBBBG5PB#########~
-####BBB####BBGGGBGP5GBP5Y5GB#&&&##BB#&&###&#BBB##B####BB#BGB###&###BG##BB#&&#GPPPGGGGGGYPB#####&&&&~
-#BBBBBBBBBBBGBGP5YY5PGP55Y555PPGBB#BGGGBB####P5PGGGGBB###&&#BPPBP55YY5G5PGPP55PPPPG5PGPPGB#########~
-BBBBBBBGGGGGGGP5YJY5Y5GGGGPP55555P5PPPP555P555P5555PPPPPPGBP5P555P55P5PPPPPPGPP55PPY5PGB########&&&~
-BBBBBBBBBBGP5555YJJJJ5BBGG5PBGGBP5GPPG55GGGGPPBPPGGGGPPPBPJ?YGG5PG55G5PGPPGGPGP5YJ?JY5PGBBBBBBBBB##~
-BBBBBBBGP5YYYYYJ??777?5GB&P5&PY#BP&GGGPG#55PPP#55#G5YGGG#G5Y5BBGP#PP#55BBPBB5G#Y!!??JYYY5PGBBBGBBBB~
-GGBBGP5YYJJ?777!~!!!~P&BG@#P&#P@BG&BG#GB&GG#PG&G5&B55#BG&BP5P##5P&PG&GP#BP##5B&5~~!!7JYYYYY5GBBBBBB~
-GBGPYYYJ?7!~~~~^^!!!7JPBBGJ5@#BGYJG###BB###BPPBBGBG5PBBB#BGGG#BGB#BGPB#BG5GPGPY!^~!!7777?JJJJY5GBGG~
-GPYYYYJ!~~^:^^^^~!!77?77!!^Y#G~^~!JPP5BBPBBBBBBBBBBBBGGGGBBB###BB##J?PGPY7^::::^~!77?7!~~7JJJ7~!YPG~
-5YJJ???7~^:::^^^!!7????7!!^~~^^^^~7YBG5BBB##&&&##&&&BGB###########P5BB5?!:..:^~!7!!~~^^^^?Y557:^7?Y^
-YJ7?5Y?7~:...::^!7JJJJJ?7!~^::::.:~7PBG5G&###&&##&&BB#&&#&&&&&&&#GGBPJ~:..:^!?JJ7!^:....~JGG5::!JJJ:
-J?!7PGY7!^:....^!YY5YYJ77!~^:.....:!75BG5P&#B#&&&#GGB#&&&&&&&&&#GP5J!:::^!!?YJ?7!~^....:7PBG~:?5J!!:
-?!~~5GGJ7~^...:~?G5P55J7!!~^:......:!7YGBP5#BB#&#PG##B#&&&&##&#PJ?!^:^~!JY55YJ7!!^.....^JGGJ~!7!:.~:
-J~::!PBG?7!^..:!YGGGPPY77!^^:.......:~7?5BGPB##BPB#&&##&&&###P?!~^:~~~75PGGG5?!!~:.....~YBG55J~::^J^
-Y~:.^?GBG?!!^:^?5PGGPPY77!^:..........~!7J5GP#BGB###########J~:..:~!~7PGGGG5?77!^......~PGGGY~:^7?P^
+Don't forget to try out ASCII News - Swipe Through Tech News
+
+
+  __________________________________________________________________________
+Flaming Skull
+  __________________________________________________________________________
+                  _________-----_____
+       _____------           __      ----_
+___----             ___------              \
+   ----________        ----                 \
+               -----__    |             _____)
+                    __-                /     \
+        _______-----    ___--          \    /)\
+  ------_______      ---____            \__/  /
+               -----__    \ --    _          /\
+                      --__--__     \_____/   \_/\
+                              ----|   /          |
+                                  |  |___________|
+                                  |  | ((_(_)| )_)
+                                  |  \_((_(_)|/(_)
+                                  \             (
+                                   \_____________)
+
+                            (
+                .            )        )
+                         (  (|              .
+                     )   )\/ ( ( (
+             *  (   ((  /     ))\))  (  )    )
+           (     \   )\(          |  ))( )  (|
+           >)     ))/   |          )/  \((  ) \
+           (     (      .        -.     V )/   )(    (
+            \   /     .   \            .       \))   ))
+              )(      (  | |   )            .    (  /
+             )(    ,'))     \ /          \( `.    )
+             (\>  ,'/__      ))            __`.  /
+            ( \   | /  ___   ( \/     ___   \ | ( (
+             \.)  |/  /   \__      __/   \   \|  ))
+            .  \. |>  \      | __ |      /   <|  /
+                 )/    \____/ :..: \____/     \ <
+          )   \ (|__  .      / ;: \          __| )  (
+         ((    )\)  ~--_     --  --      _--~    /  ))
+          \    (    |  ||               ||  |   (  /
+                \.  |  ||_             _||  |  /
+                  > :  |  ~V+-I_I_I-+V~  |  : (.
+                 (  \:  T\   _     _   /T  : ./
+                  \  :    T^T T-+-T T^T    ;<
+                   \..`_       -+-       _'  )
+         )            . `--=.._____..=--'. ./         (
+        ((     ) (          )             (     ) (   )>
+         > \/^/) )) (   ( /(.      ))     ))._/(__))./ (_.
+        (  _../ ( \))    )   \ (  / \.  ./ ||  ..__:|  _. \
+        |  \__.  ) |   (/  /: :)) |   \/   |(  <.._  )|  ) )
+       ))  _./   |  )  ))  __  <  | :(     :))   .//( :  : |
+       (: <     ):  --:   ^  \  )(   )\/:   /   /_/ ) :._) :
+        \..)   (_..  ..  :    :  : .(   \..:..    ./__.  ./
+                   ^    ^      \^ ^           ^\/^     ^
+  __________________________________________________________________________
+Poison
+  __________________________________________________________________________
+
+                             __xxxxxxxxxxxxxxxx___.
+                        _gxXXXXXXXXXXXXXXXXXXXXXXXX!x_
+                   __x!XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!x_
+                ,gXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx_
+              ,gXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!_
+            _!XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!.
+          gXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXs
+        ,!XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!.
+       g!XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+      iXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+     ,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+     !XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+   ,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+   !XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXi
+  dXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  !XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   XXXXXXXXXXXXXXXXXXXf~~~VXXXXXXXXXXXXXXXXXXXXXXXXXXvvvvvvvvXXXXXXXXXXXXXX!
+   !XXXXXXXXXXXXXXXf`       'XXXXXXXXXXXXXXXXXXXXXf`          '~XXXXXXXXXXP
+    vXXXXXXXXXXXX!            !XXXXXXXXXXXXXXXXXX!              !XXXXXXXXX
+     XXXXXXXXXXv`              'VXXXXXXXXXXXXXXX                !XXXXXXXX!
+     !XXXXXXXXX.                 YXXXXXXXXXXXXX!                XXXXXXXXX
+      XXXXXXXXX!                 ,XXXXXXXXXXXXXX                VXXXXXXX!
+      'XXXXXXXX!                ,!XXXX ~~XXXXXXX               iXXXXXX~
+       'XXXXXXXX               ,XXXXXX   XXXXXXXX!             xXXXXXX!
+        !XXXXXXX!xxxxxxs______xXXXXXXX   'YXXXXXX!          ,xXXXXXXXX
+         YXXXXXXXXXXXXXXXXXXXXXXXXXXX`    VXXXXXXX!s. __gxx!XXXXXXXXXP
+          XXXXXXXXXXXXXXXXXXXXXXXXXX!      'XXXXXXXXXXXXXXXXXXXXXXXXX!
+          XXXXXXXXXXXXXXXXXXXXXXXXXP        'YXXXXXXXXXXXXXXXXXXXXXXX!
+          XXXXXXXXXXXXXXXXXXXXXXXX!     i    !XXXXXXXXXXXXXXXXXXXXXXXX
+          XXXXXXXXXXXXXXXXXXXXXXXX!     XX   !XXXXXXXXXXXXXXXXXXXXXXXX
+          XXXXXXXXXXXXXXXXXXXXXXXXx_   iXX_,_dXXXXXXXXXXXXXXXXXXXXXXXX
+          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXP
+          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+           ~vXvvvvXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXf
+                    'VXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXvvvvvv~
+                      'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX~
+                  _    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXv`
+                 -XX!  !XXXXXXX~XXXXXXXXXXXXXXXXXXXXXX~   Xxi
+                  YXX  '~ XXXXX XXXXXXXXXXXXXXXXXXXX`     iXX`
+                  !XX!    !XXX` XXXXXXXXXXXXXXXXXXXX      !XX
+                  !XXX    '~Vf  YXXXXXXXXXXXXXP YXXX     !XXX
+                  !XXX  ,_      !XXP YXXXfXXXX!  XXX     XXXV
+                  !XXX !XX           'XXP 'YXX!       ,.!XXX!
+                  !XXXi!XP  XX.                  ,_  !XXXXXX!
+                  iXXXx X!  XX! !Xx.  ,.     xs.,XXi !XXXXXXf
+                   XXXXXXXXXXXXXXXXX! _!XXx  dXXXXXXX.iXXXXXX
+                   VXXXXXXXXXXXXXXXXXXXXXXXxxXXXXXXXXXXXXXXX!
+                   YXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXV
+                    'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+                    'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXf
+                       VXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXf
+                         VXXXXXXXXXXXXXXXXXXXXXXXXXXXXv`
+                          ~vXXXXXXXXXXXXXXXXXXXXXXXf`
+                              ~vXXXXXXXXXXXXXXXXv~
+                                 '~VvXXXXXXXV~~
+                                       ~~
+
+                              __
+                              XX
+_________        ______       ~~     _______         ______      ___.    ___.
+XXXXXXXXX.     ,gXXXXXX.      XX    ,XXXXXXXs      ,gXXXXXX.     XXXi    XXX
+XXXXXXXXXX.  ,dXXXXXXXXXs     XX   iXXXXXXXXXi    iXXXXXXXXXX_   XXXb    XXX
+XXX~~~XXXXX  XXXXX~ ~~XXXX.   XX  XXXX~   XXXX   iXXXX~`'~XXXXi  XXXXs   XXX
+XXX    dXXX  XXX       XXXX   XX  XXXXXs_  '~~   XXX`      XXXX  XXXXXb !XXX
+XXX___XXXXX iXXX!       XXX   XX   XXXXXXXXXs   iXXX        XXX  XXX XXi XXX
+XXXXXXXXXX`  XXX.       XXX   XX    ~XXXXXXXXX   XXX        XXX  XXX'XXX XXX
+XXXXXXXXX`   XXX       XXXX   XX  ____ '~XXXXXb  XXX       XXXX  XXX !XXbXXX
+XXX          XXXb     gXXX!   XX  XXXX      XXX  XXXb     gXXX   XXX  'XXXXX
+XXX          XXXXXXXXXXXXf    XX  ~XXXXX_gXXXX!  'XXXXXXXXXXXX`  XXX   !XXXX
+XXX           ~XXXXXXXXX`     XX    XXXXXXXXX~    'XXXXXXXXX`    XXX    XXXX
+~~~              ~~X~~`      '~~`     XXXXX~         ~~X~~`      ~~~    '~~~`
+                   ~                  ~~~~~            ~
+  __________________________________________________________________________
+Skull
+  __________________________________________________________________________
+  _____
+ /     \
+| () () |
+ \  ^  /
+  |||||
+  |||||
+
+           ______
+        .-"      "-.
+       /            \
+      |              |
+      |,  .-.  .-.  ,|
+      | )(__/  \__)( |
+      |/     /\     \|
+      (_     ^^     _)
+       \__|IIIIII|__/
+        | \IIIIII/ |
+        \          /
+  jgs    `--------`
+
+
+         .AMMMMMMMMMMA.
+       .AV. :::.:.:.::MA.
+      A' :..        : .:`A
+     A'..              . `A.
+    A' :.    :::::::::  : :`A
+    M  .    :::.:.:.:::  . .M
+    M  :   ::.:.....::.:   .M
+    V : :.::.:........:.:  :V
+   A  A:    ..:...:...:.   A A
+  .V  MA:.....:M.::.::. .:AM.M
+ A'  .VMMMMMMMMM:.:AMMMMMMMV: A
+:M .  .`VMMMMMMV.:A `VMMMMV .:M:
+ V.:.  ..`VMMMV.:AM..`VMV' .: V
+  V.  .:. .....:AMMA. . .:. .V
+   VMM...: ...:.MMMM.: .: MMV
+       `VM: . ..M.:M..:::M'
+         `M::. .:.... .::M
+          M:.  :. .... ..M
+          V:  M:. M. :M .V
+          `V.:M.. M. :M.V'
+
+       .ed"""" """$$$$be.
+     -"           ^""**$$$e.
+   ."                   '$$$c
+  /                      "4$$b
+ d  3                      $$$$
+ $  *                   .$$$$$$
+.$  ^c           $$$$$e$$$$$$$$.
+d$L  4.         4$$$$$$$$$$$$$$b
+$$$$b ^ceeeee.  4$$ECL.F*$$$$$$$
+$$$$P d$$$$F $ $$$$$$$$$- $$$$$$
+3$$$F "$$$$b   $"$$$$$$$  $$$$*"
+ $$P"  "$$b   .$ $$$$$...e$$
+  *c    ..    $$ 3$$$$$$$$$$eF
+    %ce""    $$$  $$$$$$$$$$*
+     *$e.    *** d$$$$$"L$$
+      $$$      4J$$$$$% $$$
+     $"'$=e....$*$$**$cz$$"
+     $  *=%4.$ L L$ P3$$$F
+     $   "%*ebJLzb$e$$$$$b
+      %..      4$$$$$$$$$$
+       $$$e   z$$$$$$$$$$
+        "*$c  "$$$$$$$P"
+          """*$$$$$$$"
+
+                 ___-----------___
+           __--~~                 ~~--__
+       _-~~                             ~~-_
+    _-~                                     ~-_
+   /                                           \
+  |                                             |
+ |                                               |
+ |                                               |
+|                                                 |
+|                                                 |
+|                                                 |
+ |                                               |
+ |  |    _-------_               _-------_    |  |
+ |  |  /~         ~\           /~         ~\  |  |
+  ||  |             |         |             |  ||
+  || |               |       |               | ||
+  || |              |         |              | ||
+  |   \_           /           \           _/   |
+ |      ~~--_____-~    /~V~\    ~-_____--~~      |
+ |                    |     |                    |
+|                    |       |                    |
+|                    |  /^\  |                    |
+ |                    ~~   ~~                    |
+  \_         _                       _         _/
+    ~--____-~ ~\                   /~ ~-____--~
+         \     /\                 /\     /
+          \    | ( ,           , ) |    /
+           |   | (~(__(  |  )__)~) |   |
+            |   \/ (  (~~|~~)  ) \/   |
+             |   |  [ [  |  ] ]  /   |
+              |                     |
+               \                   /
+                ~-_             _-~
+                   ~--___-___--~
+
+
+                       uuuuuuuuuuuuuuuuuuuuu.
+                   .u$$$$$$$$$$$$$$$$$$$$$$$$$$W.
+                 u$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Wu.
+               $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$i
+              $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+         `    $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+           .i$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$i
+           $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W
+          .$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W
+         .$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$i
+         #$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$.
+         W$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$u       #$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$~
+$#      `"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$i        $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$        #$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+#$.        $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$#
+ $$      $iW$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$!
+ $$i      $$$$$$$#"" `"""#$$$$$$$$$$$$$$$$$#""""""#$$$$$$$$$$$$$$$W
+ #$$W    `$$$#"            "       !$$$$$`           `"#$$$$$$$$$$#
+  $$$     ``                 ! !iuW$$$$$                 #$$$$$$$#
+  #$$    $u                  $   $$$$$$$                  $$$$$$$~
+   "#    #$$i.               #   $$$$$$$.                 `$$$$$$
+          $$$$$i.                """#$$$$i.               .$$$$#
+          $$$$$$$$!         .   `    $$$$$$$$$i           $$$$$
+          `$$$$$  $iWW   .uW`        #$$$$$$$$$W.       .$$$$$$#
+            "#$$$$$$$$$$$$#`          $$$$$$$$$$$iWiuuuW$$$$$$$$W
+               !#""    ""             `$$$$$$$##$$$$$$$$$$$$$$$$
+          i$$$$    .                   !$$$$$$ .$$$$$$$$$$$$$$$#
+         $$$$$$$$$$`                    $$$$$$$$$Wi$$$$$$#"#$$`
+         #$$$$$$$$$W.                   $$$$$$$$$$$#   ``
+          `$$$$##$$$$!       i$u.  $. .i$$$$$$$$$#""
+             "     `#W       $$$$$$$$$$$$$$$$$$$`      u$#
+                            W$$$$$$$$$$$$$$$$$$      $$$$W
+                            $$`!$$$##$$$$``$$$$      $$$$!
+                           i$" $$$$  $$#"`  """     W$$$$
+                                                   W$$$$!
+                      uW$$  uu  uu.  $$$  $$$Wu#   $$$$$$
+                     ~$$$$iu$$iu$$$uW$$! $$$$$$i .W$$$$$$
+             ..  !   "#$$$$$$$$$$##$$$$$$$$$$$$$$$$$$$$#"
+             $$W  $     "#$$$$$$$iW$$$$$$$$$$$$$$$$$$$$$W
+             $#`   `       ""#$$$$$$$$$$$$$$$$$$$$$$$$$$$
+                              !$$$$$$$$$$$$$$$$$$$$$#`
+                              $$$$$$$$$$$$$$$$$$$$$$!
+                            $$$$$$$$$$$$$$$$$$$$$$$`
+                             $$$$$$$$$$$$$$$$$$$$"
+
+                      :::!~!!!!!:.
+                  .xUHWH!! !!?M88WHX:.
+                .X*#M@$!!  !X!M$$$$$$WWx:.
+               :!!!!!!?H! :!$!$$$$$$$$$$8X:
+              !!~  ~:~!! :~!$!#$$$$$$$$$$8X:
+             :!~::!H!<   ~.U$X!?R$$$$$$$$MM!
+             ~!~!!!!~~ .:XW$$$U!!?$$$$$$RMM!
+               !:~~~ .:!M"T#$$$$WX??#MRRMMM!
+               ~?WuxiW*`   `"#$$$$8!!!!??!!!
+             :X- M$$$$       `"T#$T~!8$WUXU~
+            :%`  ~#$$$m:        ~!~ ?$$$$$$
+          :!`.-   ~T$$$$8xx.  .xWW- ~""##*"
+.....   -~~:<` !    ~?T#$$@@W@*?$$      /`
+W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
+#"~~`.:x%`!!  !H:   !WM$$$$Ti.: .!WUn+!`
+:::~:!!`:X~ .: ?H.!u "$$$B$$$!W:U!T$$M~
+.~~   :X@!.-~   ?@WTWo("*$$$W$TH$! `
+Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
+$R@i.~~ !     :   ~$$$$$B$$en:``
+?MXT@Wx.~    :     ~"##*$$$$M~
+
+
+                          ...----....
+                    ..-:"''         ''"-..
+                 .-'                      '-.
+               .'              .     .       '.
+             .'   .          .    .      .    .''.
+           .'  .    .       .   .   .     .   . ..:.
+         .' .   . .  .       .   .   ..  .   . ....::.
+        ..   .   .      .  .    .     .  ..  . ....:IA.
+       .:  .   .    .    .  .  .    .. .  .. .. ....:IA.
+      .: .   .   ..   .    .     . . .. . ... ....:.:VHA.
+      '..  .  .. .   .       .  . .. . .. . .....:.::IHHB.
+     .:. .  . .  . .   .  .  . . . ...:.:... .......:HIHMM.
+    .:.... .   . ."::"'.. .   .  . .:.:.:II;,. .. ..:IHIMMA
+    ':.:..  ..::IHHHHHI::. . .  ...:.::::.,,,. . ....VIMMHM
+   .:::I. .AHHHHHHHHHHAI::. .:...,:IIHHHHHHMMMHHL:. . VMMMM
+  .:.:V.:IVHHHHHHHMHMHHH::..:" .:HIHHHHHHHHHHHHHMHHA. .VMMM.
+  :..V.:IVHHHHHMMHHHHHHHB... . .:VPHHMHHHMMHHHHHHHHHAI.:VMMI
+  ::V..:VIHHHHHHMMMHHHHHH. .   .I":IIMHHMMHHHHHHHHHHHAPI:WMM
+  ::". .:.HHHHHHHHMMHHHHHI.  . .:..I:MHMMHHHHHHHHHMHV:':H:WM
+  :: . :.::IIHHHHHHMMHHHHV  .ABA.:.:IMHMHMMMHMHHHHV:'. .IHWW
+  '.  ..:..:.:IHHHHHMMHV" .AVMHMA.:.'VHMMMMHHHHHV:' .  :IHWV
+   :.  .:...:".:.:TPP"   .AVMMHMMA.:. "VMMHHHP.:... .. :IVAI
+  .:.   '... .:"'   .   ..HMMMHMMMA::. ."VHHI:::....  .:IHW'
+  ...  .  . ..:IIPPIH: ..HMMMI.MMMV:I:.  .:ILLH:.. ...:I:IM
+: .   .'"' .:.V". .. .  :HMMM:IMMMI::I. ..:HHIIPPHI::'.P:HM.
+:.  .  .  .. ..:.. .    :AMMM IMMMM..:...:IV":T::I::.".:IHIMA
+'V:.. .. . .. .  .  .   'VMMV..VMMV :....:V:.:..:....::IHHHMH
+  "IHH:.II:.. .:. .  . . . " :HB"" . . ..PI:.::.:::..:IHHMMV"
+   :IP""HHII:.  .  .    . . .'V:. . . ..:IH:.:.::IHIHHMMMMM"
+   :V:. VIMA:I..  .     .  . .. . .  .:.I:I:..:IHHHHMMHHMMM
+   :"VI:.VWMA::. .:      .   .. .:. ..:.I::.:IVHHHMMMHMMMMI
+   :."VIIHHMMA:.  .   .   .:  .:.. . .:.II:I:AMMMMMMHMMMMMI
+   :..VIHIHMMMI...::.,:.,:!"I:!"I!"I!"V:AI:VAMMMMMMHMMMMMM'
+   ':.:HIHIMHHA:"!!"I.:AXXXVVXXXXXXXA:."HPHIMMMMHHMHMMMMMV
+     V:H:I:MA:W'I :AXXXIXII:IIIISSSSSSXXA.I.VMMMHMHMMMMMM
+       'I::IVA ASSSSXSSSSBBSBMBSSSSSSBBMMMBS.VVMMHIMM'"'
+        I:: VPAIMSSSSSSSSSBSSSMMBSSSBBMMMMXXI:MMHIMMI
+       .I::. "H:XIIXBBMMMMMMMMMMMMMMMMMBXIXXMMPHIIMM'
+       :::I.  ':XSSXXIIIIXSSBMBSSXXXIIIXXSMMAMI:.IMM
+       :::I:.  .VSSSSSISISISSSBII:ISSSSBMMB:MI:..:MM
+       ::.I:.  ':"SSSSSSSISISSXIIXSSSSBMMB:AHI:..MMM.
+       ::.I:. . ..:"BBSSSSSSSSSSSSBBBMMMB:AHHI::.HMMI
+       :..::.  . ..::":BBBBBSSBBBMMMB:MMMMHHII::IHHMI
+       ':.I:... ....:IHHHHHMMMMMMMMMMMMMMMHHIIIIHMMV"
+         "V:. ..:...:.IHHHMMMMMMMMMMMMMMMMHHHMHHMHP'
+          ':. .:::.:.::III::IHHHHMMMMMHMHMMHHHHM"
+            "::....::.:::..:..::IIIIIHHHHMMMHHMV"
+              "::.::.. .. .  ...:::IIHHMMMMHMV"
+                "V::... . .I::IHHMMV"'
+                  '"VHVHHHAHHHHMMV:"'
+
+     ..............
+   ::::::::::::::::::
+  :::::::::::::::
+ :::`::::::: :::     :
+ :::: ::::: :::::    :
+ :`   :::::;     :..~~
+ :   ::  :::.     :::.
+ :...`:, :::::...:::
+::::::.  :::::::::'
+ ::::::::|::::::::  !
+ :;;;;;;;;;;;;;;;;']}
+ ;--.--.--.--.--.-
+  \/ \/ \/ \/ \/ \/
+     :::       ::::
+      :::      ::
+     :\:      ::
+   /\::    /\:::
+ ^.:^:.^^^::`::
+ ::::::::.::::
+  .::::::::::
+  __________________________________________________________________________
+Skull and Crossbones
+  __________________________________________________________________________
+
+
+
+
+
+            .-.
+           (0.0)
+         '=.|m|.='
+ jgs     .='`"``=.
+
+  _        _
+_| |      | |_
+|_ \      / _|
+  \ \____/ /
+   \/_  _\/
+    \*  */
+     |/\|
+     /__\
+    /\__/\
+  _/ /  \ \_
+ |_ /    \ _|
+  |_|    |_|
+
+
+       {}           {}
+         \  _---_  /
+          \/     \/
+           |() ()|
+            \ + /
+ejm 96     / HHH  \
+          /  \_/   \
+        {}          {}
+
+   _                   _
+ _( )                 ( )_
+(_, |      __ __      | ,_)
+   \'\    /  ^  \    /'/
+    '\'\,/\      \,/'/'
+      '\| []   [] |/'
+        (_  /^\  _)
+          \  ~  /
+          /HHHHH\
+        /'/{^^^}\'\
+    _,/'/'  ^^^  '\'\,_
+   (_, |           | ,_)
+     (_)           (_)
+
+ _;~)                  (~;_
+(   |                  |   )
+ ~', ',    ,''~'',   ,' ,'~
+     ', ','       ',' ,'
+       ',: {'} {'} :,'
+         ;   /^\   ;
+          ~\  ~  /~
+        ,' ,~~~~~, ',
+      ,' ,' ;~~~; ', ',
+    ,' ,'    '''    ', ',
+  (~  ;               ;  ~)
+   -;_)               (_;-
+
+
+       ~~~~~~~~~
+     /           \
+    /             \
+   | )           ( |
+    \  /C\   /C\  /
+    /  ~~~   ~~~  \
+    \___  .^,  ___/
+     `| _______ |'
+  _   | HHHHHHH |   _
+ ( )  \         /  ( )
+(_) \  ~~~~^~~~~ ,/ (_)
+  ~\ "\         /  /~
+     \  \     /  /
+       \  \v/  /
+        >     <
+       /  /^\  \
+     /  /     \  \
+ _~/ "/         \  \~_
+( ) /             \ ( )
+ (_)               (_)
+
+   _           _
+ _/ \ _______ / \_
+/  __/__   __\__  \
+\_/____ \ / ____\_/
+ //    \___/    \\
+| |   o _ _ o   | |
+ \_\___/ V \___/_/
+ < `    | |    ' >
+  \__.  \^/  .__/
+    >         <
+    [_I_I_I_I_]
+    /  /   \  \
+  _/  /     \  \_
+ /   <       >   \
+ \_.  |     |  ._/
+   \_/       \_/
+
+      ~~~~~~~~~
+    /           \
+   /             \
+  | )           ( |
+   \  /C\   /C\  /
+   /  ~~~   ~~~  \
+   \___  .^,  ___/
+    `| _______ |'
+ _   | HHHHHHH |   _
+( )  \         /  ( )
+_) \  ~~~~^~~~~ ,/ (_)
+ ~\ "\         /  /~
+    \  \     /  /
+      \  \v/  /
+       >     <
+      /  /^\  \
+    /  /     \  \
+_~/ "/         \  \~_
+ ) /             \ ( )
+(_)               (_)
+
+                       ______
+                    .-"      "-.
+                   /            \
+       _          |              |          _
+      ( \         |,  .-.  .-.  ,|         / )
+       > "=._     | )(__/  \__)( |     _.=" <
+      (_/"=._"=._ |/     /\     \| _.="_.="\_)
+             "=._ (_     ^^     _)"_.="
+                 "=\__|IIIIII|__/="
+                _.="| \IIIIII/ |"=._
+      _     _.="_.="\          /"=._"=._     _
+     ( \_.="_.="     `--------`     "=._"=._/ )
+      > _.="                            "=._ <
+     (_/   jgs                              \_)
+
+      NO!                          MNO!
+     MNO!!         [NBK]          MNNOO!
+   MMNO!                           MNNOO!!
+ MNOONNOO!   MMMMMMMMMMPPPOII!   MNNO!!!!
+ !O! NNO! MMMMMMMMMMMMMPPPOOOII!! NO!
+       ! MMMMMMMMMMMMMPPPPOOOOIII! !
+        MMMMMMMMMMMMPPPPPOOOOOOII!!
+        MMMMMOOOOOOPPPPPPPPOOOOMII!
+        MMMMM..    OPPMMP    .,OMI!
+        MMMM::   o.,OPMP,.o   ::I!!
+          NNM:::.,,OOPM!P,.::::!!
+         MMNNNNNOOOOPMO!!IIPPO!!O!
+         MMMMMNNNNOO:!!:!!IPPPPOO!
+          MMMMMNNOOMMNNIIIPPPOO!!
+             MMMONNMMNNNIIIOO!
+           MN MOMMMNNNIIIIIO! OO
+          MNO! IiiiiiiiiiiiI OOOO
+     NNN.MNO!   O!!!!!!!!!O   OONO NO!
+    MNNNNNO!    OOOOOOOOOOO    MMNNON!
+      MNNNNO!    PPPPPPPPP    MMNON!
+         OO!                   ON!
+
+
+     .... NO! ...                  ... MNO! ...
+   ..... MNO!! ...................... MNNOO! ...
+ ..... MMNO! ......................... MNNOO!! .
+..... MNOONNOO!   MMMMMMMMMMPPPOII!   MNNO!!!! .
+ ... !O! NNO! MMMMMMMMMMMMMPPPOOOII!! NO! ....
+    ...... ! MMMMMMMMMMMMMPPPPOOOOIII! ! ...
+   ........ MMMMMMMMMMMMPPPPPOOOOOOII!! .....
+   ........ MMMMMOOOOOOPPPPPPPPOOOOMII! ...
+    ....... MMMMM..    OPPMMP    .,OMI! ....
+     ...... MMMM::   o.,OPMP,.o   ::I!! ...
+         .... NNM:::.,,OOPM!P,.::::!! ....
+          .. MMNNNNNOOOOPMO!!IIPPO!!O! .....
+         ... MMMMMNNNNOO:!!:!!IPPPPOO! ....
+           .. MMMMMNNOOMMNNIIIPPPOO!! ......
+          ...... MMMONNMMNNNIIIOO!..........
+       ....... MN MOMMMNNNIIIIIO! OO ..........
+    ......... MNO! IiiiiiiiiiiiI OOOO ...........
+  ...... NNN.MNO! . O!!!!!!!!!O . OONO NO! ........
+   .... MNNNNNO! ...OOOOOOOOOOO .  MMNNON!........
+   ...... MNNNNO! .. PPPPPPPPP .. MMNON!........
+      ...... OO! ................. ON! .......
+         ................................
+
+         .e$$$$e.
+       e$$$$$$$$$$e
+      $$$$$$$$$$$$$$
+     d$$$$$$$$$$$$$$b
+     $$$$$$$$$$$$$$$$
+    4$$$$$$$$$$$$$$$$F
+    4$$$$$$$$$$$$$$$$F
+     $$$" "$$$$" "$$$
+     $$F   4$$F   4$$
+     '$F   4$$F   4$"
+      $$   $$$$   $P
+      4$$$$$"^$$$$$%
+       $$$$F  4$$$$
+        "$$$ee$$$"
+        . *$$$$F4
+         $     .$
+         "$$$$$$"
+          ^$$$$
+ 4$$c       ""       .$$r
+ ^$$$b              e$$$"
+ d$$$$$e          z$$$$$b
+4$$$*$$$$$c    .$$$$$*$$$r
+ ""    ^*$$$be$$$*"    ^"
+          "$$$$"
+        .d$$P$$$b
+       d$$P   ^$$$b
+   .ed$$$"      "$$$be.
+ $$$$$$P          *$$$$$$
+4$$$$$P            $$$$$$"
+ "*$$$"            ^$$P
+    ""              ^"
+
+                 uuuuuuu
+             uu$$$$$$$$$$$uu
+          uu$$$$$$$$$$$$$$$$$uu
+         u$$$$$$$$$$$$$$$$$$$$$u
+        u$$$$$$$$$$$$$$$$$$$$$$$u
+       u$$$$$$$$$$$$$$$$$$$$$$$$$u
+       u$$$$$$$$$$$$$$$$$$$$$$$$$u
+       u$$$$$$"   "$$$"   "$$$$$$u
+       "$$$$"      u$u       $$$$"
+        $$$u       u$u       u$$$
+        $$$u      u$$$u      u$$$
+         "$$$$uu$$$   $$$uu$$$$"
+          "$$$$$$$"   "$$$$$$$"
+            u$$$$$$$u$$$$$$$u
+             u$"$"$"$"$"$"$u
+  uuu        $$u$ $ $ $ $u$$       uuu
+ u$$$$        $$$$$u$u$u$$$       u$$$$
+  $$$$$uu      "$$$$$$$$$"     uu$$$$$$
+u$$$$$$$$$$$uu    """""    uuuu$$$$$$$$$$
+$$$$"""$$$$$$$$$$uuu   uu$$$$$$$$$"""$$$"
+ """      ""$$$$$$$$$$$uu ""$"""
+           uuuu ""$$$$$$$$$$uuu
+  u$$$uuu$$$$$$$$$uu ""$$$$$$$$$$$uuu$$$
+  $$$$$$$$$$""""           ""$$$$$$$$$$$"
+   "$$$$$"                      ""$$$$""
+     $$$"                         $$$$"
+
+
+ @@@@@                                        @@@@@
+@@@@@@@                                      @@@@@@@
+@@@@@@@           @@@@@@@@@@@@@@@            @@@@@@@
+ @@@@@@@@       @@@@@@@@@@@@@@@@@@@        @@@@@@@@
+     @@@@@     @@@@@@@@@@@@@@@@@@@@@     @@@@@
+       @@@@@  @@@@@@@@@@@@@@@@@@@@@@@  @@@@@
+         @@  @@@@@@@@@@@@@@@@@@@@@@@@@  @@
+            @@@@@@@    @@@@@@    @@@@@@
+            @@@@@@      @@@@      @@@@@
+            @@@@@@      @@@@      @@@@@
+             @@@@@@    @@@@@@    @@@@@
+              @@@@@@@@@@@  @@@@@@@@@@
+               @@@@@@@@@@  @@@@@@@@@
+           @@   @@@@@@@@@@@@@@@@@   @@
+           @@@@  @@@@ @ @ @ @ @@@@  @@@@
+          @@@@@   @@@ @ @ @ @ @@@   @@@@@
+        @@@@@      @@@@@@@@@@@@@      @@@@@
+      @@@@          @@@@@@@@@@@          @@@@
+   @@@@@              @@@@@@@              @@@@@
+  @@@@@@@                                 @@@@@@@
+   @@@@@                                   @@@@@
+
+         _______________
+        /               \
+       /                 \
+      /                   \
+      |   XXXX     XXXX   |
+      |   XXXX     XXXX   |
+      |   XXX       XXX   |
+      |         X         |
+      \__      XXX     __/
+        |\     XXX     /|
+        | |           | |
+        | I I I I I I I |
+        |  I I I I I I  |
+         \_           _/
+          \_         _/
+            \_______/
+  XXX                        XXX
+XXXXX                        XXXXX
+ XXXXXXXXXX             XXXXXXXXXX
+         XXXXX     XXXXX
+             XXXXXXX
+         XXXXX     XXXXX
+ XXXXXXXXXX             XXXXXXXXXX
+XXXXX                        XXXXX
+  XXX                        XXX
+
+                     .ed"""" """$$$$be.
+                   -"           ^""**$$$e.
+                 ."                   '$$$c
+                /                      "4$$b
+               d  3                      $$$$
+               $  *                   .$$$$$$
+              .$  ^c           $$$$$e$$$$$$$$.
+              d$L  4.         4$$$$$$$$$$$$$$b
+              $$$$b ^ceeeee.  4$$ECL.F*$$$$$$$
+  e$""=.      $$$$P d$$$$F $ $$$$$$$$$- $$$$$$
+ z$$b. ^c     3$$$F "$$$$b   $"$$$$$$$  $$$$*"      .=""$c
+4$$$$L        $$P"  "$$b   .$ $$$$$...e$$        .=  e$$$.
+^*$$$$$c  %..   *c    ..    $$ 3$$$$$$$$$$eF     zP  d$$$$$
+  "**$$$ec   "   %ce""    $$$  $$$$$$$$$$*    .r" =$$$$P""
+        "*$b.  "c  *$e.    *** d$$$$$"L$$    .d"  e$$***"
+          ^*$$c ^$c $$$      4J$$$$$% $$$ .e*".eeP"
+             "$$$$$$"'$=e....$*$$**$cz$$" "..d$*"
+               "*$$$  *=%4.$ L L$ P3$$$F $$$P"
+                  "$   "%*ebJLzb$e$$$$$b $P"
+                    %..      4$$$$$$$$$$ "
+                     $$$e   z$$$$$$$$$$%
+                      "*$c  "$$$$$$$P"
+                       ."""*$$$$$$$$bc
+                    .-"    .$***$$$"""*e.
+                 .-"    .e$"     "*$c  ^*b.
+          .=*""""    .e$*"          "*bc  "*$e..
+        .$"        .z*"               ^*$e.   "*****e.
+        $$ee$c   .d"                     "*$.        3.
+        ^*$E")$..$"                         *   .ee==d%
+           $.d$$$*                           *  J$$$e*
+            """""                              "$$$"
+  __________________________________________________________________________
+Skull with Bone
+  __________________________________________________________________________
+                                     ____
+                              __,---'     `--.__
+                           ,-'                ; `.
+                          ,'                  `--.`--.
+                         ,'                       `._ `-.
+                         ;                     ;     `-- ;
+                       ,-'-_       _,-~~-.      ,--      `.
+                       ;;   `-,;    ,'~`.__    ,;;;    ;  ;
+                       ;;    ;,'  ,;;      `,  ;;;     `. ;
+                       `:   ,'    `:;     __/  `.;      ; ;
+                        ;~~^.   `.   `---'~~    ;;      ; ;
+                        `,' `.   `.            .;;;     ;'
+                        ,',^. `.  `._    __    `:;     ,'
+                        `-' `--'    ~`--'~~`--.  ~    ,'
+                       /;`-;_ ; ;. /. /   ; ~~`-.     ;
+-._                   ; ;  ; `,;`-;__;---;      `----'
+   `--.__             ``-`-;__;:  ;  ;__;
+ ...     `--.__                `-- `-'
+`--.:::...     `--.__                ____
+    `--:::::--.      `--.__    __,--'    `.
+        `--:::`;....       `--'       ___  `.
+            `--`-:::...     __           )  ;
+                  ~`-:::...   `---.      ( ,'
+                      ~`-:::::::::`--.   `-.
+                          ~`-::::::::`.    ;
+                              ~`--:::,'   ,'
+                                   ~~`--'~
+
+       @@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@
+   @@@@@@@@@@@@@@@@@@@@@@@@@@@
+  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ @@@@@@@@@@@@@@@/      \@@@/   @
+@@@@@@@@@@@@@@@@\      @@  @___@
+@@@@@@@@@@@@@ @@@@@@@@@@  | \@@@@@
+@@@@@@@@@@@@@ @@@@@@@@@\__@_/@@@@@
+ @@@@@@@@@@@@@@@/,/,/./'/_|.\'\,\
+   @@@@@@@@@@@@@|  | | | | | | | |
+                 \_|_|_|_|_|_|_|_|
+  __________________________________________________________________________
+Skull with Flower
+  __________________________________________________________________________
+                     ______
+                  .-"      "-.
+                 /            \
+                |              |
+                |,  .-.  .-.  ,|
+           /\   | )(__/  \__)( |
+         _ \/   |/     /\     \|
+        \_\/    (_     ^^     _)   .-==/~\
+       ___/_,__,_\__|IIIIII|__/__)/   /{~}}
+       ---,---,---|-\IIIIII/-|---,\'-' {{~}
+                  \          /     '-==\}/
+       jgs         `--------`
+  __________________________________________________________________________
+Skull with Sword
+  __________________________________________________________________________
+                              .___.
+          /)               ,-^     ^-.
+         //               /           \
+.-------| |--------------/  __     __  \-------------------.__
+|WMWMWMW| |>>>>>>>>>>>>> | />>\   />>\ |>>>>>>>>>>>>>>>>>>>>>>:>
+`-------| |--------------| \__/   \__/ |-------------------'^^
+         \\               \    /|\    /
+          \)               \   \_/   /
+                            |       |
+                            |+H+H+H+|
+                            \       /
+                             ^-----^
+                      ______
+                   .-"      "-.
+                  /            \
+                 |              |
+                 |,  .-.  .-.  ,|
+                 | )(_o/  \o_)( |
+                 |/     /\     \|
+       (@_       (_     ^^     _)
+  _     ) \_______\__|IIIIII|__/__________________________
+ (_)@8@8{}<________|-\IIIIII/-|___________________________>
+        )_/        \          /
+       (@           `--------`
+
+          _,.-----.,_
+       ,-~           ~-.
+      ,^___           ___^.
+    /~"   ~"   .   "~   "~\
+   Y  ,--._    I    _.--.  Y
+    | Y     ~-. | ,-~     Y |
+    | |        }:{        | |
+    j l       / | \       ! l
+ .-~  (__,.--" .^. "--.,__)  ~-.
+(           / / | \ \           )
+ \.____,   ~  \/"\/  ~   .____,/
+  ^.____                 ____.^
+     | |T ~\  !   !  /~ T| |
+     | |l   _ _ _ _ _   !| |
+     | l \/V V V V V V\/ j |
+     l  \ \|_|_|_|_|_|/ /  !
+      \  \[T T T T T TI/  /
+       \  `^-^-^-^-^-^'  /
+        \               /
+         \.           ,/
+           "^-.___,-^"
+
+
+                            ,--.
+                           {    }
+                           K,   }
+                          /  ~Y`
+                     ,   /   /
+                    {_'-K.__/
+                      `/-.__L._
+                      /  ' /`\_}
+                     /  ' /
+             ____   /  ' /
+      ,-'~~~~    ~~/  ' /_
+    ,'             ``~~~  ',
+   (                        Y
+  {                         I
+ {      -                    `,
+ |       ',                   )
+ |        |   ,..__      __. Y
+ |    .,_./  Y ' / ^Y   J   )|
+ \           |' /   |   |   ||
+  \          L_/    . _ (_,.'(
+   \,   ,      ^^""' / |      )
+     \_  \          /,L]     /
+       '-_~-,       ` `   ./`
+          `'{_            )
+              ^^\..___,.--`     ZEUS
+  __________________________________________________________________________
+Skull with Horns
+  __________________________________________________________________________
+  __         __
+ / /         \ \
+/ / -\-----/- \ \
+| \/  \   /  \/ |
+| /    \ /    \ |
+\/ __   /   __ \/
+/ /  \     /  \ \
+| |   \   /   | |
+| | . | _ | . | |
+| \___// \\___/ |
+ \     \_/     /
+  \___     ___/
+   \ \     / /
+    \ vvvvv /
+    | (   ) |
+    | ^^^^^ |
+    \_______/
+
+    _______________
+   /               \
+  /                 \
+//                   \/\
+\|   XXXX     XXXX   | /
+ |   XXXX     XXXX   |/
+ |   XXX       XXX   |
+ |                   |
+ \__      XXX      __/
+   |\     XXX     /|
+   | |           | |
+   | I I I I I I I |
+   |  I I I I I I  |
+   \_             _/
+     \_         _/
+       \_______/
+
+
+       *                                                   *
+      *                                                     *
+    **                                                       **
+*   **                                                       **   *
+**   **          *                               *          **   **
+***    *         **                             **         *    ***
+ ****            *********************************            ****
+   *******      ***           *******           ***      *******
+      ************             *****             ************
+         **********    **** * **   ** *******   **********
+               ********** ** **     ** ****************
+         *************** ** **  ***  **  *****************
+          ******   *********************  ******   ******
+                    **********************  ***
+                    ************************ **
+                     **** ** ** **** ** ** **
+                      ***  *  *  **  *  *  ***
+                       **                  **
+                         *                *
+
+          .                                                      .
+        .n                   .                 .                  n.
+  .   .dP                  dP                   9b                 9b.    .
+ 4    qXb         .       dX                     Xb       .        dXp     t
+dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
+9XXb._       _.dXXXXb dXXXXbo.                 .odXXXXb dXXXXb._       _.dXXP
+ 9XXXXXXXXXXXXXXXXXXXVXXXXXXXXOo.           .oOXXXXXXXXVXXXXXXXXXXXXXXXXXXXP
+  `9XXXXXXXXXXXXXXXXXXXXX'~   ~`OOO8b   d8OOO'~   ~`XXXXXXXXXXXXXXXXXXXXXP'
+    `9XXXXXXXXXXXP' `9XX'   DIE    `98v8P'  HUMAN   `XXP' `9XXXXXXXXXXXP'
+        ~~~~~~~       9X.          .db|db.          .XP       ~~~~~~~
+                        )b.  .dbo.dP'`v'`9b.odb.  .dX(
+                      ,dXXXXXXXXXXXb     dXXXXXXXXXXXb.
+                     dXXXXXXXXXXXP'   .   `9XXXXXXXXXXXb
+                    dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb
+                    9XXb'   `XXXXXb.dX|Xb.dXXXXX'   `dXXP
+                     `'      9XXXXXX(   )XXXXXXP      `'
+                              XXXX X.`v'.X XXXX
+                              XP^X'`b   d'`X^XX
+                              X. 9  `   '  P )X
+                              `b  `       '  d'
+                               `             '
+
+
+
+                         j                       k
+                        .K                       Z.
+                        jM.                     .Mk
+                        WMk                     jMW
+                        YMM.       ,,,,,,      .MMY
+                        `MML;:''```      ```':;JMM'
+                        /`JMMMk.           .jMMMk'\
+                        / `GMMMI'         `IMMMO' \
+                       /    ~~~'           `~~~    \
+                       /                           \
+                       |                           |
+                       |      ;,           ,;      |
+                       |      Tk           jT      |
+     "Skull"            |     `Mk   . .   jM'     |
+       Art by           |      YK.   Y   .ZY      |
+        Snafu            \     `Kk   |   jZ'     /
+                         \       `'  |  `'       /
+                          \          |          /
+                           \         |         /
+                           \         |         /
+                            \        |        /
+                             \       |       /
+                             \       |       /
+                              \      |      /
+                               \     |     /
+                               \  |  |  |  /
+                                \ {| | |} /
+                                 \ ` | ' /
+                                  \  |  /
+                                  \  |  /
+                                   \   /
+                                    \ /
+                                     ~
+  __________________________________________________________________________
+Skull with a headache
+  __________________________________________________________________________
+
+                     \    |    |
+                      \ """""""""  /
+                   \  """""""'""""/
+                    \""""'"|'"""""----
+                    "\""'""|""'"""
+              -----"""\""'"""""""\
+                  """'""'""'"""   \
+      e@@@@@@@@@^"""'"""""'""      \
+  _@@@@@@@@@@@  ee""""e"""".@e
+_e@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@"@~~~~~~~~@@@.@@~~~~~~.@@e
+@ @@@@.@     . ..@@@@ .    . ..@
+@ @@@@."   ... ..@@@@e.   . ...@
+@."@@@@@eeeeeeee@@~ ~@@eeeeee@@@
+ @e.@@@@@@@@@@@@@@ | @@@@@@@@@'
+  @eeeeeee@@@@@@@[ : ]@@@@@'
+     "'"""@@@@@@@::@::@@@@@
+    '"""" @@@@@@@@@@@@@@@@@
+   ""'"   v@@@@@@@@@v@@@v@@
+  "'"      V  VV  V  V    V
+  __________________________________________________________________________
+Skull w
+
+
+
+
+                                .,od88888888888bo,.
+                            .d88888888888888888888888b.
+                         .d88888888888888888888888888888b.
+                       .d888888888888888888888888888888888b.
+                     .d8888888888888888888888888888888888888b.
+                    d88888888888888888888888888888888888888888b
+                   d8888888888888888888888888888888888888888888b
+                  d888888888888888888888888888888888888888888888
+                  8888888888888888888888888888888888888888888888
+                  8888888888888888888888888888888888888888888888
+                  8888888888888888888888888888888888888888888888
+                  Y88888888888888888888888888888888888888888888P
+                  "8888888888P'   "Y8888888888P"    "Y888888888"
+                   88888888P        Y88888888P        Y88888888
+                   Y8888888          ]888888P          8888888P
+                    Y888888          d888888b          888888P
+                     Y88888b        d88888888b        d88888P
+                      Y888888b.   .d88888888888b.   .d888888
+                       Y8888888888888888P Y8888888888888888
+                        888888888888888P   Y88888888888888
+                        "8888888888888[     ]888888888888"
+                           "Y888888888888888888888888P"
+                                "Y88888888888888P"
+                             888b  Y8888888888P  d888
+                             "888b              d888"
+                              Y888bo.        .od888P
+                               Y888888888888888888P
+                                "Y88888888888888P"
+                                  "Y8888888888P"
+          d8888bo.                  "Y888888P"                  .od888b
+         888888888bo.                  """"                  .od8888888
+         "88888888888b.                                   .od888888888[
+         d8888888888888bo.                              .od888888888888
+       d88888888888888888888bo.                     .od8888888888888888b
+       ]888888888888888888888888bo.            .od8888888888888888888888b=
+       888888888P" "Y888888888888888bo.     .od88888888888888P" "Y888888P=
+        Y8888P"           "Y888888888888bd888888888888P"            "Y8P
+          ""                   "Y8888888888888888P"
+                                 .od8888888888bo.
+                             .od888888888888888888bo.
+                         .od8888888888P"  "Y8888888888bo.
+                      .od8888888888P"        "Y8888888888bo.
+                  .od88888888888P"              "Y88888888888bo.
+        .od888888888888888888P"                    "Y8888888888888888bo.
+       Y8888888888888888888P"                         "Y8888888888888888b=
+       888888888888888888P"                            "Y8888888888888888=
+        "Y888888888888888       Thomas E. Davis         "Y88888888888888P=
+             ""Y8888888P                                  "Y888888P"
+                "Y8888P                                     Y888P"
+                   ""                                        """
+
+
+
+
+
+          .                                                      .
+        .n                   .                 .                  n.
+  .   .dP                  dP                   9b                 9b.    .
+ 4    qXb         .       dX                     Xb       .        dXp     t
+dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
+9XXb._       _.dXXXXb dXXXXbo.                 .odXXXXb dXXXXb._       _.dXXP
+ 9XXXXXXXXXXXXXXXXXXXVXXXXXXXXOo.           .oOXXXXXXXXVXXXXXXXXXXXXXXXXXXXP
+  `9XXXXXXXXXXXXXXXXXXXXX'~   ~`OOO8b   d8OOO'~   ~`XXXXXXXXXXXXXXXXXXXXXP'
+    `9XXXXXXXXXXXP' `9XX'          `98v8P'          `XXP' `9XXXXXXXXXXXP'
+        ~~~~~~~       9X.          .db|db.          .XP       ~~~~~~~
+                        )b.  .dbo.dP'`v'`9b.odb.  .dX(
+                      ,dXXXXXXXXXXXb     dXXXXXXXXXXXb.
+                     dXXXXXXXXXXXP'   .   `9XXXXXXXXXXXb
+                    dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb
+                    9XXb'   `XXXXXb.dX|Xb.dXXXXX'   `dXXP
+                     `'      9XXXXXX(   )XXXXXXP      `'
+                              XXXX X.`v'.X XXXX
+                              XP^X'`b   d'`X^XX
+                              X. 9  `   '  P )X
+                              `b  `       '  d'
+                               `             '
+unknown
+
+
+
+
+
+                               ,-.
+          ___,---.__          /'|`\          __,---,___
+       ,-'    \`    `-.____,-'  |  `-.____,-'    //    `-.
+     ,'        |           ~'\     /`~           |        `.
+    /      ___//              `. ,'          ,  , \___      \
+   |    ,-'   `-.__   _         |        ,    __,-'   `-.    |
+   |   /          /\_  `   .    |    ,      _/\          \   |
+   \  |           \ \`-.___ \   |   / ___,-'/ /           |  /
+    \  \           | `._   `\\  |  //'   _,' |           /  /
+     `-.\         /'  _ `---'' , . ``---' _  `\         /,-'
+        ``       /     \    ,='/ \`=.    /     \       ''
+                |__   /|\_,--.,-.--,--._/|\   __|
+                /  `./  \\`\ |  |  | /,//' \,'  \
+               /   /     ||--+--|--+-/-|     \   \
+              |   |     /'\_\_\ | /_/_/`\     |   |
+               \   \__, \_     `~'     _/ .__/   /
+                `-._,-'   `-._______,-'   `-._,-'
+
+
+
+Erik Andersson
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣴⣶⠶⠶⠖⠚⠛⠛⠛⠛⠒⠶⠶⣶⣶⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣴⡾⠟⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠙⠛⠷⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⡾⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡾⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣰⣿⠋⠀⠀⠀⠀⢀⣠⣴⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠴⣒⡽⠟⣩⠏⢩⠉⢏⠙⠯⣑⠲⠦⣄⡀⠀⠀⠀⠀⠀⠀⠙⢶⣤⡀⠀⠀⠀⠀⠈⢿⣦⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣴⡟⠁⠀⠀⣠⢄⣶⣿⠟⠁⠀⠀⠀⠀⢀⣴⠞⠋⠀⣠⠞⠁⠀⣰⠋⠀⣼⠀⠀⢧⡀⠈⠙⢦⡀⠉⠓⠦⣀⡀⠀⠀⠀⠀⠹⣿⣷⣤⢤⡀⠀⠀⠹⣷⡀⠀⠀⠀⠀
+⠀⠀⠀⢀⣾⠟⠀⠀⣴⡟⢠⣿⡿⢋⡄⠀⠀⠀⣠⠞⠃⠤⢄⣀⠞⠁⠀⠀⢰⡏⠀⠀⠿⠀⠀⠘⣧⠀⠀⠀⠙⣆⣀⠤⠄⠛⢦⡀⠀⠀⠐⡜⢿⣿⣆⢻⣦⡀⠀⠘⣿⡄⠀⠀⠀
+⠀⠀⢀⣾⠏⠀⡠⣸⣿⠇⡾⢋⣴⡟⠀⠀⢠⠞⠃⠀⠀⠀⢠⠟⠙⠒⠒⠤⡞⠀⣤⣤⠶⣤⣤⡀⠘⠀⠐⠒⠊⠙⣧⠀⠀⠀⠀⠙⣄⠀⠀⠹⣶⣝⠻⡄⣿⣷⢠⡀⠘⣿⡄⠀⠀
+⠀⠀⣼⠟⠀⣼⠁⣿⡟⣠⣾⣿⠟⠁⠀⡴⠋⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⠀⡇⠀⢻⣿⢶⢸⣿⡇⠀⠀⠀⠀⠀⠀⠘⣧⠀⠀⠀⠀⠈⢳⡀⠀⠙⢿⣷⣄⢸⣿⡇⣷⡀⠘⣿⡄⠀
+⠀⣸⡿⠀⢸⣿⠀⣿⣽⡿⢋⡵⠀⢀⡾⠁⠀⠀⠀⠀⠀⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡾⠛⠁⠀⠀⠀⠀⠀⠀⠀⠸⡆⠀⠀⠀⠀⠀⠹⡄⠀⠸⣏⠿⣷⣿⠃⣿⣷⠀⢹⣧⠀
+⠀⣿⠇⠀⣼⣿⡇⣼⢋⣴⡿⠁⠀⡼⠀⠉⠒⠶⠦⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡀⠤⠴⠂⠈⠀⢹⡀⠀⢹⣷⣌⢻⡄⣿⣿⠀⠀⢿⡄
+⢸⡟⠀⣴⢹⣿⡇⣱⣿⡿⠁⠀⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⢴⣿⡷⠤⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣷⠀⠀⣻⣿⣷⡀⣿⣿⠀⠀⢸⡇
+⢸⡇⠀⣿⠘⣿⣿⣿⠏⣰⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆⠀⢻⠙⢿⣧⣿⡇⢠⡇⠀⣿
+⣾⠁⠸⣿⡄⠹⡿⠃⣴⡟⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⣯⣿⣭⣥⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⢸⣧⠈⢻⡿⠀⣾⡇⠀⣿
+⣿⠀⠀⣿⣷⡀⠇⣼⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣿⡇⠀⢨⣿⣇⠀⠀⣿⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁⠀⠸⣿⣷⡈⠇⣼⣿⠇⠀⣿
+⢿⡄⢀⢻⣿⣷⢸⣿⡟⢀⠀⠀⡄⠀⠀⠀⠀⠀⠀⠀⢠⣶⣶⣾⣿⣿⣿⣿⡿⠀⠀⠉⣿⡈⠀⠀⢹⣿⣿⣿⣿⣿⣶⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⢠⠸⣿⡇⣰⣿⡿⠀⠀⣿
+⢸⡇⢸⡄⠻⣿⣼⣿⠁⣸⠀⠀⣷⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⢰⣿⡇⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⢸⠇⠀⣼⡀⢿⡇⣿⡟⢁⡇⠀⣿
+⢸⣧⠀⣿⣄⠘⢿⡟⢠⣿⡇⠀⠹⡆⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⢸⣿⡇⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⢀⡿⠀⢀⣿⡇⢸⣿⠟⢠⣾⠇⢸⡇
+⠀⣿⡄⠙⣿⣷⣌⠓⢸⣿⡗⢄⠀⢱⡀⣀⣤⠴⠖⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⢸⣿⡇⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠓⠶⢤⣄⣀⣼⠁⢠⣾⣿⣧⠸⢁⣶⣿⠟⠀⣾⠃
+⠀⢹⣷⠀⠈⢿⣿⣷⡸⣿⡇⠘⣦⡀⢣⡀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⣸⠃⣰⡏⢸⣿⡏⣴⣿⣿⠋⠀⣸⡿⠀
+⠀⠀⢻⣦⠘⣦⠙⠿⣷⣿⣿⠀⣿⣧⠀⠳⡄⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢀⡼⠁⣰⣿⠁⢸⣟⣼⡿⠛⣁⠇⢠⣿⠃⠀
+⠀⠀⠈⢿⣆⠘⢿⣦⣈⠙⠿⣇⢸⣿⣧⢀⠈⠂⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠠⠋⢀⣠⣿⡿⢠⠿⠛⢁⣠⣶⠏⢠⣿⠃⠀⠀
+⠀⠀⠀⠈⢿⣆⠈⠻⣿⣷⣶⣬⡀⢻⣿⡎⢳⣄⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣠⡶⢋⣿⣿⢁⣡⣴⣶⣿⠿⠃⢠⣾⠋⠀⠀⠀
+⠀⠀⠀⠀⠈⢻⣧⡀⠈⢙⠿⣿⣿⣷⣿⣷⡄⢿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢁⣼⣿⣵⣿⣿⠿⢟⠁⠀⣰⣿⠃⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠹⣷⣄⠈⢳⣤⣈⣉⠉⠙⠛⠆⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠱⠞⠛⠉⣉⣁⣠⡴⠃⢀⣴⡟⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⡀⠈⠛⠿⣿⣿⣿⣿⣿⣿⣶⡿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⢿⣷⣾⣿⣿⣿⣿⣿⠿⠟⠋⢀⣴⡿⠋⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⣦⣄⠀⠰⣬⣉⣉⣉⣉⣀⣤⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣤⣀⣉⣉⣉⣉⣩⠴⠀⢀⣴⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣷⣤⡈⠙⠛⠿⠿⢿⠿⠿⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠻⠿⠿⠿⠿⠟⠛⠁⣠⣶⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣷⣦⣀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⢀⣠⣶⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⢶⣤⣄⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣤⣴⠾⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠟⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- porno
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣾⣷⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⠛⢿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣠⣴⣶⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠘⣿⣿⣿⣿⣿⣿⣷⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣀⣤⣄⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣿⣿⣿⣿⢿⠀⠈⠉⠀⠀⠀⠀⠀⠉⠙⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠸⢿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣾⣿⣶⣿⣦⡀⠀⠀⠀
+⠀⠀⠀⠀⣾⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤
+⠀⠀⠀⠀⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⠿⠿⠉⠉⠉
+⠀⠀⠀⣸⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠚⠻⠿⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⠿⠟⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+⠶⠶⣶⣿⣆⠀⠐⠙⠛⠛⠳⠂⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠀⠀⠈⠙⠦⢄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠉⠉⠑⠒⠲⠤⠤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠞⠁⣠⠔⠉⠀⠀⠀⠀⠙⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠑⠒⠤⢄⡀⠀⠀⠀⠤⡀⠀⢶⡏⠀⡰⠁⠄⢀⣀⠀⣀⣀⡤⠤⠂⠀⠰⣄⠁⠀⠀⣀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠦⣠⣤⣼⣦⣀⣧⠀⡇⢀⣤⣾⣯⣽⣄⠀⢀⣀⡠⢶⡀⠈⣳⠖⠊⠁⠀⠀⠀⠀
+⠓⢦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣤⣧⡀⠉⠹⠿⣿⡏⠠⣸⣿⠟⠉⠁⠀⠀⣀⡠⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀
+⣷⣶⣾⣿⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠴⠋⠀⠀⣿⣶⣟⣻⣀⠀⣀⡁⠀⠀⢠⡀⠀⣄⣀⣉⡹⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢥⣤⣤⣤⣤⣬⠹⠛⢶⣦⣤⠤⠤⠴⠖⠒⠉⠁⠀⠀⠀⢀⠟⠉⠉⠉⠙⢠⠋⣹⠆⠀⠘⠓⠾⡩⠟⠉⠀⢰⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣶⣦⣭⣽⣛⣛⣿⣿⡴⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡎⠀⠀⠀⠀⢀⡇⡴⠃⠀⠀⣀⠴⠊⠀⠀⠀⠀⠀⠙⠳⢤⣀⣀⣀⣀⣠⣤⣾
+⠉⠻⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣧⠤⠖⠶⠟⠻⠛⠻⢶⠖⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠋⢹⣿⠟⠛⠉
+⣦⣄⣈⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣎⠀⠀⠀⠀⠀⠀⣠⠖⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡿⠒⠲⠤
+⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡔⠋⢁⡬⠛⠉⠉⢑⠖⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⣷⡀⠀⠀
+⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡏⠀⢀⠎⠀⠀⠀⢠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠸⣿⣷⣄⡀
+⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⣸⠀⠀⠀⢠⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⣿⣿⣿⣁
+⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⢠⡏⠀⠀⣠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⢻⠹⡿⣿
+⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⡸⣿⣠⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⢸⠀⠹⠌
+⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠉⢻⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⢸⠀⠀⠀
+⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠐⠀⠀⣼⠀⠀⠀
+⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⠀⡷⠀⠀⠀
+⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⣸⠇⠀⠀⠀
+⣿⣿⣿⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡏⠀⠀⠀⠀
+⠿⠋⠁⢀⣹⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡞⠀⠀⠀⠀⠀
+⢀⡤⠖⠉⠀⠀⠹⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢸⣬⣿⠷⠶⠶⠤⢤⣤⣤⡤⣤⣹⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣿⣿⠟⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⡠⠤⠒⠋⠉⠀⠀⠀⠀⢀⡴⠞⠋⣀⡴⠞⠋⠻⢿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣿⣿⣿⢁⠆⠀⠀⠀⠀⠀⠀
+⠒⠁⠀⢀⡀⠀⠀⠀⠀⣠⡴⠞⣉⣠⠴⠚⠁⠀⠀⢀⣴⣿⣿⣿⣿⣶⣦⣤⣤⣀⣤⣤⣤⣤⣶⣿⣿⣿⣿⣿⣿⣷⠃⠀⠀⠀⠀⠀⠀⠀ᶠᶸᶜᵏMe����CUM NOW! ��╰⋃╯ (◕ε◕*)ᶠᶸᶜᵏᵧₒᵤ!(   ͜.人   ͜.）
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⡤⢤⣀⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣠⢶⠞⢩⣧⡨⠿⠿⢿⡝⠯⠛⠶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣶⠟⠍⠁⢒⠿⡠⠖⠉⠉⢙⣷⠀⠀⠀⠈⠩⣲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢤⡿⣥⡖⣲⣿⣿⣞⣁⣀⠴⢚⣿⠛⣷⡈⣆⠀⠱⡌⠉⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢰⡿⢛⣶⣿⣿⣿⠋⣹⣟⣁⣴⣾⠃⢀⡏⠇⠸⡀⠀⢱⠀⢈⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣿⡇⡘⣾⣿⣿⡇⣸⡯⠽⠟⢋⣉⠑⡞⠀⡼⢠⢧⠀⠀⡇⠈⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠐⡿⢰⢁⡟⠀⠉⣰⠙⡿⣷⣶⢦⡄⢰⠁⢰⠃⣸⡌⠀⢸⠃⢀⢾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣷⢸⢸⢧⡰⢼⣿⡀⠉⠀⠈⠀⠀⠀⢧⢇⣸⣳⠁⡰⢃⠀⣸⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢿⣿⡸⣼⡝⢦⠣⠁⠀⠀⠀⠀⠀⠀⠘⠙⠻⢥⠞⢁⠜⣰⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⢿⢿⣼⣇⠘⣧⡀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⣼⣧⣾⡷⠛⢿⠓⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠸⠺⣿⣿⣇⣿⠙⢦⡀⠀⠀⠀⠀⠀⠀⢀⣼⡿⠋⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⡤⠶⠶⠿⢿⣿⡇⠀⠀⠈⠓⠤⣤⡤⠖⠊⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⡴⠋⠀⠀⠀⠀⠀⠙⠓⠤⠄⣀⡀⠀⢸⣷⣦⡤⠤⠖⠒⠒⠢⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⠃⠀⠀⠀⠀⠀⢀⢆⡀⠀⠂⠒⠒⠒⠻⠦⣄⡀⠀⢀⠢⠤⠤⢄⡹⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⡚⠀⠀⠀⠀⠀⠀⡸⠋⠀⠀⠀⠀⠀⢀⠀⠀⠀⠈⠳⡄⠀⠀⠀⠀⠀⠈⠉⠳⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⢹⠀⠀⠀⠀⠀⢠⠇⠀⠀⠀⠀⠀⠀⠻⠇⠀⠀⠀⠀⠙⡄⠀⠀⠀⠀⠀⠀⠀⢬⣱⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⣇⠀⠀⠀⠀⢸⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀
+⠀⠻⡄⠀⠀⠀⠀⢇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣷⠀⠀⠀⠀⠈⡦⣀⠀⠀⠀⠀⠀⠀⠀⣀⠠⠖⠋⠈⠳⣄⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠹⡄⠀⠀⠀⠀⢸⠈⠉⠒⠒⠒⠊⠉⠁⠀⠀⠀⠀⠀⠀⠈⠳⣆⡀⠀⢀⡴⠟⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢥⠀⠀⠀⠀⢸⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⡿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢸⡄⠀⠀⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⣷⠀⠀⠀⠀⡹⣿⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠀⠛⢧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣿⠄⠀⠀⠀⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠱⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠭⠄⠀⠀⡰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⡄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠸⡆⠀⢰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⢄⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢻⣄⡎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠢⡱⡄⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠁⠙⡄⠀⠀
+⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠃⠀⠀⠀⠀⠹⡄⠀
+⠀⠀⠀⠀⢀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⠀⠀⠹⠀
+⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⡀⠀⠀⠀⠀⠀⠀⠀⡞⠀⠀⠀⠀⠀⠀⠀⠀⢳
+⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⡀⠀⠀⠀⠀⢀⡇⠀⠀⠀⠀⠀⠀⠀⠀⢸
+⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡄⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈
+⠀⠀⠀⠀⠘⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡆⢀⣾⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡏⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠀⠄⠀⠀⢀⢀⣀⣀⣀⣀⡀⢶⣄⢸⣷⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⠈⣟⠈⠻⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡿⠀⠀⠀⠀⠀⠀⢘⡆⠀⠀⠀⠀⣿⡃⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡅⢀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠈⠧⠀⢻⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⢠⠀⠀⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠃⠀⠀⠁⠀⠀⠀⡄⠀⠀⣶⠀⠄⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡀⠀⠀⣀⠀⠀⢀⡇⠀⠀⢻⠀⡆⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⣿⡇⠀⢠⡟⠀⠀⢸⠀⠀⠀⠘⡀⣿⠀⠀⢰⠀⣿⡇⠶⠶⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠶⠟⠛⢻⣿⡿⠀⣾⡇⢰⡇⣿⠀⠀⢠⠀⠱⣿⠀⠀⢸⠀⢹⣷⠀⠀⠀⠉⠙⠻⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠉⠀⠀⠀⠀⣾⡿⠁⣰⢻⠇⢸⣇⡏⠀⠀⢸⠀⢸⢸⠀⠀⢸⠀⠘⣿⡀⠀⠀⠀⠀⠈⠻⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡞⠁⠀⠀⠀⠀⠀⠄⣿⡇⠀⠁⡿⠀⠀⢹⣇⠀⠀⢸⠀⠸⡏⡇⠀⢸⠀⠀⢻⣧⠀⠀⠀⠀⠀⠀⠘⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡅⠀⠀⠀⠀⢠⡖⣸⣿⠁⣸⢸⡇⠀⠀⣼⡏⡀⠀⢿⠀⠀⠁⣿⢰⣾⡇⠀⠀⣿⡆⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⠀⠀⠀⠀⡖⢠⣿⡇⠀⠃⣾⡇⠀⢠⣿⠀⡇⠀⢸⡆⠀⠀⣿⡆⢻⣿⡀⠀⢻⣿⡄⠀⢠⠀⠀⢸⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣦⠀⠀⢰⣧⣾⡟⠀⠀⢠⡿⠀⠀⣾⡿⢰⡇⠀⢸⣷⡀⡄⣿⣷⠀⣿⣧⠀⠈⢿⣷⡀⠀⠀⢀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣇⢠⣾⣿⣿⣶⣬⣤⣼⣧⣠⣤⣟⣠⣾⡇⣴⣾⣿⣿⣿⢸⣿⣧⣷⣿⣷⣦⣼⣿⣷⣤⣀⠸⢿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣟⠉⠀⠀⠀⠀⠀⠚⠳⠮⠙⡛⠿⣿⣿⣿⣸⣿⣿⡿⠿⠏⠁⠀⠀⠀⠈⠀⠀⠐⠈⣍⣛⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠶⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠀⠙⣟⣻⠿⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣨⣿⣿⣿⣿⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡍⢳⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣾⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡇⠀⠙⣧⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣴⠿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣩⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠈⢧⡀⠀⠀⠀
+⠀⠀⠀⢀⣼⠁⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡏⠙⠿⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣧⠀⠀⠀⠘⢧⡀⠀⠀
+⠀⠀⠀⣸⡇⠀⠀⢻⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠘⣷⠀⠀
+⠀⠀⠀⣿⠁⠀⠀⠸⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡿⠠⣤⣤⠀⢻⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⡏⠀⠀⠀⠀⠀⢹⡆⠀
+⠀⠀⢸⣿⠀⠀⠀⠐⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠁⠀⣿⢹⠀⠈⢿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠁⠀⠀⠀⠀⠀⢸⡇⠀
+⠀⠀⢸⣿⡀⠀⠀⠀⠹⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡿⠀⠀⣿⢸⡇⠀⠸⡿⠟⢶⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⡇⠀
+⠀⠀⢸⣿⡇⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⣿⡇⠀⠀⣿⣈⡇⠀⠀⣷⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢸⣿⠀⠀⠀⠀⠀⠀⢀⡇⠀
+⠀⠀⢸⣿⡇⠀⠀⠀⠀⢘⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠛⠶⣦⣼⣿⡇⠀⠀⢻⣿⠁⠀⠀⣿⣄⣤⣤⣄⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣨⣸⡟⠀⠀⠀⠀⠀⠀⢸⡇⠀
+⠀⠀⠀⢻⣿⡄⠀⠀⠀⠀⢻⡇⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⡄⠀⢀⣿⠀⢠⣶⣿⣿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⣼⠃⠀
+⠀⠀⠀⠘⣿⣧⠀⠀⠀⠀⢸⣿⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣷⠀⢸⣿⠀⣰⣿⡟⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣴⣿⠃⠀⠀⠀⠀⠀⢰⡟⠀⠀
+⠀⠀⠀⠀⢹⣿⡆⠀⠀⠀⢸⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣦⣾⣿⣸⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⣿⡿⠀⠀⠀⠀⠀⢀⡞⠀⠀⠀
+⠀⠀⠀⠀⠈⣿⣿⠀⠀⠀⠀⠹⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢸⣿⡇⠀⠀⠀⠀⢠⣾⠃⠀⠀⠀
+⠀⠀⠀⠀⠀⠸⣿⣇⠀⠀⠀⠈⢿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢺⣿⡛⢻⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣮⣿⣿⠃⠀⠀⠀⢠⣿⡏⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢹⣿⡄⡀⠀⠀⢢⢻⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⡈⢹⣿⡟⠀⠀⠀⢀⣿⣿⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢻⣿⡇⠀⠀⠀⠘⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣧⣿⡿⠁⠀⠀⠀⣸⣿⡏⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⠀⠀⠀⠀⠘⣿⣇⢠⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⠁⠀⠀⠀⣠⣿⡏⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⣀⠀⠀⠀⢘⣿⣯⠡⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⡇⠀⠀⠀⣠⣿⡟⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⢷⡄⠀⢀⠹⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⣀⡶⢷⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⢀⣤⣶⣿⣿⣿⣿⣧⠀⢠⣶⣿⣽⠇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣷⣦⣀⡰⢶⣿⣿⣷⣄⡄⢀⣀⣤⣤⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣅⣀⣀⣀⣼⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⢘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⠀⠸⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡇⢘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣾⣿⣿⣿⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣷⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣿⠇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣷⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡜⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡇⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⣿⣿⣿⣿⣿⣿⠇⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣧⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⡏⢸⣿⣿⣿⣿⣿⣿⣿⡌⠻⢿⣿⣿⣿⢿⣿⣿⣿⣿⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣸⣿⣿⣿⡟⠛⠃⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⢹⣿⣿⣾⣿⣿⣿⡏⠀⠀⣾⡿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣸⣿⣿⣿⣷⣿⣿⣿⣿⣶⡆⣰⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⢿⣿⣿⠃⢀⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⡟⣻⣿⣿⣿⣿⣿⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⢹⣿⣿⣇⢿⣿⣤⣾⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠈⣿⣿⣿⡄⣿⣿⠟⣼⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⣾⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣀⣂⡀⢠⣿⣿⣿⣿⡟⢷⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣾⢿⣿⣿⣿⠃⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⢙⠃⢸⣿⣿⣿⣿⡇⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠇⣼⣿⣯⡿⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⠀⠘⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⡿⠁⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⣽⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠟⣿⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⡿⠟⠁⠀⠀⠉⢹⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠏⢠⡏⠀⠀⠀⠈⣿⣿⣿⠿⠿⠋⠉⢻⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠈⣿⣿⠋⠠⠀⠀⠀⠀⠀⠀⢸⣷⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡇⠀⠀⠀⠀⠀⠀⠹⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⢹⣿⠀⠀⠀⠀⠀⠀⠀⠀⠠⣾⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⡀⠀⠀⠀⠀⠀⠀⠀⢰⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⠀⠀⠀⠀⠀⠀⠀⠹⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡇⠀⠀⠀⠀⠀⠀⠀⢸⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠋⠀⣤⣄⣀⠀⠀⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡇⠀⠀⠀⠀⠀⠀⠀⢸⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠷⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠿⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠤⠖⠶⠶⠶⠶⠶⠤⠶⠶⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⣶⣤⡀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⡆⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⠟⠁⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣬⣉⠉⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⣤⣍⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⢿⣿⣿⣷⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⡟⢀⣿⣿⣿⣷
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣧⣾⣿⣿⠟⠁
+⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⣶⣶⣄⠀⠀⣸⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⡟⠀⠹⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⠇⢿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⠁⠀⣀⣈⠻⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⠟⠀⢸⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣧⣾⣿⣿⣷⣜⢿⣿⣿⣧⠀⠀⠀⠀⢀⣀⣈⡙⠛⠛⠋⠁⠀⠀⢸⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⡟⣿⣿⣿⣿⣿⣿⣧⣝⣛⣡⣶⣶⣾⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⡇⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⡇⠀⣿⣿⣿⣿⣿⠛⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⢀⣤⣤⣤⣤⣤⣼⣿⣿⣿⣿⡇⠀⢹⣿⣿⣿⣿⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀
+⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢠⣼⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠉⢀⣿⣿⣿⣤⣤⣄⣀⣀⣀⡀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀
+⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠻⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⠤⠶⠶⠛⠛⠉⢹⡇⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⢰⣀⠀⠀⠀⠀⠀⠈⠹⣆⢱⡄⠀⠀⠀⠀⠀⠀⠉⢻⡄⠀⠘⢷⡀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀
+⠤⠄⠒⠒⠂⠋⠉⠉⡟⠉⠀⢰⠃⠀⠀⠀⠀⣿⣇⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⢸⠘⣆⠀⠀⠀⠀⠀⣄⢹⡄⣇⠀⠐⣦⠀⠀⠀⠀⠀⢳⡀⠀⠈⢳⡀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⡏⠀⠀⠀⠀⠀⣿⣽⠀⠀⠀⡇⢸⠀⠀⠀⠀⠀⢸⡆⣿⡀⠀⠀⠀⠀⠸⣧⢻⣼⠀⠀⢻⣇⠀⠀⠀⠹⣆⢿⡀⠀⠈⢷⠀⠀⠀⠀⣿⢀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠸⡇⠀⠀⡇⠀⠀⠀⠀⢠⢿⣿⡄⠀⠀⡇⢹⡄⠀⠀⠀⠀⠀⣿⡟⣧⠀⠀⠀⠀⠀⢹⣷⢿⠀⠀⢸⠸⣧⠀⠀⠀⢹⣎⢧⠀⠀⠈⣧⠀⠀⠀⠀⠀⠙⡆⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⢠⡇⠀⠀⠀⠀⣼⠀⠹⣧⠀⠀⢻⢸⣇⠀⠀⠀⠀⠀⢹⡇⢻⡄⠀⠀⠀⠀⠀⣿⣿⡄⠀⣼⠶⣿⡄⣠⣄⡀⣿⣾⡆⠀⠀⠸⣇⠀⠀⠀⠀⠀⠸⡀⠀
+⠀⠀⠀⠀⠀⠀⢰⣟⢷⠀⢸⡇⠀⠀⠀⠀⣿⠀⠀⠸⣇⠀⢸⣼⣿⠀⠀⠀⠀⠀⣄⣷⣾⣿⡿⠟⠛⠛⠳⣿⡘⣷⢀⡿⠀⠀⠷⠇⢹⡝⢿⡜⣿⠀⠀⠀⢻⡀⠀⠀⠀⠀⠀⢠⠴
+⠀⠀⠀⠀⠀⠀⣼⣿⡸⡇⠸⡇⠀⠀⠀⠀⢻⡀⠀⠀⠹⣦⢀⣿⣿⡆⠀⠀⣀⣀⣿⣿⡏⠁⠀⠀⠀⣀⣰⣀⣽⣻⡼⠁⠀⠀⠀⠀⠈⣷⠈⠇⢻⡇⠀⠀⠈⣇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⡿⠻⢷⣽⡀⢧⠀⠀⠀⠀⢸⡿⠿⠗⠂⣿⢮⣿⡀⢿⣴⠞⠋⠉⠉⠉⠛⠠⢶⣲⡿⠿⠛⣁⣈⣬⣭⣄⣀⣀⠀⠀⠀⢸⡇⠀⠈⠃⠀⠀⠀⢻⡄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⡀⡇⣠⣴⢷⣷⣸⡀⠀⣀⣀⡘⡇⠀⠀⠀⠘⣯⠛⢷⡌⢡⣤⠤⣤⣤⣆⣠⣴⡿⢋⣤⣶⣿⣿⣿⠛⠛⠛⠻⠿⣿⣶⣴⠀⣿⠀⠀⡄⠀⠀⠀⠘⣷⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⠀⡿⠛⠁⠀⠉⠻⣷⠋⠉⠉⠉⢿⡀⠀⠀⠀⢿⣆⡀⠙⠋⠀⠀⠀⠀⠉⣹⢏⣴⣿⣿⡿⠟⠁⣼⠀⠀⠀⠀⠀⠀⠹⣿⡟⣿⠀⢀⡇⠀⠀⠀⠀⢹⣧⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠘⡆⣿⡀⠀⠀⠀⠀⣈⣤⣤⣤⣤⣴⣧⠀⠀⠀⠈⢻⡇⠀⠀⠀⠀⠀⠀⠀⢩⣾⡿⢷⣄⣀⣀⡴⠃⠀⠀⠀⠀⠀⠀⢠⡿⠁⢸⠀⢸⠀⠀⣤⠀⠀⠘⣿⡆⠀⠀⠀⠀
+⣄⡴⠶⠶⣶⣧⢿⠀⢀⣴⣾⣿⣿⣷⣶⣶⣶⣯⣿⢷⡄⠀⠀⠘⠁⠀⠀⠀⠀⠀⠀⠀⠸⠟⠀⠀⠈⠘⠁⣀⣀⣤⠤⠤⠤⢄⣠⠞⣁⠀⢸⠀⣿⡀⠀⣻⠀⠀⠀⣿⣷⠀⠀⠀⠀
+⠉⠀⠀⠈⣿⣿⣿⣷⣿⣿⠟⠉⠉⢿⡛⠻⠿⠿⣟⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣶⡿⣷⠖⠻⠟⠛⠟⢋⡵⢋⡘⡳⢸⣴⣟⡇⠀⡟⠀⠀⠀⢸⣿⣇⠀⠀⠀
+⠀⠀⠀⢰⣿⡿⣿⣿⣿⡅⠀⠀⠀⠀⠙⠷⠴⠶⠋⠀⠀⠀⢘⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣷⡶⢟⣠⠟⢃⡠⢂⡴⢋⣴⣯⠞⣡⣾⠏⢿⡇⢠⡇⠀⠀⠀⠀⡏⢻⡇⠀⠀
+⠀⠀⢰⠘⣿⠀⠘⢻⣿⣥⡀⠀⣀⣠⣤⣤⠤⢤⡤⠄⢀⡴⠋⠙⣆⠀⠀⠀⠀⠀⠀⠀⣠⢞⡵⡿⠋⣠⠞⠃⠀⢉⡴⠋⡰⢋⡼⣣⢞⡱⠋⠀⠈⢿⣼⠀⡄⠀⠀⠀⡇⠀⢿⣧⠀
+⠀⠀⢸⡀⢻⡆⡀⠀⢛⡯⢩⣿⠟⣉⡽⠃⣠⢞⡔⣠⢏⡤⠀⠀⠈⠂⠀⠀⠀⠀⢀⠜⠑⡋⠈⠀⠚⠁⠐⠀⣠⠞⠀⠘⣱⠛⠊⠡⡿⢰⠀⠀⠀⣰⡇⠀⡇⠀⠀⠀⡃⠀⠸⣇⣆
+⠀⠀⠘⣧⠸⣿⡇⠀⠩⢤⡾⢣⣤⡿⢥⡾⣡⢞⡴⠃⠈⠀⠀⠀⠀⠀⠀⠀⠀⠐⠁⠈⠀⠀⠀⠀⠀⠀⠀⠘⠁⠤⣠⠞⠁⠀⠀⠐⠷⠟⠀⠀⣠⠏⠀⣰⡏⠀⠀⠀⠀⠀⠀⢻⡜
+⠀⠀⠀⣿⢰⡹⣿⡄⠀⡼⣵⣿⠋⣰⠟⡴⣫⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠁⠀⠀⠀⠀⠀⠀⠀⢀⣴⠋⣠⢾⡿⡇⠀⠀⠀⢀⠀⠀⢸⣿
+⡄⠀⠀⣿⣿⣷⣿⣧⠆⠀⡽⠃⡼⠃⢈⡽⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡤⠴⠲⢤⣤⣀⠀⠀⠀⠀⠀⣠⡾⠁⠀⠀⠀⠀⠀⠀⣀⣴⣿⠵⠋⠁⣸⠡⡇⠀⠀⠀⠸⡀⠀⡸⢿
+⡇⠀⠀⢹⣿⣿⣟⠿⣶⡌⢠⡞⠁⠀⠞⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠋⣁⣠⣤⣤⣶⣶⣦⣌⢉⣷⣶⣶⣿⡿⠀⠀⠀⠀⠀⠰⠖⠛⠋⠉⠀⠀⠀⠰⢿⠀⡇⠀⠀⠀⠀⠁⠐⠁⠀
+⣿⡀⠀⠀⢿⣻⣿⣇⠈⠙⠿⢤⣤⡄⠀⠀⠀⠀⠀⣶⣄⣠⣾⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⠀⣧⠀⠀⠀⡀⠀⠇⠀⠀
+⠈⣷⡀⠀⠈⢷⡻⣿⡆⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⡇⣿⠀⠀⠀⡆⠀⠀⠄⠀
+⠀⣿⡿⣤⣀⠀⠻⣿⣿⣄⠀⠀⠀⣄⠾⡄⠀⠀⠀⠀⠀⠹⣿⣿⡿⠋⠈⠻⣿⣿⣿⠟⠉⠀⠀⠈⢿⡿⠁⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⠀⠀⠀⡇⠀⠀⠀⡀
+⣠⣿⡇⠀⠈⠓⢦⣀⡙⠻⣆⣀⠀⠙⢛⣣⡄⠀⠀⠀⠀⠀⠹⣿⡇⠀⠀⠀⢻⡿⠁⠀⠀⠀⠀⠰⢿⠀⠀⠀⠀⠀⠀⠀⠀⠘⠦⠆⠀⠀⣠⣾⣿⣿⣿⡿⣿⡇⠀⠀⣇⠀⠀⠀⢳
+⣥⣿⠁⠀⠀⣠⣿⣿⣿⣶⣶⣿⣟⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⣾⡇⠀⠀⠀⢀⢈⣷⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⡇⠈⣿⠀⣤⣿⡀⠀⠀⠀
+⣿⡁⠀⣠⡾⣿⣿⣿⣿⡿⣿⣻⡏⠓⢦⣄⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⡟⠀⠀⠀⠀⠎⠉⡼⠻⡄⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣹⣷⣶⠈⢣⣿⡾⢱⣦⡀⠀
+⠈⠙⠛⢿⣿⣶⣷⣶⣶⣶⣄⣽⣿⠀⠀⣿⣷⣤⡀⠀⠀⠀⠀⣷⠀⠀⠀⢠⣯⠀⠀⠀⠀⠀⣼⠳⣶⠟⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣀⣽⣿⣿⣿⣿⣿⠀⡾⣿⣷⣌⠻⣿⣦
+⠀⠀⠀⠀⠈⠙⠻⢿⣿⣿⣿⣿⠏⠀⣴⡿⣿⣿⣿⣶⣄⡀⠀⠹⡄⠀⠀⠀⠉⠀⠀⢀⣤⠞⠁⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣸⣿⣿⠏⣻⣆⠈⠉
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⣧⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⣳⠀⠀⠀⠀⠀⣴⡏⠀⠀⠀⠀⠀⢀⣠⣴⣿⠿⠿⢿⣿⣿⣿⡿⠿⠟⠛⠉⠉⠁⠀⠀⢠⣿⣿⣿⠆⠉⠿⣧⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⢯⡛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡠⠀⠀⣸⡟⠀⠀⠀⢀⣠⡴⢟⣉⣤⡤⠶⠟⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⡁⠄⠁⠄⠙⢷
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⠀⠉⠛⠛⠉⠙⠛⠋⠉⠳⣌⠉⠘⣧⣤⣶⡿⣛⣿⡾⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡏⠁⠄⠁⠄⠀⠄
+⠀⠀⠀⠀⠀⢐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢑⣶⣄⠀⣀⢀⠀⠀⠀⠀⠀⢙⡇⠀⣿⢋⡉⠚⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⠄⠀⠀⠀⠄⠀⠄
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡁⠀⠀⣤⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡶⠋⢀⣴⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠋⠀⣠⣿⣿⣿⣻⣿⠛⣿⣿⢿⣷⡀⠀⠲⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠀⢀⣾⡿⢻⣿⡟⡛⠀⣼⢹⣿⡌⢷⠻⡄⠀⠈⢻⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡞⠁⢀⣴⣿⠛⢡⣿⣿⡷⠀⠆⠀⠀⣿⣿⡘⡇⠘⡄⠀⠀⢹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠋⠀⠴⣿⠋⣁⡤⣸⣿⣿⡼⠃⠆⠀⢠⣿⢩⠁⢻⡀⢻⡀⠀⠀⠝⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡤⠶⠖⠋⠉⠳⣦⣾⠃⣠⡟⣰⠇⣾⣿⡇⠀⣀⣀⣸⡇⠀⢷⠀⠁⠀⢧⣴⠞⠉⠉⠙⠒⠲⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠖⠋⠁⡄⠀⠀⠀⢀⠀⢸⡅⢰⠏⡴⡅⢰⣿⢸⡄⠇⠷⠒⣿⠁⠀⣼⣇⠀⠀⠀⣧⠀⠀⣄⠀⠀⢳⡀⠈⠙⠦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠞⠉⠀⠀⠀⠀⣇⠀⠀⠀⠀⣠⣿⡇⢸⡄⢱⣧⠸⣿⡼⣷⠄⠀⣠⡿⡸⠀⣾⠈⢸⠀⠀⠹⣆⠀⠀⠙⠶⣾⠃⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣀⡤⠶⠋⠁⠀⠀⠀⠀⠀⠀⠘⣆⡉⣲⣾⣿⠿⡃⠈⣷⡘⠜⣆⠹⣷⠿⡇⢰⡿⢠⡇⢰⣇⠀⠀⠀⠀⠀⠻⢿⣄⡀⠰⠁⠀⠀⠀⠀⠀⠀⠀⠉⠓⠦⣄⡀⠀⠀
+⣀⣀⣀⡤⠶⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣨⣿⠿⠍⠑⠈⠉⠀⠘⣧⠀⠸⣦⡹⣷⣿⠋⢀⡟⢰⣿⡏⠈⠀⠀⠀⠀⠀⠂⢈⢿⣍⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠩⠗⠦
+⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⡀⠁⠀⠀⠀⠀⠀⢹⡝⡄⠹⣷⣿⣿⣀⡿⣴⣿⣿⠁⠀⠀⣴⠀⠀⠀⠀⠈⣼⣿⡷⣄⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡼⠋⠈⢿⡇⠇⠀⠀⠀⠀⠀⠠⡀⠻⣾⡀⢹⡿⣿⣿⣱⣿⢻⠃⣶⠠⡾⠁⠀⠀⠀⠀⠀⢸⢿⠃⠈⠓⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠟⠉⠀⠀⠀⠈⣿⠠⡀⠀⠀⠀⠀⠀⢳⣤⠸⡻⣾⣿⢻⣻⣿⣿⢆⡾⠀⠸⠀⠀⠀⠀⠀⠀⠀⢿⡟⠀⠀⠀⠀⠈⠛⢦⣀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣠⡴⠛⠁⠀⠀⠀⠀⠀⠀⠀⢸⡇⢀⠀⠀⠀⠀⠀⠀⠻⣇⠀⢿⣷⠀⠈⢸⣿⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠃⠀⠀⠀⠀⠀⠀⠀⠈⠳⢤⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⠞⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡇⠀⠀⠀⠀⠀⠀⠀⠀⠸⣦⠘⣿⠀⠀⢸⡟⢀⡶⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀
+⠀⠀⠀⠀⣠⡾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣇⢻⡄⠀⣾⠃⣼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢆⠀
+⠀⠀⣠⠾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣾⠁⢠⣿⣾⠃⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠓
+⡤⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣹⣿⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡀⢈⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣇⣻⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢴⡿⠛⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢻⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣀⣀⣀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⣠⣄⣠⣖⣠⣴⣾⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠠⢄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⢉⣶⣦⣄⣀⣀⠀⠀⠀⣠⣤⣶⣶⣶⠤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⡿⠋⠉⠉⠀⠈⣩⣿⣾⣿⢋⣉⠻⡟⣻⣿⣶⣿⣦⣀⣠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣆⠁⠀⠀⠀⣠⣴⣿⣿⡏⢰⢴⣯⢿⣽⣿⡿⠏⣉⣿⣿⣯⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⠀⠀⣰⣿⣏⣾⡟⣷⣿⡶⢿⣧⡹⣿⣿⣀⠸⣿⣿⣿⠿⣿⣷⣄⠀⠀⠀⠀⠀⠀⣠⠴⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠻⡀⠈⢷⠀⣿⣉⣻⣼⣷⢿⣿⣷⣾⡹⣿⡽⣿⣿⣄⣸⣿⡝⣷⡙⢻⣿⡳⣄⣀⣠⡴⠚⠁⠀⠀⠀⠀⠀⢠⠴⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠳⣄⠀⠀⠀⠳⡀⠈⣷⣿⣼⣿⣿⣿⣄⡉⣿⣿⣇⣿⣿⣿⡆⠛⠻⣿⣿⢸⣷⣿⣿⣷⣬⡿⠁⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣤⡀⠀⢷⠀⢹⣿⣿⣿⣿⠋⠀⠀⠉⢻⣿⣿⣿⣿⠁⠀⣶⣿⣿⣿⣿⣻⣿⣿⣿⡄⠀⠀⠀⠀⠀⣠⡾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣟⣄⠈⣧⣿⣿⣿⣇⠀⢀⣀⡤⠀⠀⣿⣿⣿⣿⠀⡀⣿⣿⣿⣿⣟⣿⣿⣿⢿⢻⡄⠀⣀⡴⣾⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠒⠶⠦⣄⣀⣹⣯⣶⣿⣿⣿⣿⠿⠀⠉⠉⠀⠀⠀⣿⣿⢿⣿⣦⣿⣿⣿⣿⣿⡆⣿⣿⣿⣸⠀⣏⠉⢁⣼⡟⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢻⡇⢿⠀⣿⣿⣧⠀⠀⠀⠀⠀⠀⠰⠿⠉⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⢻⣠⡞⡜⠀⣠⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠈⠁⠀⢷⢿⣷⣶⠆⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣻⣧⢴⢾⠿⢮⣁⣴⣟⣥⣶⣶⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡄⠀⠀⠀⠀⠻⠿⣄⣀⣀⣀⠤⣾⣻⣿⡿⣿⠟⠸⣿⣿⡿⣿⣿⢋⣽⠃⡞⠘⠀⠀⡟⣿⡛⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⠀⢠⠎⠀⠀⠀⠀⠀⠀⠀⠀⠉⠟⠉⠴⠋⠀⠀⢿⡛⠘⠋⠉⠉⠛⠚⠀⠀⠀⠀⢁⡿⠗⠲⠦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠐⠶⠦⠤⣄⣀⣀⣀⣀⣀⣀⣨⡷⣹⠀⠀⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠒⠒⠒⠒⠶⠶⣛⠛⣧⡇⠀⠀⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣤⣤⣤⠤⠤⡤⠤⠄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣄⠀⠀⠈⠳⣿⢷⠀⠀⣸⠃⠀⠀⠀⠀⠀⣠⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡶⠀⣾⡇⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠈⠓⢦⣀⣠⡟⣸⠀⢀⠏⠀⠀⠀⠀⠀⠸⠋⠀⠀⠀⠀⢠⠆⠀⠸⣄⠀⠀⠀⠀⢀⣾⠁⢰⣿⣁⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠓⠶⣤⣀⣀⠙⣿⣧⠇⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠀⠀⠀⠉⢳⠀⠀⠀⢸⠇⠀⣿⠏⠁⠀⠉⠉⠉⠐⠒⠄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⡠⠀⠀⠀⠀⠀⠀⠀⠉⠛⠷⣾⡿⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠁⠀⠀⠀⠀⠀⠀⠀⠀⣼⠀⢼⡟⠲⠦⢄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣽⠃⠀⠀⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠁⠀⠀⠀⠀⠀⠀⠀⠀⢠⡏⣸⣾⠇⠀⠀⠀⠉⠑⠦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠉⡿⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀⠀⠀⠀⡴⠀⠀⢀⡾⢀⠟⣿⠆⠀⢀⡀⠀⠀⠀⠀⠙⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⠤⠤⠶⠶⠶⠖⠾⣇⠀⠀⠀⢸⣷⠀⠀⠀⠀⠀⠀⠀⠀⠋⠀⠀⠀⠀⠀⠸⠁⠀⢠⡟⠁⡞⢠⠃⠀⠀⢀⠿⢶⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢠⣀⡀⠀⠀⣴⠶⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⢀⡿⡄⠀⠀⣼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⢀⡞⠁⣼⠒⠶⠦⠤⠀⠀⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠉⢧⣱⣄⣘⡶⠖⠀⠀⠀⠀⠀⠀⢀⣠⠴⠛⣡⢙⣤⠴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢦⣟⡄⠚⢀⣼⠯⢄⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡠⠴⠖⠊⠉⠀⢀⣴⡧⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣴⠿⠦⢄⡀⠀⠀⠉⠙⠲⠦⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠐⠒⢉⣉⣉⠠⠤⠴⠶⠶⠶⢶⡿⠋⣀⡤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠮⣟⠳⢦⣀⠙⠢⡄⠀⠀⠀⠀⠀⠉⠲⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⣠⡴⠶⠋⠉⠁⠀⠀⠀⠀⢀⣀⣴⣯⠶⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢧⡀⠈⠙⠦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢾⡍⠳⠦⡄⠀⠀⠀⠀⢀⡴⢋⣽⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠲⢴⡶⢦⣳⣦⣄⡀⠈⠑⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠈⠻⣦⡀⢹⡀⠀⢀⡴⠋⣠⡟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⡉⢿⣶⣏⣲⣦⡀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠈⠳⣌⣱⠞⠉⠀⣼⡻⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣦⡀⠉⠉⠙⢷⡀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢀⣴⠞⠉⣁⡀⠀⣼⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡄⠀⠀⠀⢻⡄⠀⠀⠹⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⡾⠁⢀⣾⠏⢀⣼⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣷⡀⠀⠀⠀⠹⣆⠀⠀⠘⢦⠀⠀⠀⠀⣀⣴
+⠀⢠⡞⠁⢀⣾⠇⢀⣾⣿⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡤⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⢸⣿⣧⡀⠀⠀⠀⠘⢦⡀⠀⠘⢇⣠⣶⣾⣿⣿
+⣰⠏⠀⠀⠿⠁⢠⣾⡇⢸⢸⢠⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠋⡄⢸⣿⠻⢿⣦⢦⡀⠀⠀⠹⣦⣶⣿⣿⣿⣿⣿⣿
+⠁⠀⠀⠀⠀⢠⡏⠈⣇⢸⡜⣏⢿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡞⠁⠼⠃⢰⣾⡆⠀⠈⢿⣹⣦⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⢰⣿⣤⣶⡿⠿⠿⣿⣆⠳⣄⠀⠀⠀⠀⠀⠠⣄⡀⠀⠀⢀⡞⠉⠉⠙⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⠀⠀⠀⠆⣾⢹⣷⠀⠀⢘⣷⣏⢧⠀⠀⠈⢿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⣿⠿⠃⠀⠀⠀⠀⠈⢻⣷⣌⡓⠀⠀⠀⠀⠀⠈⠉⠁⢰⣏⣴⣯⣷⡀⢻⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢪⣞⣹⣦⡽⠦⢤⣘⡟⣏⠊⠃⠀⠀⠈⢻⣿⣿⣿⣿
+⠀⠀⠀⢰⠇⠀⠀⠀⠀⠀⠀⠰⣄⡻⣎⠙⠲⠤⣄⣀⣀⣀⣀⣀⣼⡿⡿⠉⢸⣷⣀⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⠟⠁⠀⠀⠀⠘⢽⣿⡀⠀⠀⠀⠀⠀⠹⣿⣿⣿
+⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢾⣿⣦⣀⠀⠉⠉⠉⣿⣿⣿⣡⡇⠀⠀⣿⣿⠉⠓⠶⣄⣀⡀⠀⠀⣀⣠⡴⠞⣋⡾⡛⠁⠀⠀⠀⠀⠀⠀⠈⢿⡇⠀⠀⠀⠀⠀⠀⠘⢿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠳⣏⣳⣶⣄⣴⠿⡿⠟⠛⠛⠛⠛⠻⠿⢦⣄⣀⠀⠉⠉⣿⠉⠉⣁⣠⣞⡉⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡀⠀⠀⠀⠀⠀⠀⠈⢿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⠉⡉⣉⢉⣙⡛⠃⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠳⠶⢶⠿⠊⠉⠙⡒⡊⠉⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠛⣦⣣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⣾⣧⠤⠤⠤⠤⠤⠤⠤⠤⣤⣄⣀⣀⠔⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⡄⠀⠀⠀⠀⠀⣀⣶⣮⠴⣂⣴⣠⡶⣾⡿⠿⠉⠉⠾⠉⣗⣶⣤⡤⠤⠒⠀⠀⠉⠉⠉⠐⠲⢶⣤⢤⣀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⠛⢦⡵⣠⡤⠖⠛⠉⠙⠻⣿⠾⠛⠋⢁⡶⠋⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⣤⣀⡀⠀⠀⠀⢀⡤⠞⢿⠢⡈⠙⠛⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣏⡍⠀⠀⠀⠀⠐⠋⠁⠀⢁⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠢⠤⢤⣈⠉⠩⢄⡴⢋⠀⠀⠈⢧⠃⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⠓⠀⠀⠀⠀⠀⠀⠀⣦⡘⠁⠀⠀⠀⠀⠀⠀⠀⠀⢠⠐⢠⠀⠀⠀⠀⠙⠧⣴⠏⢠⡏⠀⠀⠀⠼⡄⠀⠸⢿⠀⠀⠀⠀⠀⠀⠀⢀⡀⠤⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⡠⠃⠀⠀⠀⠀⡶⣦⣀⠀⠀⠀⣿⢧⠀⠀⠇⠀⠀⠀⣄⠘⢳⣾⠀⠀⠀⠀⠂⡇⠀⠀⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⣠⠶⡾⠀⠀⠀⠀⡄⠀⠛⠛⠀⠉⠁⠀⠁⠈⢃⢠⠸⣄⠀⠘⣯⠁⠘⣯⠀⠀⠀⠀⠀⣇⠀⠐⢾⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢠⡾⣧⠀⠀⠀⠀⠀⡸⡿⡄⠀⡄⠀⣇⡀⠀⠔⠀⠀⠀⠀⠉⠛⠚⣾⡷⣾⡀⣐⢸⣿⣶⣽⠲⢄⡀⠀⠀⡿⡷⣄⠘⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣠⠏⢩⣹⡀⠀⠀⠀⢀⣿⠀⢹⠀⡃⠀⣿⡏⠀⠀⠀⠀⠀⠀⠀⡶⣶⣾⣶⣾⡉⡿⣿⣿⣷⣬⢷⠀⠀⢠⣿⣿⠃⠈⢳⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⡴⠃⠀⠈⡿⣧⠀⠀⠀⠘⠻⡏⡏⠀⣧⢰⣿⣿⡿⠙⠙⠀⠀⠀⠀⠀⠀⠸⢃⡼⣡⠉⠉⢿⣿⠘⠺⣇⠀⢸⣟⠀⣠⠆⠀⢺⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⡀⠀⠀⢸⡇⠀⠀⠀⠙⠿⣷⡤⣄⡀⠀⢧⣿⣀⣻⣇⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡿⠃⢀⠄⢸⣿⠀⠀⠉⠀⢸⣿⠂⠀⠀⠀⠀⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠤⠄⢀⠁⠀⢸⣷⡋⠀⠀⠀⠀⠀⠙⢮⡁⠀⣼⣿⠛⡟⢻⣷⣭⣦⣤⡄⠀⣀⣠⣤⣄⡀⠚⡿⠁⠀⡟⣠⣾⣿⣆⠀⠀⠀⢸⣿⣩⣆⠀⠀⠀⠸⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠻⢦⡀⠀⠀⠀⠀⠀⠘⠿⠿⢿⣄⡀⠀⠈⠙⢿⡄⠀⢰⣿⠿⠭⠿⠁⠀⡇⣀⣾⣿⣿⣿⣽⠙⠀⠀⠀⠀⠉⣫⠀⠁⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣗⢦⣀⠈⣿⡄⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⠟⣯⣻⡀⠀⠀⠀⠀⡄⠹⡀⠀⠀⠀⠀⢹⠇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣀⣀⣀⢀⣰⡟⢳⣄⡀⠀⠀⠀⣀⣂⡤⠌⠀⠩⠿⣿⣿⠛⢷⣦⣤⠞⠃⢈⣿⠿⠿⠇⠀⠈⢹⣇⣀⠀⠀⢰⣷⢰⢧⣄⡀⠀⠀⣸⣄⣀⣀⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠹⠒⢾⣭⣹⠷⠉⠈⠛⣷⣤⡾⠋⠁⠀⠀⠀⠀⠀⠈⠉⠳⣶⠈⢀⣤⠖⠋⠁⠀⠀⠀⠀⠀⠀⠙⢿⡳⡄⢸⣿⣾⣿⡛⠛⠿⠾⠟⢶⣻⡧⣄⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠉⠉⠛⠛⣿⣿⠏⠀⠀⢀⣄⣤⣄⠀⠀⠀⠀⠀⠙⣷⡿⠁⠀⠀⠀⠀⠀⣴⢶⡦⡄⠀⠀⠹⡇⢘⣿⣏⠘⠿⠆⠀⠀⠀⠀⠈⠁⢀⣤⠤⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠒⠒⠶⢾⡏⠀⠀⠀⢸⡿⣿⣿⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠈⠹⣌⠀⠀⠀⢿⣾⡿⡇⠀⠀⠀⠀⠀⠀⢴⡿⠗⠋⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⢸⡇⠀⠀⠀⠈⠉⠉⠈⠁⠀⠀⠀⠀⢀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠋⠀⠀⠀⢸⡟⣳⠇⠀⠀⠀⣀⢀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠸⡇⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⠀⠀⣰⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣄⢣⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣺⢡⠀⠀⡤⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠉⣠⠟⠀⡾⠃⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠂⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⣧⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣳⢿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠖⣴⠃⢠⠞⠁⢀⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⣄⠀⠀⠀⠀⠀⠀⠀⣸⠏⠉⣄⡄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⠛⢁⡆⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠴⠦⢹⡏⠀⠀⠀⠀⠀⢀⡴⠃⠀⠀⠈⣧⡀⠀⠀⠀⠀⠀⠀⠀⣾⡟⣰⠋⠀⠀⣸⠁⢀⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣻⡀⠀⠀⠀⣠⠞⠁⠀⠀⠀⠀⠋⢳⡀⠀⠀⠀⠀⠀⢸⡿⣿⠁⠀⠀⢸⠇⠀⠉⢸⣧⡀⠀⠀⠀⠀⠀⢀⡶⠀⠀⠀⠀
+⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠶⠶⠒⠋⠉⠉⠉⢹⡿⣄⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠉⠳⠄⠀⠀⢠⣿⠃⠛⠀⢀⡴⠏⠀⢰⡄⠈⣯⣓⣀⠤⠶⠖⠋⠉⠳⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠐⠋⠁⡀⠀⠀⠀⠀⠀⠀⠀⠈⡇⠀⠀⠀⠀⠀⠀⠀⠠⠧⠀⠀⠀⠀⠀⠀⠀⠴⠋⡽⠀⠀⣠⠞⠁⠀⠀⣿⡇⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠶⢄⣀⣀⣀⣀⣠⣴⡧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⣀⡴⠁⠀⠀⠀⠀⢿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⡆⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠙⠛⠿⡟⠀⠀⠀⠀⠀⠀⠀⠀⢰⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⠟⠀⠀⠀⠀⠀⠀⢸⢉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⢀⣰⠟⠃⠀⠀⠀⠀⠀⠀⠀⠈⡄⠀⠀⠀⠀⠀⠀⠀⣰⣿⠋⠀⠀⠀⠀⠀⠀⠀⠚⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡴⠖⠉⠀⢠⡞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠇⠀⠀⠀⠀⠀⠀⠀⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣄⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠄⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠤⠒⠋⠁⠀⠀⠀⣠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⠀⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣇⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡆⣀⡾⠟⠈⠀⠀⠀⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣯⡀⠀⠀⠀⠀⢧⠀⠀⠀⠀⢀
+⠀⠀⠀⠀⠀⠀⠀⠀⣠⠤⡟⠉⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡅⠀⠀⠀⠀⠹⣆⣠⣴⠾⠛
+⠀⠀⠀⠀⠀⣀⠴⠊⠁⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣇⠀⠀⠀⠀⠀⢹⡁⠀⠀⠀
+⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⠀⠀⠀⠀⠀⠀⠀⠀⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣺⣿⣿⣤⠀⠀⠀⠀⠀⣷⠀⠀⠀
+⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⡄⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠛⢋⣽⣇⠀⠀⠀⠀⠀⠈⡄⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠃⢦⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠞⠉⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆⠀⠀⠀⠀⠸⣆⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣴⡟⠉⠀⠀⠀⠀⠀⠀⠀⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣄⠀⠀⠀⠀⣿⡊⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⠿⠶⠆⠀⠀⠀⠀⠀⠀⠀⠀⠠⣷⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠄⠀⠀⣀⣴⠿⣄⡀⠀⠀⢘⣧⣄⠀⠀⠀⠀⢀⣠⣾⡋⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⡴⠾⢟⠛⡛⢹⣯⣴⣷⣿⣷⣐⣗⣿⣿⣏⠉⠛⠛⠋⠉⠉⣉⠻⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣧⠀
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- seu lá
+
+
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠞⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠲⡑⢄⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢮⣣⡀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠱⡀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢣⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡆⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⡤⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣹⠀
+⠀⠀⠀⠀⢀⣀⣀⣸⢧⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⣩⡤⠶⠶⠶⠦⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⡇
+⠀⠀⠀⣰⣫⡏⠳⣏⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠚⠁⠀⠀⠀⠀⠀⠀⠙⢿⣿⣶⣄⡀⠀⠀⢀⡀⠀⠀⠀⠀⠀⡀⡅⡇
+⠀⠀⢰⡇⣾⡇⠀⠙⣟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣶⠿⠛⠻⢿⣶⣤⣍⡙⢿⣿⣷⣤⣾⡇⣼⣆⣴⣷⣿⣿⡇⡇
+⠀⠀⢸⡀⡿⠁⠀⡇⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣯⠴⢲⣶⣶⣶⣾⣿⣿⣿⣷⠹⣿⣿⠟⢰⣿⣿⣿⠿⣿⣿⣿⠁
+⠀⠀⠈⡇⢷⣾⣿⡿⢱⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠹⣌⠳⣼⣿⣿⣿⣻⣿⣿⣿⣿⡇⠈⠁⢰⣿⣿⣿⣿⣶⣾⣿⣿⠀
+⠀⠀⠀⣷⠘⠿⣿⡥⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠃⠌⠉⣿⣿⣿⣿⣿⣿⠟⠃⠀⢀⡿⣿⣿⣿⣿⣿⣿⣿⡞⠀
+⠀⠀⠀⢸⡇⠀⠹⠗⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⡿⠟⠉⠉⠀⠀⠀⠈⢃⣿⣿⣿⣿⣿⣿⡻⠀⠀
+⠀⠀⠀⠈⢧⠀⠀⠏⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠁⠀⠀
+⠀⠀⠀⠀⠈⢳⠶⠞⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠆⠀⠀⠊⠁⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⠀⠀⠀
+⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⣼⣿⣀⡰⠀⠀⣤⣄⠀⠀⠀⠀⢹⣿⣿⣿⣿⢻⠀⠀⠀
+⠀⠀⠀⠀⠀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠹⣿⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠙⣿⣿⣿⡏⠀⠀⠀
+⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣄⢠⣤⣶⣤⣀⠀⢀⣶⣶⣶⣿⣿⠟⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠖⠁⠀⠀⠀⠀⠀⠻⣿⣿⣥⣤⣯⣥⣾⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣰⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠁⠀⠀⠀⠠⠀⠀⠀⠀⠈⣿⣿⣼⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⡰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠊⠀⠀⠀⣠⣰⣄⡀⠀⢀⣀⣀⣛⣟⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀
+⠀⣠⠜⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣼⠾⠛⠛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀
+⠾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡟⠀⠀⠀⠀⠠⣄⣉⣉⣻⣿⣿⣿⣿⣿⣿⡟⠧⢄⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⠅⠀⠀⠀⠀⠘⠉⠹⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠉⠓⠢⣄⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣉⣿⣿⣿⣿⣿⣿⣿⣿⣷⣻⡄⠀⠀⢀⡑⠢⠄
+
+
+
+
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⢔⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⡀⠄⠀⠀⡆⢇⠀⡸⠸⠀⡠⠻⡆⠀⠀⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⣇⠀⡆⠰⠈⠢⢀⡇⠈⠣⠁⠀⠉⠀⠑⠠⠒⢉⡣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠉⠉⠒⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⡿⠁⠑⠓⢲⡀⠀⠠⠤⠤⠀⠀⠀⠀⠀⠀⠀⠀⠘⠡⠐⡨⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠙⠲⣄⠀⠀⠀⠀⠀⢀⠀⠀⢓⠕⠂⠀⠱⠑⡤⠤⠌⠁⡀⡀⠉⠀⡄⠘⢰⠀⠀⠀⠂⠤⢄⢀⠜⣤⣄⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠑⢦⡀⠀⠀⠘⡢⠀⠀⠃⠀⠀⠀⠀⡈⠐⢂⢄⠔⢸⠀⠀⢃⢂⡞⣠⠁⠀⠂⠈⡀⠀⠀⠐⠡⠤⢴⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⣦⠤⠤⠯⡀⡀⠄⠆⠒⠂⠬⠀⠀⠐⠁⠂⢈⠌⠐⠂⠸⠀⠓⠠⠀⠰⠂⢈⠀⠢⠄⠀⡠⢓⢲⠒⠒⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢒⠂⠈⠈⠑⠠⠀⠀⠀⠀⠀⠀⠀⠟⠌⠀⠀⠰⢀⢆⠌⠘⠠⠉⢄⠃⣀⢂⣈⠉⠀⡈⣕⢁⡀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠣⠃⢀⠀⡠⠃⠀⠀⢀⠃⠄⠀⠀⠜⠀⠀⢀⢃⢤⠀⠀⡀⠀⠀⢠⠀⠀⠀⡀⠛⠃⠀⠀⣣⠛⠄⠀⠀⠀⠻⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢤⠈⠤⠮⠀⢄⠀⠄⠸⢸⠀⡇⢀⠀⡀⢀⡎⡅⢸⡸⠀⡇⣀⠀⢹⢰⡇⠀⣧⠔⣄⠐⢾⡷⠂⠘⣆⠀⠀⠀⠀⠑⠠⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠄⡡⠬⠅⡈⢄⠊⠀⠆⠝⠀⡑⣸⠀⢏⢨⣇⢁⡌⠣⡳⢡⠌⡆⠆⡎⡟⢦⢹⣴⣬⣿⣯⣤⠀⠀⠸⡀⠀⠀⠀⠀⠀⠘⠢⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡈⠃⠀⠀⢠⠀⡃⠆⣬⢼⡀⣰⢕⠙⣜⠸⠮⡈⠎⠃⠀⠀⠁⠀⠘⣆⠎⠻⡘⢧⣿⡏⢉⡙⡧⣂⠀⠀⢱⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡏⠃⢀⢴⠀⡄⣇⢸⢸⣸⢃⠏⡞⠀⠿⠀⢀⡟⠀⠀⠀⠀⢀⡠⠄⠂⠀⠀⠈⠘⣿⠁⣿⢏⡳⠈⢆⠀⠀⡃⠀⠀⠀⠀⠀⠀⣧⣀⣀⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡏⡲⠓⡦⣴⢠⢽⡞⠹⠅⠀⠈⠳⢴⡄⠈⡟⠀⠀⠀⢠⠦⠋⢀⠀⠀⡀⠀⠀⠀⠸⠀⢻⡍⠄⡇⠘⡄⢀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣵⣖⣤⣄⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⠂⡙⣯⡚⣁⡞⠁⠀⠀⠀⠀⠀⠀⠙⠂⠉⠀⢠⠕⠁⡠⢊⣠⢖⠋⠀⢀⠀⡀⠀⠀⣏⠃⣝⡇⢀⠃⢰⠀⠀⠀⠀⡠⣽⣿⣿⣿⣿⣿⣽⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠐⠛⢁⠫⡏⢧⡐⠀⠀⠛⠛⠋⠦⡤⡀⠀⠀⠀⠀⢈⢴⠋⠿⠟⠀⣸⡜⢰⣽⡄⠀⢀⡰⢡⣷⡚⠀⡌⠀⠀⢠⡪⢱⣿⣿⣿⣿⣿⡿⣿⣾⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠠⠝⠀⠑⣄⢀⣀⣉⣁⣲⣈⠑⠄⠀⠀⠀⠀⠉⠀⠤⠤⠔⠑⠰⠷⠋⡿⠸⣽⠀⢸⣿⠃⢠⡑⠀⡰⡱⠁⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⢀⣾⣿⢆⠀⡀⠳⠲⠟⠆⠀⣴⣶⣄⣀⡠⠀⠀⠀⠀⠀⠀⠀⠀⡇⣸⠘⠀⣟⠊⠀⡖⠀⡐⡱⠁⣰⣿⣿⣿⣿⣿⣟⣿⣟⣿⣿⣻⣾
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⣠⣶⡿⠿⠿⠼⢱⣜⠠⣤⠄⠢⠴⢟⠉⠉⠃⠀⠀⠀⠀⠀⠀⠀⠀⣰⢃⠃⠀⡀⠁⠠⠂⠀⡜⠐⠁⢠⣿⣿⣿⣿⣿⣿⣿⣻⣿⣿⡿⣿⡿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠤⢴⣾⣿⡏⠖⠂⠐⢒⡒⠳⣒⣀⠀⠀⠀⢷⣀⠀⠐⠀⠀⠀⠀⠀⡀⠀⡰⢃⢾⠀⡜⠁⡐⠁⠠⡒⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⣿⣿⢋⡴⠓⠀⠈⠉⠉⠉⠙⢦⡀⠀⠀⠀⠈⠁⠀⠀⠀⠀⣠⠔⠁⡴⢁⠞⣟⠏⠀⠜⠀⠠⣑⠂⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣟⣿⣿⣿⣧⠞⢀⡴⡶⠊⠀⠀⠈⠉⠁⠛⠦⣀⠀⠠⠤⣤⣐⢦⡓⠁⢠⠴⢁⡎⣨⠃⢀⢎⠈⠀⠳⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⡓⣑⡞⠋⠀⠀⠀⠀⢦⠀⠀⢀⠠⠈⠙⡦⡤⣌⠥⡄⠰⡏⠈⣠⠾⡗⠁⠠⡢⢁⠄⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⣠⣮⣿⣿⣽⣷⣿⡓⣰⠏⠀⠀⠀⠤⠤⣔⣿⢃⣢⢕⠑⡦⠀⢞⢜⡑⢅⣈⣀⣤⣾⣷⠋⠀⣠⠋⡐⠁⢀⣴⣿⣿⣿⣿⣿⡿⣿⣻⣯⣭⣶⣹⣾⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⢠⠊⡞⣿⣿⣿⣿⣿⡗⢰⡏⠀⠀⠀⠀⠀⢠⣿⢲⣾⣿⣦⡍⡞⣤⠘⠀⠑⢢⣤⣬⠛⠁⡄⠒⠉⣵⡞⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠤⠤⡴⠃⣰⣵⣿⣿⣿⣿⢿⣑⡛⠀⠀⠀⠀⠀⠀⣸⣾⣿⣿⣿⣿⣿⣾⣄⢑⠢⠤⠒⠉⣠⢰⡌⠀⠀⣰⠟⠁⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⡅⣗⣱⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⣿⣿⣻⡷⣿⣿⠟⢯⢡⠋⠁⠀⠀⠀⠀⢀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⠢⢄⡀⠛⢞⢽⡅⠀⠰⠃⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣮⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⢀⣼⣽⣿⣿⣿⢿⣧⠈⣯⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣷⠤⠤⢽⢿⠇⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿⣿⣿⣿⢿⣿⣿⣿
+⢠⣿⣿⣿⣿⣿⣿⡜⢿⣿⡈⢀⡔⠛⠛⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣤⣤⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿⣿⣿⣵⣿⣿⣿⣿
+⣿⣿⣿⣿⡿⠁⠘⣿⣍⡻⣿⣾⣦⣄⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⣿⣿⣿⣿⣋⣼⣿⣿
+⣿⣿⣿⠏⢀⣼⠀⠈⠻⣿⣷⣬⣭⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⣯⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣽⣽⣿⣿⣿
+⣿⡿⠃⣰⣿⣿⡄⢀⡠⠀⠉⢩⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⡾⣻⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣮⣿⣿⣿⣿⣿
+⣿⣶⣿⣿⣿⣿⣿⣿⡁⣠⣾⣾⣿⣿⣿⣿⣿⠋⠉⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⣿⣟⣻⣿⣟⣽⣯⣿⢟⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⣿⣿⣿⣿⣿⣿
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠀⠀⠀⠀⠀⠀⠀⠀⢠⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣄⠀⠀⢀⣿⠀⢀⣢⣿⣿⠀⠀⢀⣾⡀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⡀⢀⡀⠀⢸⣿⣿⣿⣶⣿⣇⣴⣿⣿⣿⣿⢀⢐⣿⣿⠇⣠⣾⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣷⡈⢿⣿⢤⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⠃⢂⣾⡏⣴⣼⣿⣧⡤⢤⣀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⠀⣿⣿⣷⣼⣿⡘⣿⣧⢿⢿⣿⣿⣿⢻⣿⣿⣿⣿⢋⣼⣿⣿⣿⣿⡿⢋⣥⣴⣾⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⠀⠙⣿⣿⣯⢿⣷⣽⡿⣿⣿⣿⣿⡿⢸⣿⣿⣿⣧⡾⠟⣫⡽⢻⡿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⡘⣷⣾⣿⣝⠻⢌⢿⣿⣷⡘⣿⣿⣿⠇⡸⢋⠽⠛⠉⠀⣼⣿⣿⣿⡿⣿⣿⣿⣿⣿⣶⣶⣤⠔⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣀⣄⣀⣀⣀⣽⣿⣿⣿⣿⣿⣾⣿⡯⠛⠓⣈⣛⡋⣠⣴⣠⣤⣄⣚⣚⣛⣉⠉⢥⠶⢛⣻⣿⣿⣿⢟⠫⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣷⣤⡉⠿⢉⣤⣴⣿⣿⠏⣾⡇⢹⡿⡌⣿⣿⣿⣿⣿⣿⣇⡀⢺⣿⣿⣿⣿⣿⢷⣦⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⡐⣿⣿⣙⡿⠿⢛⣋⡹⢡⣿⣿⣿⣿⣿⠀⠟⢀⣸⠁⣁⠘⣿⣿⣿⣿⣿⣿⣿⣖⠌⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠉⣩⣿⣿⠀⣿⠋⣴⣿⣿⣿⣿⣿⣿⣀⣶⡀⣿⠀⣿⣿⡮⠟⣛⣉⣩⣽⣿⣿⣆⠙⠯⡛⢿⣿⠛⠂⠀⠀⠀⠀⠀⠀
+⠀⠀⠐⣦⣶⣶⣶⢿⣿⡿⠟⠉⢠⣿⣿⡟⢛⣛⣛⠛⠛⢿⣷⣿⣧⣿⢉⡴⠚⣩⣵⠶⠾⠿⢿⣿⡀⠀⠀⠤⡌⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⠿⠿⠏⣼⡿⠀⣠⠀⣾⣿⣿⣿⡟⠛⠭⠭⠅⠁⠌⢿⣿⣿⣈⣐⢉⣤⠀⠛⢿⣿⠊⣿⣇⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠠⠞⠋⠀⣨⠁⠀⣿⣿⠋⣵⣶⡾⡛⠻⣦⢻⣦⠌⠛⠻⢿⣿⣌⣛⣀⣐⣛⠁⣠⠁⢹⡇⢠⡶⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⢹⠿⢕⠘⠿⠷⢄⣰⣭⡾⠁⣀⣰⣦⣄⣈⣙⣻⣿⣿⣿⠅⠀⠀⢼⢇⠋⠼⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣶⣄⢸⠈⢂⣀⣒⣾⣿⣿⣧⣤⣾⡿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⣶⡇⠀⢺⠀⠁⡿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣰⠌⢳⠀⠠⣴⣴⣿⣿⣿⣿⣿⣿⣷⡄⢏⣰⣿⣿⣿⣿⣿⣿⣿⣿⡇⣸⠈⢀⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⡄⠈⢷⣄⠙⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠛⣛⣩⣭⣭⣭⠈⣿⣿⠀⡏⣶⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢶⣤⡘⢆⠘⣿⣿⡟⠛⣩⠥⠶⠟⠛⠉⠍⠉⣉⠅⣠⣾⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⠀⡄⠘⢿⣷⣬⣍⣒⣒⣒⣒⣒⠞⠏⣱⣾⣿⣿⠋⢀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣌⢠⡀⠙⢿⣿⣿⡿⢷⣶⣶⣶⡿⠿⠛⠛⠁⠐⢁⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣷⣌⡢⢄⠈⠉⣀⡀⠄⣿⣿⠠⢂⣼⡿⢋⡴⢃⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣶⣮⣙⠻⢿⣄⣼⣿⣾⡿⢋⡴⠿⢃⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡿⠛⠙⣿⣿⣿⣿⣶⣶⣶⣶⣶⣶⠏⣰⡇⢸⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢱⣇⠁⢿⣿⣿⣿⡆⢿⣿⣿⡿⢡⣾⣿⡇⣼⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡄⣿⣿⡌⠸⣿⣿⣿⣿⡌⠻⠏⣴⣿⣿⣿⠀⣿⣿⡇⣷⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⣛⠃⢿⣿⣷⠀⢿⡿⠿⢿⣿⣧⠸⣿⣿⣿⣿⢠⣿⣿⣇⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣷⡼⣿⣿⣇⠘⡇⣿⣦⣍⠛⢂⣿⣿⣿⣿⢸⣿⣿⠻⣿⣿⣿⣿⣧⠀⠀⠀⠀⢠⣄⡀⠀
+⠀⠀⠀⠀⠀⠀⠀⣀⣴⠀⠀⠀⠀⣼⣿⣿⣿⣿⠇⣿⣿⣿⣄⢑⢹⣿⣿⣿⣿⣿⣿⣿⠏⣾⣿⣿⡇⢻⣿⣿⣿⣿⣷⠻⠿⠿⠿⢿⣿⣷
+⠀⠀⢀⣀⣠⣴⣾⣿⣇⣤⣶⡶⢿⣿⣿⣿⣿⠋⢸⣿⣿⣿⣿⣆⠈⢿⣿⣿⣿⣿⣿⣿⢰⣿⣿⣿⡇⢀⠹⣿⣿⣿⣿⡇⠀⠀⠀⠈⢿⣿
+⣶⣿⣿⣿⠋⢩⣿⡿⠀⠀⠀⠀⣼⣿⣿⡟⠁⢠⢸⣿⣿⣿⣿⣿⡄⠘⣿⣿⣿⣿⣿⠇⣿⣿⣿⣿⠇⠀⠓⣉⣩⣭⣭⣭⡄⠒⠒⠚⠉⢻
+⣿⣿⣿⣿⣷⣶⣮⠥⠤⢀⣀⣀⣛⣛⡁⠀⣰⣧⠸⠿⠿⢿⣿⣿⣿⣦⠘⠻⣿⡿⠟⠘⣩⣵⣶⣶⣿⡿⠿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠘⢿⣿⣿⣿⡿⠉⣿⣿⡿⣻⠃⠀⠘⣿⣿⣿⣿⠋⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠙⢿⡿⠃⢀⣿⠿⠁⠁⠀⠀⠀⣿⣿⠟⠁⠀⢻⣿⣿⠟⠋⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠈⢿⣿⠛⠿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠘⠋⠀⠀⠀⠀⠀⢰⣟⡵⠀⠀⢀⣾⠏⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠈⢿⡆⠀⠀⠙⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣟⡿⠁⠀⡾⠉⠇⠀⠀⠛⢛⡛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢹⣿⡇⠀⠀⠀⠻⠀⠀⢸⠀⠀⢱⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠉⠉⠀⢀⡼⠁⠀⠀⠀⠀⠀⠀⢀⣤⡿⠟⠋⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿⠀⠀⠀⠀⡀⠀⠸⣆⠀⠀⠂⠁⠀⠀⠀⠀⢹⠀⠀⠀⠀⠀⢰⠏⠀⠀⢀⡀⠀⠀⠀⠐⠉⠀⠀⠀⢂⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⡇⠹⣿⠷⠀⠀⠀⢸⡄⠀⠀⠀⢠⡄⠀⠀⠀⠀⠀⣾⠀⠀⠀⠀⠀⠀⣀⣴⠞⠉⠠⠖⠀⠠⠀⠀⠀⠀⢀⠾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠙⢷⠀⠈⠀⠀⠐⢦⣀⢳⡄⠀⠀⠈⢳⡀⠀⠀⠀⢀⣿⢀⣴⢆⣠⣴⣾⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⢉⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠄⠀⠀⠀⠀⠀⠀⠈⠁⠀⠁⢤⣀⣈⣳⣄⣀⣠⣾⠿⢋⡿⠿⠿⣿⣃⣉⣀⣠⣤⣴⡶⠿⠋⣀⣀⠀⠀⠀⠀⠐⣀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣦⠈⠉⠉⠉⠁⠀⠀⠀⠀⠠⣤⣀⡀⠀⣀⣰⣴⠖⠛⠛⠋⣭⠁⢨⣇⠀⢠⡄⠀⠀⠀⠀⠀⠀⠀⠈⢻⢷⡼⠟⠉⠀⠀⠀⠀⠀⠫⠷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣧⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠷⣾⠟⠀⠀⠀⠀⠀⢠⡏⢀⣸⣿⠀⣦⢹⣆⠀⠀⠀⠀⠀⠀⠀⠈⠙⠷⣄⠀⠀⠀⠀⠀⠀⢦⣀⣀⣉⣻⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡻⢯⠅⠀⠐⠦⢤⣤⣥⠤⠴⠒⣴⠏⠀⠀⠀⠀⠀⠀⣸⣧⣸⡿⠛⢰⣿⠾⣿⡀⠀⠀⠀⢀⠀⠀⠀⢀⠀⢨⣿⡇⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤⠶⠀⠀⠀⠀⠀⣠⡾⠁⠀⠀⠀⠀⠀⠀⠀⣽⡟⠉⣿⠀⢸⡏⠀⠀⠙⠂⣀⣀⣤⣤⠶⢆⠀⠀⠀⢹⣧⡀⢤⣀⠀⠀⢀⣈⣻⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⡟⢿⠿⠿⠿⠛⠋⠁⠀⠀⠀⠀⢀⣴⣿⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠀⡇⠀⢀⣴⠿⠋⣤⣤⠤⠤⠀⠀⠀⠀⠀⢻⣿⣷⣮⣷⣦⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣷⡀⠀⠀⠀⠀⣠⠀⠀⠀⢠⣶⣻⣿⠇⠀⠀⠀⠐⠚⠉⠉⠉⠛⠻⡶⣤⡀⠀⠀⠀⠀⣿⢉⣴⠟⣉⣥⣤⠶⠶⠶⢶⡀⠀⢹⣿⣿⣷⣦⣭⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣄⣀⣀⣴⠋⠀⣀⣴⢿⡿⢫⡿⠀⠀⠀⠀⠀⢠⣶⣾⣛⣛⣛⣿⣿⣻⣆⠀⠀⠀⠻⠿⠱⡿⠋⣸⣷⣤⡀⠀⣠⣇⠀⠘⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡋⢁⣤⣾⣿⠗⢈⣴⣿⣷⠀⠀⢀⡶⠚⠉⠉⢀⣤⣄⠙⢯⡈⠛⢙⣦⣀⡀⠀⠀⠁⢧⣤⣹⣿⣟⣀⣴⣯⡏⣶⡷⠀⣿⡿⠋⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣆⣸⣿⣿⣿⡀⠀⢈⡻⣄⠀⠀⠻⣾⢿⣀⡬⠁⣰⣿⣿⠿⠿⣷⣦⣄⣀⣀⡀⠀⠀⠀⣩⣷⣾⣿⡧⠂⣿⢠⡞⣳⠜⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣴⢦⡙⣿⣷⣦⠾⠚⠋⠁⣀⣼⡿⠋⠉⠀⠂⠈⠉⠉⠉⠁⠀⠀⠀⠀⠰⠻⡿⢿⣷⢶⣡⣟⢳⡍⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢀⠈⠻⣇⣸⣷⡿⣟⠶⠆⠀⠀⠀⠈⠉⠉⠀⠀⡀⠀⠀⢠⠄⠄⠀⠀⠀⠀⠀⠀⠀⠀⡀⢸⣿⢰⢈⣿⣿⠁⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠿⠛⣦⡈⣻⣿⡟⠛⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣷⡠⠾⠀⠀⠀⠀⣄⠀⠀⠀⠀⠀⠀⢸⡿⢸⣼⡿⠃⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠸⣿⣇⠉⠻⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⣀⣀⣂⣀⣰⣦⡄⠀⠀⣾⣧⡿⠋⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠹⢿⣧⣄⠙⣿⡄⠀⠀⠀⠀⠀⠀⠀⣀⣤⠴⠖⠚⠛⠋⣉⣀⣀⣀⣤⣤⡟⠁⠀⢰⣿⢿⣧⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠉⠉⢷⣼⣿⡆⠀⠀⢠⣶⠖⢫⣉⣀⣤⣶⣶⣿⣯⣿⡿⠟⣩⠼⠋⠀⠀⠀⣾⣿⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⣴⣿⡸⣿⣄⠀⠈⠙⠳⠶⠤⠍⠍⠉⠁⠀⠤⠤⣖⡏⠀⠀⠀⠀⢠⣾⡿⣳⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢷⡹⣿⣷⣄⠀⠀⠀⠀⠀⠀⠒⠒⠒⠛⠛⠉⠀⢀⣀⣀⣴⣿⢋⣾⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡈⠻⢦⡙⢿⣷⣄⣀⠀⣠⣶⣤⣄⡀⠀⠀⣴⢿⣿⠿⠿⠟⣵⠟⣱⠏⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠙⠳⣭⣛⠿⠿⠛⠛⣷⣽⡆⠀⢀⣯⡼⠃⠀⣠⡾⠃⣴⠃⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠉⠛⠦⣤⣀⠈⠻⠛⠀⠀⠀⠀⣠⡾⠋⣀⣴⡇⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣀⣄⠀⠀⠀⠀⠀⠉⠛⠓⠒⠒⠒⠒⠛⠁⣠⡞⢹⣿⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢀⡞⢻⣹⠀⠀⠀⠀⠀⠰⡄⠀⠀⠀⠀⠀⢠⡾⠉⠀⢸⣿⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠘⡿⣧⠀⠀⠀⠀⠀⢻⡄⠀⠀⠀⣴⠏⠀⠀⠀⣸⡏⠀⠀⢸⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢻⡇⠀⠀⢹⣽⡀⠀⠀⠀⠀⠈⢳⣦⣀⡾⠃⠀⠀⠀⠀⣿⠃⠀⠀⢸⠀⠈⠹⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣁⣀⣸⡇⠀⠀⠈⢿⣇⠀⠀⠀⠀⠀⠀⠸⢿⠁⠀⠀⠀⠀⢐⣿⠀⠀⠀⢸⡇⠀⠁⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠉⠉⠻⣿⠀⠀⠀⠘⣿⡆⢸⡛⠳⣤⡀⠀⠸⡇⠀⠀⠀⠀⡀⡇⠀⠀⠀⠀⠀⡌⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⡄⠀⠀⠀⢻⣇⢸⡇⠀⠀⠙⠻⠾⠃⠀⠀⠀⠀⣴⡇⠀⠀⠀⢧⠀⠀⠀⠀⠀⠀⠘⢿⠿⠿⠿⠿⠇⠈⠛⠿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⢡⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⢀⡇⠀⠀⠀⠀⢻⡦⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠁⠀⠀⠀⢸⣆⠄⠀⠀⠀⠀⠀⠘⣤⣤⣤⣤⣤⣄⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⠿⠛⠉⠀⠀⠾⠟⠛⠉⠉⠀⠀⠀⠀⠀⠀⢠⣿⠀⠀⠀⠀⠀⠀⢹⣿⡄⠀⠀⠀⠀⠀⠀⠀⠈⢠⡇⠀⠀⠀⠀⢸⣿⣦⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⡀⠀⠀
+⠿⠛⠋⠀⠀⠀⣀⣤⠀⠀⣠⣤⣤⣶⣶⣿⠇⠀⠀⠀⠀⣰⣿⣿⠀⠀⠀⠀⠀⠀⠀⢻⣿⠀⠀⠀⠀⠀⠀⠐⠀⣾⠁⠀⠀⠀⠀⢸⢿⠘⠷⣄⣀⣀⣀⣀⣨⣿⡿⠿⠟⠛⣛⣀⠀
+⠀⠀⠀⠀⠀⠾⣯⣄⡀⢠⣿⣿⣿⣿⣿⡟⠀⠀⠀⣠⡾⣿⠏⣿⠀⠀⠀⠀⠀⠀⠀⠀⢿⣷⡀⠀⠀⠀⠀⠀⢠⠇⠀⣀⣀⣤⣤⠾⠞⠓⠊⠉⠉⠉⠉⠀⠀⠀⢷⣶⣿⣿⣿⣿⡆
+⠀⠀⠀⠀⠀⠀⠀⠀⠉⢉⣙⣛⠻⠿⠿⠧⠤⠴⢿⣯⣿⠃⠀⣿⣀⣀⣀⣀⠀⠀⠀⠀⠀⢻⣷⣦⣀⠀⢀⣴⣿⡔⠋⠁⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿
+
+
+
+
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣋⣽⠿⠋⠉⢉⣭⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣉⠉⢽⡽⢛⢫⣻⡟⠻⣯⡙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣾⣿⣥⣤⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠉⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣼⡏⠀⠘⡿⣿⣆⠈⠻⣦⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠉⠉⠉⣩⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⡀⠀⢀⣾⣿⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣿⣧⡀⢰⠯⠘⣿⣧⠀⠈⢿⣝⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⠃⣀⣤⣠⣾⣿⣿⣿⣿⣿⡿⠋⠁⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⢹⣿⣿⣿⣿⣿⣿⣼⠀⠀⣿⣿⣧⣄⡙⢿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣷⡿⠿⠛⠉⣽⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⢀⣿⣿⣿⣿⣿⠿⠿⣿⡿⣿⣿⣿⣿⣦⣀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣷⡀⡿⠸⣿⣆⠙⢾⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⡿⢣⣿⠃⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡎⡹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢻⣟⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣇⣿⠃⣀⣴⢾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣇⢸⣿⣿⢳⢄⠀⠘⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣶⠟⢡⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠛⢻⣿⣿⣿⣿⣷⣿⣿⣿⡿⠟⠻⣿⣿⣿⣿⣿⣿⣿⡞⢸⣿⠀⠈⣷⣄⢹⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡟⢻⡟⠀⠀⣼⣿⣿⣿⣿⣿⣿⡟⠉⠈⠛⣿⣿⣿⣟⣿⣿⣿⡿⠇⠀⠀⠀⠈⣿⣿⣿⣿⣿⣟⣿⣿⠁⠀⠀⠈⣿⣿⣿⣿⣿⡏⡇⣾⣏⠀⠀⠈⢿⣾⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡇⢺⡇⢀⣶⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⣀⣿⣿⣿⣏⣿⣿⣿⣷⣇⡀⠀⡀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣤⣾⣿⣿⣿⣿⣿⣷⣿⣿⣿⠸⡄⠀⠀⢻⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡇⢸⣧⡿⠃⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣽⡽⠀⢷⡀⠀⢘⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣼⣿⠃⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣺⠿⣿⣿⣿⣿⣿⣿⣿⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠈⣷⡄⢸⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉⠙⢻⣿⣿⣷⣤⣭⣍⣽⣿⣿⣿⣿⣿⡿⠉⠉⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣿⡏⠀⠀⠀⠸⣷⣸⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣷⢣⣰⣃⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⢀⣽⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⠇⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⡏⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣾⣿⣿⣿⣿⣿⠋⠁⠉⢻⣿⣿⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⣿⡿⢛⣵⠋⢸⡇⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣷⡄⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡁⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣤⠟⠀⠀⠀⣧⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⡿⠿⠿⣟⣿⣿⣿⣏⣉⣨⡶⠛⢁⠀⠀⠀⠀⣿⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⢿
+⡟⠿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣌⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣻⣷⡶⣲⠿⠟⡟⡟⠛⠉⠉⠉⠁⢠⡇⠀⠀⠀⠀⢸⠀⢐⣿⣿⣿⣿⣿⣿⡿⣡⢾
+⡷⣦⣄⣙⢿⡌⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠡⢻⣟⣵⠏⠁⠀⠀⢧⡇⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⢀⣾⣱⣿⣿⣿⣿⣿⣿⢿⣟⢁⣸
+⣇⠈⢯⣛⣷⣷⡄⣼⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠅⢀⣴⢯⣾⠇⠀⠀⠀⠀⠘⣧⠀⠀⠀⠀⠀⢸⡇⠀⠀⢀⣾⣿⣿⣿⣿⣿⠟⣹⡿⢿⠾⠉⣽
+⣿⣷⣄⠙⠯⣄⠙⠻⣽⣿⣮⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡴⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⢿⡆⠀⠀⠀⠀⢸⡇⠀⢠⣾⣿⣿⣿⣿⣿⣇⣼⣿⣥⡟⢀⣾⣿
+⣿⣿⣿⣦⡀⠈⢱⣄⡈⢷⡙⣷⣇⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣷⣻⡞⠁⡿⣿⠙⠋⢷⣀⠀⠀⢀⢸⡇⢀⣴⣶⢀⣾⣣⣴⣿⣿⣿⣿⣿⣻⡷⢛⣿⣻⠟⢀⣾⣿⣿
+⣿⣿⣿⣿⣿⣆⠀⠈⠳⡖⢻⠬⢿⣳⣶⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣛⠙⠋⡀⠀⡗⣿⠀⠀⠀⢙⢦⠀⣾⣼⡇⣽⢿⣥⣾⣿⣿⣿⣿⣿⣿⡿⢻⣟⣤⣯⠼⠃⠀⣼⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣷⣄⢀⣉⠙⢦⣀⠈⠙⠷⣌⣀⣉⣻⣿⣿⣿⣿⢿⣿⣿⠃⢴⡏⠁⢠⣷⣟⢠⡀⡀⠈⣮⣷⣿⢿⣻⣿⣿⣿⣿⣿⣿⣿⣿⠋⡏⣰⠞⣹⣟⠇⡀⠀⣰⣿⣿⣿⢿
+⡟⠛⠻⢿⣿⣿⣿⣿⣷⣌⠃⠀⠙⢿⡛⠛⠻⢯⣍⠙⠻⣥⡼⠷⣯⣵⣇⡀⡎⣸⠀⠀⢸⠉⢸⡿⡇⢻⠙⣞⡧⠟⢛⡿⣛⣉⡍⠿⢛⣾⠷⠚⡿⠡⡼⠋⣠⠞⢁⣼⣿⣿⣟⡥⢺
+⡏⠉⠓⠶⣶⣽⠿⣻⠿⣿⣷⣄⠀⢠⣽⣤⣀⡀⡙⣦⣚⣯⣟⣦⣍⣠⣴⡿⣧⡟⢸⡇⠈⠀⠈⡇⢸⠈⣏⡵⣶⣶⣉⣶⠵⣟⠽⠿⣿⣦⣤⣼⣥⣼⠷⠛⣁⣴⣿⣿⣿⠟⠉⣠⢾
+⡗⠶⣖⣦⣜⣳⡤⣬⣳⡈⢻⣿⣧⡀⠹⠛⠙⠻⠛⠉⠉⠉⠉⠉⠛⠿⣟⠧⣄⠇⢸⠇⠀⠀⢀⡇⣼⣠⣋⣈⡵⠿⠓⠒⠒⠓⠒⠖⠿⣶⠿⠛⠉⠀⣠⣶⣿⣿⠟⣰⡯⢀⣴⠁⢸
+⣧⡀⠀⠛⢷⡝⣓⣤⣀⡹⣿⣽⣻⠿⣶⣤⣀⣤⣶⡶⣶⡶⣦⣄⡀⠀⠀⠁⠀⢸⢸⡆⠀⠀⣸⣷⡿⠋⠁⠀⠀⣴⣤⣀⣤⣤⣀⡀⠀⠀⢀⣠⡴⠟⠛⣹⠿⠛⢋⣡⣴⠿⠂⡄⢸
+⣿⣿⣦⡀⠀⠙⣏⣉⣉⣭⣕⣮⡽⠶⠭⢄⣉⣙⢿⣿⣿⣿⣾⣿⣿⣁⣦⡴⣤⣘⣇⢭⠀⣴⡟⠁⠀⣀⣶⣶⣿⣿⣟⣛⡷⠶⣿⣿⣭⣿⣿⣯⣶⣾⣻⡥⠤⣴⡿⠋⢁⣴⠚⠁⣾
+⣿⣿⣿⣿⣦⣤⣈⣉⡉⠛⠮⣈⢻⠦⠒⠒⣛⣻⣛⠛⢛⣵⠟⠛⠻⠻⣿⣿⣮⡝⢾⣿⡁⣥⡟⢠⣾⣿⡯⣵⡾⠿⠤⣿⣻⠦⢤⣉⣳⠛⠛⠓⢼⣋⣀⣀⣨⣋⠀⢀⣼⠂⣠⣾⣿
+⣿⣿⣿⣿⣿⣿⡯⠾⠛⠳⣦⡈⠉⠓⢶⣋⣉⣉⡽⠟⠉⢁⣦⣶⡶⠀⠀⠈⠉⠀⣤⡹⠇⢛⣡⣽⠧⠽⠛⠉⢀⣠⣦⣀⠉⠳⣆⠉⠉⠙⠶⣶⠿⠿⠶⠤⢄⢀⣴⠏⠁⣴⣿⣿⣿
+⣿⣿⣿⣟⡟⠉⠀⠀⠀⠀⠈⠳⣦⠀⠀⠙⠈⠉⠀⣠⣴⣏⡀⢠⣭⣷⣤⡀⠀⠀⢹⣿⠀⣾⣿⠁⠀⠀⣴⣾⢯⣧⡈⠛⣷⣄⠸⠮⣍⢛⣓⣿⣁⣀⡴⠚⠉⠉⢀⣠⡞⠉⢿⣿⣿
+⡟⣿⣫⠏⣠⠀⠀⠀⠀⣀⣀⡀⠙⢿⣦⣄⣠⠴⠞⠋⠀⠛⣷⠸⢿⣿⢦⣿⣶⡟⢻⡹⡇⡟⣽⡷⣶⣾⣞⣡⣿⡿⠀⣶⠾⠿⢧⣄⠈⠉⠀⣀⣠⡴⠶⠛⠛⠉⠉⠁⠀⠀⠀⠻⣿
+⣇⣾⣯⣾⠅⣀⣤⠖⠋⠉⠀⠀⠀⠀⠙⠿⢿⢇⡀⠀⠀⠀⣯⡆⣰⣿⣶⣿⣻⣟⡟⣷⢦⠶⣟⣿⣿⡛⢋⣿⡟⠁⠈⠉⠀⠀⢀⡽⠳⣶⣿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹
+⣿⡿⠋⢡⡾⢋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⢻⣷⣴⠀⠙⡇⠻⣽⣿⣿⣽⡷⣿⣻⢺⠚⣟⡿⢯⣿⣿⣿⡷⠀⢀⣼⠀⢀⣾⡵⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⢧⡀⠀⠀⠀⠀⢸
+⡟⠁⣀⡈⠀⢸⡴⠞⠉⠉⠀⠀⠀⠀⠀⠀⠸⢿⠆⠻⣿⣧⡀⢘⣀⠈⢻⣏⣿⡽⠞⢻⡝⣿⠻⠷⣾⠃⣿⡋⠀⠀⣾⠋⢀⣾⢏⣀⣴⠾⠷⠀⠀⠀⠀⣀⠀⠀⠀⢳⡀⡀⠀⢀⣿
+⡇⠛⣿⣇⣀⡈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢲⣄⠀⠈⠻⢿⣾⣿⣆⡀⢻⡜⢿⣦⣿⣋⣽⣤⣾⠏⣰⡿⠀⠀⣼⣏⣤⠟⢡⠞⠁⠀⠀⠀⠀⠀⠀⠈⠺⣷⠀⠀⠈⣇⠹⣦⡿⢹
+⡇⠀⠈⠁⠀⣉⠳⣤⣘⠉⣿⣷⡶⠆⠀⠀⠀⠀⠙⢷⣀⠀⠀⠈⠛⢿⣿⣄⠳⡌⠻⣎⠀⢠⣿⠟⢠⣟⣁⣴⣾⣿⡫⠵⠆⠀⠀⠀⠀⠀⠀⣤⡀⠀⢀⡀⣈⣛⡓⣦⡝⠀⠉⠃⢸
+⡇⠀⢀⣴⡿⠗⠿⠴⠦⢤⣌⣛⣿⡦⠀⠀⠀⠀⠀⠀⠉⣹⣷⣦⠤⠀⠤⣽⡛⢷⣄⢸⡀⣾⣩⣶⡾⣟⣩⡤⠌⢁⣭⣦⡄⠀⠀⠀⠀⢀⡔⠉⠀⣈⣋⠉⢉⣁⣹⡋⠙⠆⠀⠀⢸
+⡇⢠⠞⠉⠀⣠⡴⠀⠀⠀⣙⣿⣧⣀⣦⠀⠀⠀⠀⠀⠀⢿⣧⣽⣿⣦⣤⣤⣈⣳⣬⡙⠛⠛⢀⣴⣿⢭⣤⣴⣿⣿⢿⣬⠟⠀⠀⠀⣠⠟⣠⣶⣿⣷⣿⠀⠈⣓⠀⠙⠦⠀⠀⠀⢸
+⡇⠀⠀⠀⣨⠗⠀⠀⠀⣾⠏⣄⡻⢻⣾⡄⠀⠀⠀⠀⠀⢸⣿⡯⠛⠿⣿⣽⣿⡟⢹⣿⠿⠶⣿⡿⢻⣿⣿⣼⠏⠁⢸⣿⡆⠀⠀⠀⠁⣴⣿⣿⣯⡀⢨⣄⡀⠈⠀⠀⠀⠀⠀⠀⢸
+⡇⠀⠀⠚⠁⠀⠀⠀⠀⣟⣾⣷⣿⡇⠛⣷⡀⠀⠀⠀⠀⠿⣿⡇⠀⠀⣿⣇⢿⣄⣈⣿⣰⢢⣌⣁⣼⠟⣺⣿⠀⠀⠈⠛⠃⠀⠀⠀⠀⢘⡽⠡⣿⢷⣼⡈⣇⠀⠀⠀⠈⣧⠀⠀⢸
+⡇⢠⠂⠀⠀⠀⠀⢀⣼⣿⣿⣿⣷⠀⠀⠹⢿⣦⡀⠀⠷⣀⠈⠁⠀⠈⠿⡇⠈⠙⠻⣷⣿⣾⣿⠏⠁⠀⢿⢿⠀⠀⠀⠀⠀⠀⠀⣀⡴⢉⢆⡼⠋⢸⣿⣿⣻⠀⠀⠀⠀⢿⡆⠀⢸
+⡷⠋⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣧⠀⠀⣰⡽⠿⠷⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⡇⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣾⡅⣠⠋⡼⠀⠀⣼⣿⣿⣿⣆⠀⠀⠀⠈⣆⠀⢸
+⣇⡰⢀⡠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠹⣷⡄⠀⠈⠙⠹⢷⠦⢤⣀⢀⣠⣴⡿⠹⣿⡇⠙⢷⢶⣶⣤⣄⣀⣤⣤⣶⠿⢻⣶⠞⡉⠀⠀⠀⣰⣿⣿⣿⣿⣿⡄⠀⠀⠀⣧⠀⢸
+⡿⠃⢨⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠹⣷⡿⣆⠀⠀⠈⠉⠉⠉⠈⠙⠛⠻⣦⢙⣷⡿⠛⠛⠙⠁⠉⠁⠉⠉⠀⢠⣿⠃⣼⠃⠀⠀⣴⣿⣿⣿⣿⣿⣿⣷⣄⡀⠀⣿⠀⢸
+⣧⡶⣿⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⢢⠹⣟⢿⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣽⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⢯⡴⠋⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣝⣦⣿⠀⣸
+⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡈⠳⡝⢮⡛⠿⣧⣀⣀⣠⢶⡤⠤⠤⣄⣌⣭⡶⠂⠑⠲⣄⡀⣀⣤⣶⣿⢟⣿⡇⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⣆⣾
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣄⠀⣌⣿⣀⠸⣍⠉⠀⠀⠀⠀⠀⠀⣭⠅⠀⠀⠀⠀⠀⢿⣀⣼⠟⠁⢋⣿⡆⠚⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣾
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡌⣧⡘⠜⢿⣦⠻⠧⠳⣄⡀⠀⠀⢀⣿⠀⠀⠀⢀⣴⢻⡟⡼⠁⠀⠀⢿⠏⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠈⢹⠒⠈⠙⢀⣤⣄⠙⠻⠒⠿⣿⡋⡤⠗⠒⠋⠀⠈⢚⡃⢀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢸
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠈⢧⣀⠀⠘⠟⠁⢀⣀⣤⠤⠤⠶⠤⠤⣤⣀⡀⠀⢹⡿⠞⠀⣴⣴⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠈⠻⣷⣄⣰⢛⣭⣍⣴⣶⣿⣿⣿⣛⣲⣭⣍⣷⡀⠀⡜⢠⣾⣣⠟⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣹
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⢈⠉⠻⣿⣦⣀⣈⣉⣿⣿⡗⠺⣿⠇⠀⠀⠀⠀⠳⣾⣿⣿⡇⣼⣧⡼⠛⣣⣾⣿⠷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠨⣧⡀⠈⠻⣝⠻⢿⣻⠷⠷⢴⢶⢿⠙⠒⣲⡟⣷⣿⣷⣿⢟⣟⡋⣠⣾⡿⠋⢠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣌⡙⠦⣤⣄⠁⠀⢀⠙⠓⡞⢾⠛⠂⣰⢇⣿⣿⠿⠛⠋⠉⢀⣼⣿⣟⣥⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣌⡙⠷⣾⣾⣿⣶⡇⠸⡆⢀⡟⢸⡷⣇⣠⣾⠤⠖⢻⣯⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣤⣉⣿⣿⡇⠀⠁⡾⠃⣿⠻⣿⣭⣤⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⣀⣸⣃⣀⣇⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣷⡒⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣆⠙⡄⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣤⣤⣤⣤⣤⣤⣤⣤⠤⢄⡀⠀⠀⣿⣿⣿⣿⣿⣿⡆⠘⡄⠀⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣿⣿⣿⣿⣿⣿⣿⣦⡈⠒⢄⢸⣿⣿⣿⣿⣿⣿⡀⠱⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣦⠀⠱⣿⣿⣿⣿⣿⣿⣇⠀⢃⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣷⡄⣹⣿⣿⣿⣿⣿⣿⣶⣾⣿⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣶⣿⣭⣍⡉⠙⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⢂⣓⣶⣶⣶⣶⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⠟⢀⣴⢿⣿⣿⣿⠟⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠤⠤⠤⠤⠙⣻⣿⣿⣿⣿⣿⣿⣾⣿⣿⡏⣠⠟⡉⣾⣿⣿⠋⡠⠊⣿⡟⣹⣿⢿⣿⣿⣿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣶⣤⣭⣤⣼⣿⢛⣿⣿⣿⣿⣻⣿⣿⠇⠐⢀⣿⣿⡷⠋⠀⢠⣿⣺⣿⣿⢺⣿⣋⣉⣉⣩⣴⣶⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠻⠿⣿⣿⣿⣇⢻⣿⣿⡿⠿⣿⣯⡀⠀⢸⣿⠋⢀⣠⣶⠿⠿⢿⡿⠈⣾⣿⣿⣿⣿⡿⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢧⡸⣿⣿⣿⠀⠃⠻⠟⢦⢾⢣⠶⠿⠏⠀⠰⠀⣼⡇⣸⣿⣿⠟⠉⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣶⣽⣿⡟⠓⠒⠀⠀⡀⠀⠠⠤⠬⠉⠁⣰⣥⣾⣿⣿⣶⣶⣷⡶⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠹⠟⣿⣿⡄⠀⠀⠠⡇⠀⠀⠀⠀⠀⢠⡟⠛⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠋⠹⣷⣄⠀⠐⣊⣀⠀⠀⢀⡴⠁⠣⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣀⠤⠊⢁⡸⠀⣆⠹⣿⣧⣀⠀⠀⡠⠖⡑⠁⠀⠀⠀⠑⢄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣦⣶⣿⣿⣟⣁⣤⣾⠟⠁⢀⣿⣆⠹⡆⠻⣿⠉⢀⠜⡰⠀⠀⠈⠑⢦⡀⠈⢾⠑⡾⠲⣄⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠖⠒⠚⠛⠛⠢⠽⢄⣘⣤⡎⠠⠿⠂⠀⠠⠴⠶⢉⡭⠃⢸⠃⠀⣿⣿⣿⠡⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⡤⠶⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣋⠁⠀⠀⠀⠀⠀⢹⡇⠀⠀⠀⠀⠒⠢⣤⠔⠁⠀⢀⡏⠀⠀⢸⣿⣿⠀⢻⡟⠑⠢⢄⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⠀⠀⠀⡀⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⣀⣀⡀⠀⢸⣷⡀⣀⣀⡠⠔⠊⠀⠀⢀⣠⡞⠀⠀⠀⢸⣿⡿⠀⠘⠀⠀⠀⠀⠈⠑⢤⠀⠀⠀
+⠀⠀⢀⣴⣿⡀⠀⠀⡇⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣝⡛⠿⢿⣷⣦⣄⡀⠈⠉⠉⠁⠀⠀⠀⢀⣠⣴⣾⣿⡿⠁⠀⠀⠀⢸⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⡜⠀⠀⠀
+⠀⢀⣾⣿⣿⡇⠀⢰⣷⠀⢀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣭⣍⣉⣉⠀⢀⣀⣤⣶⣾⣿⣿⣿⢿⠿⠁⠀⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠉⢦⠀⠀
+⢀⣼⣿⣿⡿⢱⠀⢸⣿⡀⢸⣧⡀⠀⢿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡭⠖⠁⠀⡠⠂⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀⢠⠃⠀⠈⣀⠀
+⢸⣿⣿⣿⡇⠀⢧⢸⣿⣇⢸⣿⣷⡀⠈⣿⣿⣇⠈⠛⢿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⠿⠿⠟⡻⠟⠉⠀⠀⡠⠊⠀⢠⠀⠀⠀⠀⠀⠀⠀⠀⣾⡄⠀⢠⣿⠔⠁⠀⢸⠀
+⠈⣿⣿⣿⣷⡀⠀⢻⣿⣿⡜⣿⣿⣷⡀⠈⢿⣿⡄⠀⠀⠈⠛⠿⣿⣿⣿⣷⣶⣶⣶⡶⠖⠉⠀⣀⣤⡶⠋⠀⣠⣶⡏⠀⠀⠀⠀⠀⠀⠀⢰⣿⣧⣶⣿⣿⠖⡠⠖⠁⠀
+⠀⣿⣿⣷⣌⡛⠶⣼⣿⣿⣷⣿⣿⣿⣿⡄⠈⢻⣷⠀⣄⡀⠀⠀⠀⠈⠉⠛⠛⠛⠁⣀⣤⣶⣾⠟⠋⠀⣠⣾⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⠷⠊⠀⢰⠀⠀
+⢰⣿⣿⠀⠈⢉⡶⢿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠙⢇⠈⢿⣶⣦⣤⣀⣀⣠⣤⣶⣿⣿⡿⠛⠁⢀⣤⣾⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⣸⣿⡿⠿⠋⠙⠒⠄⠀⠉⡄⠀
+⣿⣿⡏⠀⠀⠁⠀⠀⠀⠉⠉⠙⢻⣿⣿⣿⣿⣷⡀⠀⠀⠀⠻⣿⣿⣿⣿⣿⠿⠿⠛⠁⠀⣀⣴⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⠀
+
+
+
+
+
+⠤⣤⣤⣤⣄⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣠⣤⠤⠤⠴⠶⠶⠶⠶
+⢠⣤⣤⡄⣤⣤⣤⠄⣀⠉⣉⣙⠒⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠴⠘⣉⢡⣤⡤⠐⣶⡆⢶⠀⣶⣶⡦
+⣄⢻⣿⣧⠻⠇⠋⠀⠋⠀⢘⣿⢳⣦⣌⠳⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠞⣡⣴⣧⠻⣄⢸⣿⣿⡟⢁⡻⣸⣿⡿⠁
+⠈⠃⠙⢿⣧⣙⠶⣿⣿⡷⢘⣡⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣷⣝⡳⠶⠶⠾⣛⣵⡿⠋⠀⠀
+⠀⠀⠀⠀⠉⠻⣿⣶⠂⠘⠛⠛⠛⢛⡛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠛⠀⠉⠒⠛⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⢸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢻⡁⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣤⡼⠀⢀⡀⣀⢱⡄⡀⠀⠀⠀⢲⣤⣤⣤⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣿⡿⠛⠋⠁⣤⣿⣿⣿⣧⣷⠀⠀⠘⠉⠛⢻⣷⣿⣽⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣴⣞⣽⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠠⣿⣿⡟⢻⣿⣿⣇⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣟⢦⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣠⣿⡾⣿⣿⣿⣿⣿⠿⣻⣿⣿⡀⠀⠀⠀⢻⣿⣷⡀⠻⣧⣿⠆⠀⠀⠀⠀⣿⣿⣿⡻⣿⣿⣿⣿⣿⠿⣽⣦⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⣼⠟⣩⣾⣿⣿⣿⢟⣵⣾⣿⣿⣿⣧⠀⠀⠀⠈⠿⣿⣿⣷⣈⠁⠀⠀⠀⠀⣰⣿⣿⣿⣿⣮⣟⢯⣿⣿⣷⣬⡻⣷⡄⠀⠀⠀
+⠀⠀⢀⡜⣡⣾⣿⢿⣿⣿⣿⣿⣿⢟⣵⣿⣿⣿⣷⣄⠀⣰⣿⣿⣿⣿⣿⣷⣄⠀⢀⣼⣿⣿⣿⣷⡹⣿⣿⣿⣿⣿⣿⢿⣿⣮⡳⡄⠀⠀
+⠀⢠⢟⣿⡿⠋⣠⣾⢿⣿⣿⠟⢃⣾⢟⣿⢿⣿⣿⣿⣾⡿⠟⠻⣿⣻⣿⣏⠻⣿⣾⣿⣿⣿⣿⡛⣿⡌⠻⣿⣿⡿⣿⣦⡙⢿⣿⡝⣆⠀
+⠀⢯⣿⠏⣠⠞⠋⠀⣠⡿⠋⢀⣿⠁⢸⡏⣿⠿⣿⣿⠃⢠⣴⣾⣿⣿⣿⡟⠀⠘⢹⣿⠟⣿⣾⣷⠈⣿⡄⠘⢿⣦⠀⠈⠻⣆⠙⣿⣜⠆
+⢀⣿⠃⡴⠃⢀⡠⠞⠋⠀⠀⠼⠋⠀⠸⡇⠻⠀⠈⠃⠀⣧⢋⣼⣿⣿⣿⣷⣆⠀⠈⠁⠀⠟⠁⡟⠀⠈⠻⠀⠀⠉⠳⢦⡀⠈⢣⠈⢿⡄
+⣸⠇⢠⣷⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⠿⠿⠋⠀⢻⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢾⣆⠈⣷
+⡟⠀⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣶⣤⡀⢸⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡄⢹
+⡇⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠈⣿⣼⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠃⢸
+⢡⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⠶⣶⡟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼
+⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡁⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣼⣀⣠⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⣲⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠖⠋⢀⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠜⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠊⠀⠀⡠⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠊⡰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁⠀⠀⡜⠁⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠚⠁⡜⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⢸⠀⠀⠀⠀⢀⣀⣀⠤⠖⠈⠀⠀⢀⡜⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⠓⠲⢤⣸⠒⣊⣭⠛⠉⠀⠀⠀⠀⠀⢀⣠⢿⡶⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠇⠀⠀⠀⠀⣹⠎⠀⠀⠑⡄⠀⢀⡠⠔⢊⡥⢺⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠎⠀⠀⠀⣠⠞⠁⠀⠀⠀⢀⣾⠋⠁⣠⠞⠁⠀⢸⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠃⠀⡠⠊⡜⠁⠀⠀⠀⢀⡊⠁⠁⠀⢊⡀⠀⠀⠀⣀⣉⣓⣦⡤⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡤⠊⠁⠸⠀⠀⠀⡠⡖⡝⠀⠀⠀⠀⠀⠈⢉⡩⠭⠒⢋⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡸⠁⠀⠀⠀⠑⠒⠛⠒⠋⠁⠀⠀⠀⠀⠀⠀⠘⠤⣀⡀⠈⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠜⠁⠀⠀⠀⠀⠀⠀⢀⣀⠤⠄⠀⠀⠀⡰⠚⢧⠉⠒⠒⠮⠽⣾⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠋⠁⡠⣖⠂⠀⠀⠀⡠⠋⠉⠀⡀⠀⠀⢀⡴⠁⠀⠸⡄⠀⠀⠀⠀⡇⠙⢌⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠘⠐⠁⣀⡠⠔⠋⣀⣀⡴⠚⠓⡶⣞⣉⣀⣀⡠⢤⠇⠀⠀⠀⢰⣃⡀⠈⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⣀⣠⡊⠁⡀⣠⠞⠁⠀⠀⠀⡜⠁⠀⠀⠀⠀⠀⡜⠀⠀⠀⠀⣿⠀⠈⠑⢄⢳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣽⢻⡏⠁⠀⠀⠀⢀⠞⠑⠦⠤⠤⠤⠄⡸⠁⠀⠀⠀⢸⠉⣆⠀⠀⠘⡾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⠀⠃⠀⠀⠀⢀⢏⠀⠀⠀⠀⠀⠀⡰⠁⠀⠀⠀⠀⢸⠀⠘⡄⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠑⠦⠤⠤⠄⢲⠁⠀⠀⠀⠀⠀⠘⣆⣀⣹
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡴⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⣿⣿⣿⡅⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣤⣤⣴⣿⣿⣿⣿⣯⣤⣶⣶⣾⣿⣶⣶⣿⣿⣿⣿⣿⡿⠿⠟⠛⠉⠉⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠉⠁⠈⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⠶⠶⠦⠄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⡿⠟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣟⣡⣤⣾⣿⣿⣿⣿⣿⣿⢏⠉⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⡻⢿⣿⣿⣦⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣀⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠈⠻⡄⠁⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠈⠙⠻⣿⣆⠀⠀⠀⠀
+⠀⠀⠀⠀⢰⣿⣿⣿⣿⡿⠛⠉⠉⠉⠛⠛⠛⠛⠋⠁⠀⠀⠀⠁⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠈⠙⢧⠀⠀⠀
+⠀⠀⠀⠀⠀⠙⠿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠁⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠙⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣤⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⢹⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠁⠀⠀⠀⠀⠈⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠛⢋⣩⡿⠿⠿⠟⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣄⣀⡀⠀⠀⠀⠀⠀⠐⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣾⣿⣿⣿⣿⣿⣿⣿⠻⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⢿⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢰⣿⣿⣿⣿⣿⣿⣿⣿⡄⠙⢿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠠⣤⣀⠀⠀⠀⠠⣄⣀⣀⡉⢻⣿⣿⣿⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀
+⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣦⣤⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠀⠀⠀⠀
+⠀⢻⡟⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠛⠋⠉⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀
+⠀⠀⠃⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠈⠉⠻⢿⣿⣿⣿⣷⡄⠀
+⠀⠀⠀⠀⢸⣿⣿⡟⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⣿⣿⣿⣿⣿⣧⣀⣀⡄⠀⠀⠀⠀⠀⠀⠈⣿⡿⣿⣿⣷⠀
+⠀⠀⠀⠀⢸⣿⡿⠁⠀⠀⠀⠙⠻⠿⣟⠻⢿⣿⣿⣿⣷⣦⡀⠀⠈⠻⢿⣿⣿⣭⣉⡉⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠸⣿⣿⡄
+⠀⠀⠀⠀⣸⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣦⡀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠁
+⠀⠀⠀⠠⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡟⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠟⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⡴⡖⡴⡖⡴⡄⢰⣀⣶⣰⡂⣶⢰⡆⣶⢰⣆⣰⣀⣆⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡄⠀⠀⠀⠀⠀⠀⠀⢀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡄⢸⣿⣇⠀⠀⠀⠀⠀⠀⠀⢸⣿⡇⢠⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢲⣤⡀⠀⠀⠀⠀⠀⠀⠀⣸⡇⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀⣿⣿⡇⢸⣇⠀⠀⠀⠀⠀⠀⠀⢀⣠⡖
+⠀⠹⣿⣆⠀⠀⠀⠀⠀⣰⣿⠇⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀⣿⣿⡇⠸⣿⣆⠀⠀⠀⠀⠀⣰⣿⠏⠀
+⠀⠀⢻⣿⡆⠀⠀⠐⢿⣿⣿⣦⣼⣿⣿⡇⠀⠀⠀⠀⠀⢰⣿⣿⣇⣴⣿⣿⡿⠂⠀⠀⢰⣿⡟⠀⠀
+⠀⠀⢸⣿⡇⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⠏⠁⠀⠀⠀⢸⣿⡇⠀⠀
+⠀⠀⢸⣿⣿⡄⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⢠⣾⣿⡇⠀⠀
+⢰⡄⠸⣿⣿⣿⣦⣄⠀⠀⢸⣿⣿⣿⣿⣿⡀⠀⠀⠀⢀⣿⣿⣿⣿⣿⡇⠀⠀⣠⣴⣿⣿⣿⡇⢠⡆
+⢸⣿⣆⢻⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⡟⠁⠀⣀⠀⠈⢻⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⡟⣰⣿⡇
+⠀⣿⣿⣷⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢾⣿⡷⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣾⣿⣿⠀
+⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠉⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⡀
+⢸⣦⡈⢿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⡄⠀⢠⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⡿⢁⣴⡇
+⠀⢿⣿⣮⣿⣿⣿⣿⣿⡇⠈⠻⣿⣿⣿⣿⣿⣿⣶⣿⣿⣿⣿⣿⣿⠟⠁⢸⣿⣿⣿⣿⣿⣵⣿⡿⠁
+⠀⠈⢻⣿⣿⣿⣿⣿⣿⡇⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⢸⣿⣿⣿⣿⣿⣿⡟⠁⠀
+⠀⠀⠀⠉⠻⢿⣿⣿⣿⣧⠀⠀⡀⠀⠙⣿⣿⣿⣿⣿⣿⣿⠋⠀⢀⠀⠀⣼⣿⣿⣿⣿⠟⠉⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣷⣄⣹⣷⣤⣈⣿⣿⣿⣿⣿⣁⣤⣾⣏⣠⣾⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⡇⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢸⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⡇⢷⣿⣿⣿⣿⣿⣿⣿⣿⣿⡾⢸⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡇⣈⢿⣿⣿⣿⣿⣿⣿⣿⡿⣡⢸⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠶⣾⣿⣿⣿⣿⣿⣿⣿⣷⠶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣆⣾⣿⠇⣠⣾⣷⢂⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⢞⡤⣠⣦⣾⣿⣾⣿⣷⣾⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣴⠖⠒⠋⠉⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣭⢶⣶⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠀⣀⠀⠀⠀⢀⣀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣈⣭⣿⣤⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⡟⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣶⣠⣾⣿⣶⣿⣿⣷⣶⣴⣿⣿⣿⣿⣖⡀
+⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣌⣿⣿⣿⣿⣿⡿⠿⢻⣿⣿⣿⣿⣿⣟⠛⠀
+⠀⠀⠀⠈⠹⣛⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡛⠇⠀⠀⠀⠀⠀⠀⣀⠀⢀⣤⣤⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠙⠉⠛⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢻⣿⣿⣿⡛⠿⠿⠄⣸⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⣀⡄⢠⣿⣿⣴⣿⣿⣷⣾⣿⡿⠆⠀⠀⠀⠀⠀⠀⠰⣾⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠘⢿⣿⣿⣭⢛⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⡉⠃⠀⠀⢰⣿⣷⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣶⣦⣄⡀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠁⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣯⠉⠟⠁⠀⣴⣧⣾⣿⣿⣿⣿⣿⣿⣿⣷⣿⣯⣿⣿⣿⣿⣏⠃⠀⠀⠀⠀⠀⣦⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⠋⠿⠀⠀⣠⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⡄⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢠⣾⣶⣤⡀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⡟⠇⢀⡀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣤⣤⡄⣰⣧⣼⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠙⣿⣿⣇⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣴⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⠉⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀
+⠐⠞⠛⠛⠻⢷⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⢀⣤⡄⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠚⣿⣿⣤⣈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠙⠺⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⢨⣿⠏⠙⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉⢻⣷⣶⣤⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⠿⣿⣿⣿⣿⣿⣿⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠚⠁⠀⠀⠀⠀⠀⠈⠙⠛⠛⠛⠛⠋⠉⠀⠀⠀⢸⣿⡏⠙⠇⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠟⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠿⠋⠀⠀⠙⠛⢿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⡿⠃⠀⠀⠀⠀⣀⡀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠋⢀⣠⣶⣿⠟⠋⠀⠀⢀⣠⣴⠞⠉⠁⠀⠀⠈⢻⣿⣿⣿⣝⡿⣿⣿⣿⣷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠏⣠⣴⣿⠟⣋⣤⣶⣿⣿⡿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣷⣬⡙⠻⢿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⢃⣼⣿⣿⣿⣿⣿⣿⣟⣋⣁⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣶⣄⡉⠻⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣧⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣛⠉⠙⠛⠳⠶⣤⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣦⣈⠙⢿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⡝⢿⣿⣿⣿⣿⣿⣷⣄⠙⠻⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⡟⠉⢉⠉⠉⠻⣿⣿⣿⣿⣿⣿⠻⣶⡀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣎⠻⣿⣿⣿⣿⣿⣿⣷⣄⠈⢿⣿⣦⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡿⠋⣿⣿⣿⣿⣷⠶⠋⠀⠀⢀⡈⢻⣿⣿⣿⣿⣦⠈⠛⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣦⠘⢿⣿⣿⣿⣿⣿⣿⣧⡀⠙⢿⣧⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣷⣾⡿⠛⠉⠁⠀⠀⠀⠀⠀⢀⣷⡀⣿⣿⣿⣿⢿⣷⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣧⡀⢻⣿⣿⣿⣿⣿⣿⣿⣄⠀⢻⣿⣆⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠁⣿⣿⣿⣿⠀⢻⡆⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣷⠀⠹⣿⣿⣿⣿⣿⣿⣿⣧⡀⠹⣿⣆⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⠏⢠⣿⣿⣿⣿⠀⠈⠃⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠹⣿⣿⣿⣿⣿⣿⣿⣧⠀⠙⢿⡀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⠃⢠⣿⣿⣿⡏⡞⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⢹⣿⣿⣿⣿⣿⣿⣿⣧⠀⠈⣧⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⠇⣠⣿⣿⣿⠟⠀⠁⠀⠀⠀⣀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⢿⣿⣿⣿⣿⣿⣿⣿⣧⡀⢹⣇
+⠀⠀⠀⠀⠀⢀⣤⠖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⡏⢰⣿⣿⣿⣿⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠛
+⠀⠀⠀⠀⢠⡾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⠁⢸⣿⣿⣿⠛⠿⣿⣿⣿⣿⣛⣛⣛⠋⠉⠉⠉⠉⠛⠛⠛⠿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀
+⠀⠀⠀⢰⣿⠃⠀⠀⢀⣠⣤⣤⠴⠶⠂⠀⠀⠀⢹⣿⣿⣿⠀⢸⣿⣿⣿⣷⣄⡀⠉⠙⠻⠿⢿⣿⣿⣿⣶⣦⣄⡀⠀⠀⠀⠀⠉⠻⢿⣿⣿⣿⡇⠀⢸⣿⣿⣿⣿⣷⢹⣿⣿⣇⠀
+⠀⠀⢠⣿⡇⠀⢀⣴⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⡆⠸⣿⣿⣿⣿⣿⣿⣷⣶⣤⣤⣀⡈⠙⠛⠿⣿⣿⣿⣷⣤⣀⠀⠀⠀⠀⠹⣿⣿⡇⠀⠘⣿⣿⣿⣿⣿⠈⣿⣿⣿⠀
+⠀⠀⣾⣿⠀⢰⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⡆⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠉⠻⣿⣿⣿⣷⣄⠀⠀⠀⠈⢿⡇⠀⠀⣿⣿⣿⣿⣿⠀⢹⣿⣿⡇
+⠀⠀⣿⣿⠀⢸⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣦⣀⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠈⠻⣿⣿⣿⣷⡀⠀⠀⠘⡇⠀⢀⣿⣿⣿⣿⣿⠀⢸⣿⣿⠇
+⣀⠀⣿⣿⡆⢸⡟⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡶⠖⣂⣀⣀⣀⡀⠀⠉⠁⠀⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣷⡀⠀⠈⢿⣿⣿⣷⡀⠀⠀⠃⠀⢸⣿⣿⣿⣿⣿⠀⢸⣿⣿⠀
+⣿⠀⢻⣿⣇⣸⡇⠀⠀⠀⠀⠀⠀⢀⣴⣟⣡⣴⠿⠟⠛⠉⠉⠙⠛⠲⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣧⠻⣿⣿⣿⡄⠀⠈⢻⣿⣿⣷⠀⠀⠀⠀⣼⣿⣿⣿⣿⡟⠀⢸⣿⡿⠀
+⣿⡄⠸⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⣾⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⡇⠸⣿⣿⣿⠀⠀⠈⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿⣿⡇⠀⣿⣿⠇⠀
+⢹⣧⠀⢻⣿⣿⣿⡆⠀⠀⠀⠀⠀⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⠀⣿⣿⣿⡆⠀⠀⢹⣿⣿⠃⠀⢀⣿⣿⣿⣿⣿⣿⠁⢰⣿⣿⠀⠀
+⠘⣿⡄⠈⣿⣿⣿⣿⡀⠀⠀⠀⠀⢿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣶⣦⣄⠀⠀⠀⠀⣿⣿⣿⡟⠀⢸⣿⣿⠃⠀⠀⢸⣿⣿⠀⠀⣸⣿⣿⣿⣿⣿⠃⢀⣾⣿⡏⠀⠀
+⠀⢹⣿⣄⠘⣿⣿⣿⣧⠀⠀⠀⠀⠘⣿⣿⣿⡶⠆⠀⠀⠀⠀⠀⠀⣴⣿⣿⠏⠁⠀⠀⠀⠀⠀⢠⣿⣿⣿⠃⠀⣿⣿⡿⠀⠀⠀⣾⣿⡏⠀⣰⣿⣿⣿⣿⣿⠏⠀⣸⣿⠟⠀⠀⠀
+⠀⠀⢿⣿⣦⠸⣿⣿⣿⣆⠀⠀⠀⠀⠘⢿⡏⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⠋⠀⣸⣿⣿⠃⠀⠀⣼⣿⡿⠀⣰⣿⣿⣿⣿⣿⠋⠀⣰⣿⠏⠀⠀⠀⠀
+⠀⠀⠈⢻⣿⣷⣿⣿⣿⣿⣦⡀⠀⠀⠀⠈⢻⣄⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣷⣤⣄⣀⣤⣴⣿⣿⠟⠁⠀⣴⣿⡿⠁⠀⠀⣼⣿⡿⠃⣼⣿⣿⣿⣿⡿⠋⠀⣰⣿⠏⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⠀⠉⠛⠿⢿⣿⣿⣿⠿⠛⠁⠀⣠⣾⣿⠟⠁⠀⣠⣾⣿⡿⢉⣾⣿⣿⣿⣿⠟⠁⠀⣼⣿⠋⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣷⣄⡀⠀⠀⠀⠈⠳⢦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣿⠿⠛⠁⠀⣠⣶⣿⣿⢋⣴⣿⣿⣿⣿⡿⠋⠀⣤⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⣿⣿⣶⣤⣀⠀⠀⠀⠀⠉⠙⠛⠲⠶⠶⠶⠶⠾⠿⠛⠛⠉⠀⢀⣤⣶⣿⣿⣿⢟⣵⣿⣿⣿⣿⡿⠋⠀⢀⣼⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⣀⠙⠻⢿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣄⣀⣀⠀⠀⠀⠀⣀⣀⣀⣠⣤⣶⣾⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⡿⠋⠀⠀⣠⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢶⣦⣤⣝⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⣀⡔⠋⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+
+
+⠀⠀⢀⣶⡶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢾⡲⣟⣟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠘⠻⣦⡃⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠈⠙⣷⣕⢄⡀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠈⠹⣷⣌⠹⢷⣟⡦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠛⢷⣏⠻⣯⣏⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣄⡿⣿⣼⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣷⣿⣿⣦⡕⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣟⣿⣾⣽⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣷⣝⢿⣶⡿⣧⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣟⣼⠯⣭⢷⣽⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⡿⣿⣯⣻⣿⣿⢯⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⣿⣿⣟⣦⡐⢮⠢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⢟⣷⣝⡶⣕⢩⢃⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣷⣝⣿⡟⣿⣷⣍⠶⡐⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣠⣤⣴⣾⣿⣿⣿⣿⣾⡷⣎⣳⣿⣷⣬⠳⣑⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣿⣷⣮⣽⡙⢷⣵⣮⡣⣔⡠⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠛⠉⠀⠠⢻⠋⠀⠙⣿⢦⡙⢿⣷⢦⡙⢫⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠙⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠑⢄⠀⢋⡟⡿⡤⠙⢷⣿⢦⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣽⣿⣷⣟⢿⣤⢝⣷⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⡿⠛⠘⢽⣼⣿⣯⣂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣟⡾⠁⠀⠀⠈⢿⣿⣿⣿⢧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣽⢹⠁⠀⠀⠀⠀⠈⣿⣿⡟⡖⡌⠉⢢⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠛⠋⠀⠀⠀⠀⠀⠀⠹⣿⣝⣋⢆⠀⠀⠣⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣼⡢⡄⢒⠀⠉⢆⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣷⡼⣷⡆⡀⢀⠥⡀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⡞⣿⡬⣁⡂⡙⢤⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣮⢿⣵⢮⣷⠿⠁
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⡾⠋⠁⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⠟⠁⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⠿⠋⠉⠉⢿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠴⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠄⠀⠄⠀⡀⢀⠀⠀⠀⠀⠀⣠⣴⡿⠛⠁⠀⠀⠀⠀⠀⢿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴
+⠀⠀⠀⠀⡀⠄⠀⠀⠀⠀⠀⠀⠂⠠⠀⢂⠀⠀⠀⠁⠀⠀⠀⠀⠀⠄⠀⠊⠀⠀⣠⣾⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣾⡿⠟
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⡿⠛⠉⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣶⣶⣤⣤⣤⣀⣀⠀⠀⠀⣤⣶⣿⠟⠋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⠀⠀⣠⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠤⠿⡻⠛⠉⠉⠛⠛⢿⠿⣿⣷⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⡼
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠇⠹⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⠋⠀⣠⠎⠀⠀⠀⠀⢀⡔⠃⠀⢀⡞⠉⠁⠀⠀⠀⠀⠀⠀⢀⡜⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡞⠀⠀⣰⠃⠀⠀⠀⠀⡰⠋⠀⠀⣠⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣁⢀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⣰⠃⠀⠀⠀⠀⡜⠁⠀⠀⡰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢀⣴
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣦⡴⠃⠀⠀⠀⠀⢸⠀⠀⠀⡰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣅
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⢿⣿⣿⠋⠀⠀⠀⠀⠀⠀⢀⣠⣶⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⠶⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈
+⠀⠀⠀⠀⠀⠀⠀⣴⡿⠿⢿⣷⣦⣄⠀⣿⠃⠀⠈⠁⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢀⣤⣤⣼⣿⠀⠀⠀⣿⣿⣿⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣶⣤⡀⠀⠀⠀⠀⠀⠀
+⠀⢀⣴⣿⠛⠉⠉⠉⠀⠀⠀⠉⠙⢛⠛⠿⣿⣿⣦⣄⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠂⠠⡀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀
+⣴⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⢤⡈⠙⠿⣿⣿⣶⣄⡀⠀⠈⠛⠻⠿⠟⠋⠀⡠⢡⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀
+⣿⡇⠀⠀⠀⣠⡾⣛⣿⣶⡀⠀⠀⠀⠀⠀⠉⠓⠤⡈⠉⠻⢿⣿⣶⣄⡀⠀⠀⠀⠀⠐⠀⠸⣄⠀⠀⠀⢠⡄⠀⠀⠀⠀⢀⡀⠀⠡⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀
+⣿⡇⠀⠀⢰⡟⢰⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠁⠂⢄⡑⠢⢀⠉⠻⢿⣿⣦⣄⡀⠀⠀⠀⠀⠈⠓⠒⠚⠁⠙⢄⣀⣀⣠⠞⠁⠀⠀⡀⠀⠀⠈⠻⢿⣿⣿⣿⠿⠛⠀⠀⠀⠀⠀⠀
+⣿⡇⠀⠀⠘⣷⡘⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠠⢁⠂⠀⠈⠛⠿⣿⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⡇⠀⠀⠀⠈⠛⠿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⢹⠛⠻⣿⣶⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡐⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⣿⠉⣿⣿⣶⣤⡀⣀⣤⣤⣄⣀⠀⠀⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⡇⠀⠀⠀⠀⠀⣿⣖⠀⠀⣈⠀⠀⠀⠈⠙⠲⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⣿⠀⣿⠀⢸⠛⢿⣿⡿⠛⠿⢿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⡇⠀⠀⠳⣦⡀⠀⠀⢀⠔⠀⠀⠀⠀⠀⠀⠀⢸⠈⠛⠳⣤⣀⠀⠀⠀⠀⠀⢸⡀⠀⣿⠀⣿⠀⢸⠀⠈⣏⠛⣶⣄⡀⠈⢿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⡇⢀⠀⠀⠀⠉⠉⠉⠁⠀⠀⣠⣤⣤⣄⡀⠀⢸⠀⠀⠀⡇⠈⡟⠲⢤⣀⠀⠸⣷⣄⣿⠀⣿⠀⢸⠀⠀⣿⠀⣿⠀⠉⠓⠺⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢿⣿⣬⠑⠒⢤⣄⣀⣀⣤⡤⢦⣅⠉⠛⢯⣽⣳⣾⣄⡁⠀⡇⠀⡇⠀⠀⠈⠙⠲⢬⡙⠻⣿⣿⣦⣼⡀⠀⣿⠀⣿⠀⠀⠀⠀⠈⢿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠈⠛⠿⣿⣶⣤⣀⡉⠛⢦⣄⡀⠈⠙⠶⣤⣈⠙⠻⢿⣿⣷⣧⣀⡇⠀⠀⠀⠀⠀⠀⠈⠙⠲⢌⡙⠿⣿⣿⣿⣀⣾⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠉⠛⠿⣿⣷⣶⣬⣙⡳⠄⠀⠀⠉⠙⠶⣤⣈⠙⠳⣯⣻⡶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⢬⣛⠿⣿⠀⠀⠀⠀⠀⠈⣿⡇⠀⠀⠀⠀⠀⠀⠰⣄⠀⠀⠀⠀⢀⡶⠶
+⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⠿⣿⣿⣿⣶⣤⣄⡀⠀⠀⠙⠷⢦⣤⡈⠙⠶⣽⣓⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⢤⣀⠀⠀⠀⠀⣿⡇⠀⠒⢀⠀⠀⠀⢀⠈⠳⢤⣀⣀⣼⠇⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⣿⣿⡿⠿⠿⠿⠶⣶⣦⣈⡙⠓⢦⣄⣉⣿⣬⠿⠷⠦⣤⣤⣤⣄⣀⠀⠀⠀⠀⠈⠙⠲⣤⣠⣿⣿⠀⠀⠀⠑⠂⠐⠋⠀⠀⠀⠉⠉⠁⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⡏⠀⠀⠀⠀⠀⠀⠉⢻⣿⡶⠋⠉⠁⠀⠀⠀⠀⠀⠀⠈⠉⠙⠻⣿⣦⣄⠀⠀⠀⠀⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣷⣤⡀⢀⣿⡏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⢿⣾⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣷⣄⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣷⣾⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣿⣯⣽⡙⠿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢠⣾⣿⡗⡞⣭⠭⡘⠋⠋⠀⣰⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣀⣤⣿⣿⣿⣿⣿⠔⠃⠀⢀⣤⡶⠋⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢀⣴⣾⣿⣿⣿⣿⣷⣮⡐⠀⠀⣰⣯⠟⠡⢀⣼⣆⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⣰⣿⣿⣿⣿⣿⣛⠿⣿⣽⢿⣦⣨⡷⠋⠀⢸⣾⣿⣹⡾⢧⣀⠀⠀⠀⠀⠀⠀
+⣿⣿⡿⣻⣿⣿⣿⣷⣎⢻⣞⣿⡟⠀⡄⠀⣼⢿⣧⣿⣿⣷⣦⠛⣦⡀⠀⠀⠀
+⣿⣿⡇⣿⣿⣿⣿⣿⣿⡄⣿⣿⣇⠀⣷⣾⣟⣼⣿⣿⣿⣿⣿⣏⡤⠽⠦⡀⠀
+⣿⣿⣧⡻⣿⣿⣿⣿⡿⣸⣯⣿⣇⡜⢹⣷⣿⣿⣿⣿⣿⣿⡟⢛⠀⠀⠀⠐⡄
+⠈⢻⡿⣿⣾⣿⣿⣿⣾⣿⣿⣿⠋⣰⡿⠛⠻⣿⣿⣿⣿⡿⠈⠀⠀⠀⠀⢠⠃
+⠀⠈⣿⣳⣯⣿⠾⣳⢯⣿⠟⢁⣼⣿⢡⠖⠓⠲⣝⣿⣿⡏⢀⡠⣀⣀⡼⠃⠀
+⠀⠀⣿⣟⣿⣿⣿⣎⢟⣽⢀⣾⣿⣴⢸⣄⠀⠀⣸⣽⣿⡃⠎⠀⠀⡽⠁⠀⠀
+⠀⢀⣿⣟⢿⣿⣿⡟⣼⡟⣾⣿⢯⣿⠺⠽⠷⡾⠷⢏⠛⢧⡘⠢⣀⠇⠀⠀⠀
+⠀⠸⣿⣝⠷⣿⣽⠾⢟⣽⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠉⢨⠿⠷⠚⠀⠀⠀⠀
+⠀⠀⢹⣿⣿⣶⣶⣾⣿⣿⡟⢁⡀⢀⠀⢀⠀⠀⠀⠀⠀⡽⣂⠀⠀⠀⠀⠀⠀
+⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣷⣦⣜⣢⡉⢆⠂⣀⣀⡤⠞⢑⠇⠀⠀⠀⠀⠀⠀
+⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⡍⠉⠉⠉⠉⠉⠉⠀⠀⠀⡼⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⡌⣄⠢⢄⠠⡀⠀⠀⢀⣰⠃⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠈⢻⣿⣿⣿⡿⣿⠿⣴⢧⣮⠴⡥⠶⢚⣩⠆⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢻⣿⣿⡖⢠⢐⡀⢀⠀⠄⠀⠀⡼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠙⢿⣟⣲⢦⣽⢒⡌⣌⡴⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⡉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⡏⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠖⠛⠁⠀⠀⣇⠀⠀⠉⠑⢢⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⣀⡤⠤⣷⠤⢄⣀⠀⠀⠈⠳⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⡞⠀⠀⢀⡔⠉⠀⠀⠀⡏⠁⠀⠈⠑⢦⠀⠀⠈⣆⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⡞⠀⠀⢰⠋⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⢻⠀⠀⠘⡆⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠰⠃⠀⠀⡎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠀⠀⠻⠀⠀⠀⠀⠀
+⠑⠒⠒⠒⠒⠘⡒⠒⠚⡗⠒⠒⠂⠀⠀⠀⠛⠀⠀⠀⠐⠒⠂⡗⠒⠒⢒⠒⠂⠒⠒⠒
+⠀⠀⠀⠀⠀⠀⣇⠀⠀⢱⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡸⠂⠀⢀⡇⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠘⢆⠀⠀⠱⣄⠀⠀⠀⠀⣆⠀⠀⠀⣀⡼⠁⠀⢀⡞⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⠣⣀⠀⠀⠉⠒⠤⠤⣧⠴⠦⠒⠉⠀⢀⡴⠎⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⢤⣀⠀⠀⠀⡟⠀⠀⢀⣠⠴⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠀⡇⠊⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣶⢤⣀⠀⠀⢀⣤⣾⢿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣀⡼⠟⠋⠉⢝⠃⢸⣛⣇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠋⠰⠀⠀⠀⠈⢧⣀⠹⠹⣆⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡇⢀⡇⠀⢠⡀⠀⠘⣿⡌⠇⣿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⢁⡾⢳⣦⠘⣟⣆⡀⣿⣷⢠⢺⡇⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣽⣧⡀⠀⠀⢀⣴⣞⡛⣿⣿⣿⡟⢿⠿⠁⠉⠛⢉⣿⣿⡟⢳⣿⠿⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣶⣦⣤⣤⣼⣿⣿⣿⣿⣿⠛⠿⣿⣿⣿⣿⣿⣷⣾⡇⠀⠀⠠⠿⣯⣿⣷⣾⣟⣀⣤⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠿⢿⣿⠿⠿⠆⠀⠙⢿⣿⣿⠿⢿⣿⣦⣤⣴⣾⡿⣻⡿⠛⣿⣶⣾⡧⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠳⠶⣤⣀⣀⠀⠙⠷⣀⣼⣿⣿⣿⣿⣥⣾⣿⣧⣼⣿⣿⣿⣷⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣻⣿⠑⢦⡀⠈⠻⢧⣿⣿⠋⠼⢿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⠉⣿⡷⢤⡀⠀⠉⠛⠚⣁⣌⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠔⠛⠓⢿⠇⠀⢠⣀⡴⠛⢦⣄⠀⢀⣨⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀⠘⣶⣀⣼⣿⣉⠙⠚⢿⡿⠿⣄⣿⣏⢻⣿⣿⣿⣿⠃⣏⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀⣤⡀⠀⠈⢧⠈⣟⣿⣤⡀⠠⡇⠀⠀⣿⣿⡆⠻⣿⡿⠻⢾⠋⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀⣠⠞⠉⣿⣦⡀⢸⠀⠹⣝⡻⣿⣿⠃⠀⠀⣸⣿⠣⡄⠹⣆⠀⠘⢇⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠞⠙⢄⠀⣠⡴⠚⠁⠀⠀⢛⣹⣿⣎⠀⠀⠀⠑⠚⡛⠀⠀⠀⣹⣿⡷⠄⠀⠈⢷⣄⠈⣷⠀⠀
+⠀⠀⠀⠀⠀⢀⣤⣤⣀⡴⠋⠀⣀⣴⠾⠋⠁⠀⠀⠀⠀⠀⡼⣻⣿⣿⣧⡀⠀⠀⢠⠇⠤⣀⣠⣿⣿⡀⠀⠀⠀⢸⠏⠀⣿⡄⠀
+⣴⣶⣶⣶⣶⣿⣿⣿⣿⣤⣀⣬⡟⠁⠀⠀⠀⠀⢰⡶⠤⠞⣿⣿⣻⣿⣿⣷⣄⢀⡞⠀⠀⣰⡿⢻⣿⡿⢿⣷⡆⠀⣀⡴⠋⢙⣆
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠙⠲⢄⣉⣿⣿⡿⣿⣿⣿⣿⠇⠀⢰⣿⠳⣼⣿⠃⣠⠀⠙⣆⠀⠀⠀⢻⡟
+⠀⠉⠛⠿⠿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⢈⡝⠀⢠⣿⡇⠀⢻⡟⠚⠁⠀⠄⠈⢧⡴⠀⠈⣧
+⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⠿⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⣿⣿⣶⣴⣿⡉⠉⠙⠳⡀⠀⠀⠀⣒⣚⠡⢒⣶⡿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣻⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠉⠲⠤⠤⣄⣸⡤⠔⠋⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠈⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+⠀웃  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⢻⠋⡏⢛⢹⢹⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⠤⠤⠤⠤⣄⣀⣀⠀⠀⢸⣿⢸⣀⡇⢸⣾⢸⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠒⣮⣿⠛⠉⠉⠉⠉⢻⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣶⠟⣩⣿⣶⢰⣖⠒⣶⣼⣀⣀⣠⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢺⠀⠀⠀⠀⠀⠀⣴⣖⣲⣦⠤⣿⣿⡞⠁⠙⠛⠛⢻⡿⠁⡼⠋⢀⣈⡬⠶⠛⠋⠉⠉⠉⠉⠉⠉⢉⣩⠽⠛⣛⣽⠿⣟⣛⣛⣛⡛⠲⢤⣀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣠⠤⣤⣀⡈⣇⠀⠀⠀⠀⢸⣿⣿⠶⠾⣿⡿⠋⢹⠀⠀⠀⣠⡏⢀⣞⡵⢞⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⣠⠖⠋⣠⢶⣻⠵⡞⣏⠁⠀⠀⠀⠉⠙⠲⣌⡑⢦⡀⠀⠀
+⠀⠀⠀⣼⢿⠵⢶⣼⣷⠛⠛⣧⣄⠀⠀⢸⣇⣿⣗⣊⣿⠖⠀⢸⠀⢶⢯⣭⠟⢋⡞⢠⠟⠀⠀⠀⠀⠀⠀⠀⠀⢀⡞⠁⣠⠞⡵⢻⡁⠀⢹⡼⡄⠀⠀⠀⠀⠀⠀⠀⠙⢦⡹⣄⠀
+⠀⠀⠀⣿⢸⠀⢾⠁⠈⣳⠞⢛⣿⣟⠶⣿⣿⣻⠿⢽⣿⣦⣀⡼⠀⢸⠶⡇⠀⢸⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀⣠⠟⢀⡜⢡⡞⠁⠀⡇⠀⠀⡇⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⡹⡄
+⠀⠀⠀⠙⠛⠒⢚⣷⠞⣡⢞⡉⠀⠹⣿⣮⠙⣿⠯⠟⠉⢹⡿⣤⣀⠸⡶⣧⣀⡸⡄⢹⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⡼⢠⠏⠀⠀⠀⣷⠀⠀⡇⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢃⢻
+⠀⢀⣤⠶⢶⣴⠋⣠⢾⡇⠹⣷⣄⠀⠉⠻⣷⡼⣳⣤⣴⣿⣷⡇⢨⣽⣿⣿⠿⣝⣿⣾⣆⠀⠀⠀⠀⠀⠀⢸⠁⠀⡇⡞⠀⠀⠀⢰⠃⠀⢸⢳⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢸
+⠀⡸⠹⢾⣖⣛⣿⣅⠀⢧⠀⠈⢻⣧⡀⠀⠘⠻⣟⣻⣿⣿⣿⣿⣿⣿⣿⣿⣦⣬⡿⣿⣿⣦⡀⠀⠀⠀⠀⠘⡆⠀⡇⣇⠀⠀⣠⠋⠀⢠⢏⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢸
+⣶⠃⠀⠈⠋⢻⢴⣗⣻⣮⣷⡀⠀⢹⣟⣦⡄⠀⠈⠛⠉⡹⠉⠈⠓⢿⡿⣿⣿⣿⠷⣄⣹⡆⠙⠲⣄⡀⠀⠀⢿⠀⢧⠸⡶⠚⠁⢀⡴⢣⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢸
+⠛⢦⡀⠀⠀⠀⢸⠋⠀⠀⢈⡿⡄⢸⣺⡀⠀⠀⠀⠀⢠⡇⡾⣦⡀⠀⠉⢿⣿⠻⣷⣮⠟⢁⣀⣀⣨⣿⣷⣤⡈⢧⠈⣇⠳⣤⠖⣩⠴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⢁⠇
+⠀⠀⠙⢦⡀⠀⡏⠀⠀⠀⡼⠀⠙⣎⠙⣿⣾⣷⡀⠀⠘⢧⢿⣻⡇⢠⣄⠘⠿⠿⠻⠿⣼⡟⢷⣿⣿⣾⠯⠿⠋⠛⠧⣈⢦⡙⣏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣡⠊⠀
+⠀⠀⠀⠀⠈⠻⠥⠤⠤⠼⠁⠀⠀⠘⢿⣿⡿⣏⣹⣆⠀⠀⠻⣍⠀⢸⣏⠳⡄⠀⠀⠀⠀⠑⢤⣿⣙⣟⣄⠀⠀⢠⡤⠬⠿⢿⣌⡓⢦⣄⡀⠀⠀⠀⠀⠀⠀⠀⣀⠴⣣⠞⠁⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⠈⢠⡾⣷⡀⠀⠈⠳⣜⢟⣾⠀⢰⣄⡀⠀⣴⣾⢿⣽⡿⣞⣆⠀⠀⢻⡋⠉⠙⢧⢻⡳⢦⣉⡑⠲⠶⠶⠶⢒⣫⠵⠛⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡇⠀⠀⠳⣝⢿⣦⠀⠀⠈⠳⣍⠀⣞⡇⢹⣶⡏⡇⠀⠙⢿⣹⣜⢦⠀⠀⠳⣄⣀⣬⣷⣷⡄⢳⡌⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⠀⠀⠈⢦⡙⣷⠀⠀⠀⠈⠳⣝⠓⣸⢠⢇⡇⠀⠀⠀⠀⠹⣎⢧⠀⠀⠻⣄⣀⣀⣹⡿⡄⠹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣆⠀⠀⠀⠀⢻⠃⠀⠀⠀⠀⠀⠈⠣⡍⢸⢸⠀⠀⠀⠀⠀⠀⠘⣆⢣⡀⠀⠙⣧⠴⠛⢣⠘⣄⠙⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠘⣆⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣼⡀⠀⠀⠀⠀⠀⢀⡼⣶⠗⠦⡄⠘⣆⠀⠀⣳⣸⡆⠘⣦⠀⣀⣀⣀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠘⣦⠀⠀⠹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣄⠀⠀⠀⢀⡏⢀⠘⡆⠀⠹⣶⢮⡉⠉⠀⠀⠀⠀⠈⢯⠉⠙⣎⢻⡉⠑⢦⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⢸⠋⢧⠀⠀⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⡀⠀⢸⢸⠋⡇⣷⠀⠀⣏⡇⣷⠤⣤⡤⠤⠤⠤⢤⡇⠀⠸⡄⢇⠀⠸⡄⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⢸⠀⠈⣧⠀⠀⢹⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣄⠈⡞⠦⠇⡿⠀⠀⡿⡇⣹⣶⣾⡷⠖⠲⣶⣟⠀⠀⠀⡇⢸⠀⢠⠇⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⣸⠀⠀⡼⢳⡀⠈⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⡻⣄⣠⡇⣀⡴⠃⡇⢻⠀⠀⠳⣤⡤⠇⠈⢦⡀⠀⡇⢸⣧⠞⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⡇⠀⢳⡀⢷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣄⠉⠉⠁⡀⠀⡇⢈⣀⣁⡀⢉⣀⣉⣉⣉⣷⡀⡇⢸⡇⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⠀⠀⡇⠀⠀⣿⡜⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⡀⠀⠙⢦⡇⠘⠒⠒⠒⠒⠒⠒⠒⠒⠺⠟⠃⢸⣇⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡀⢰⠇⠀⠀⢸⠻⡜⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠱⣄⠀⠀⠉⠉⠉⠉⠉⠉⠉⠉⠉⠛⠛⠛⠉⠉⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠉⠀⠀⠀⢸⠂⠙⡎⠷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣀⣀⣀⡈⠂
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡔⣖⡶⠀⠀⡆⡴⠒⠒⢦⣄⠀⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⡔⢂⡄⠀⠀⠀⠀⠀⠀⠀⢰⢍⢸⣜⠀⠀⢸⢀⠃⠀⠀⠀⠙⢦⣀⣹⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠈⠩⠊⠁⠀⠀⠀⠀⠀⠀⣼⠎⡆⣿⠀⠀⢸⢸⠀⠀⠀⠀⠀⠈⢉⡿⠋⠉⢢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⡴⢫⠋⡆⠀⠀⠀⠀⠀⠀⡇⠀⢇⢫⡠⠤⠒⠛⠉⠙⢦⠀⢀⡠⠎⣿⠀⠀⠀⣱⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢰⡅⢸⡰⡇⠀⠀⠀⠀⠀⠀⣾⡴⠋⠁⠀⠀⠀⠀⠀⠀⡠⠕⢭⠀⠀⢳⣋⡖⠉⠳⣗⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⡌⡇⢸⢁⡇⠀⠀⠀⠀⠀⢸⣙⡇⠀⠀⠀⠀⢀⣴⣿⣿⣦⠀⠘⣆⣀⣼⢳⡀⠀⠀⣸⡷⡻⣟⣒⣢⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⡇⡇⢸⣼⡇⠀⠀⠀⠀⠀⠸⣼⣱⣶⣶⣦⡔⠚⢿⣷⠯⠞⣠⢗⣿⣿⡏⣸⣿⣷⣶⣿⡴⠿⢟⣉⢝⣒⣭⣷⡤⠶⠖⠶⡶⢤⣤⣀⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⢰⠇⡷⡟⠹⡇⠀⠀⠀⠀⠀⠀⢱⢷⠻⠿⠟⡟⣦⣀⠰⡀⢸⡟⠛⣿⣿⢡⣿⣿⣿⣿⣿⣾⣾⣿⣷⣄⠀⠀⡀⠈⠉⠒⠤⠬⣀⣀⢈⣿⣷⣄⡀⠀⠀⠀
+⠀⠀⢸⢱⣿⡇⠁⡇⠀⠀⠀⠀⠀⠀⠀⠙⠓⠮⣦⡻⠚⠋⠀⠡⣨⡇⢀⣿⡏⣾⣿⣿⠟⣻⣿⣿⣿⣿⢿⣿⣷⣶⣾⣿⣷⣦⣤⣶⠶⠋⠉⢉⣲⡭⠭⢷⣦⡀
+⠀⠀⢸⣾⣹⣷⠒⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣤⣤⣴⣾⠟⣡⣾⣿⣽⡿⠋⠁⢀⣵⣿⣿⡿⠋⠈⡃⣨⣿⣿⣿⣟⣯⣿⣿⣦⣀⣼⡿⠁⠐⠢⡄⠀⠂
+⠀⠀⢸⣏⣟⣿⣴⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣷⣬⣭⣴⣾⣿⣿⠟⠉⠀⠀⣠⣾⣿⡿⠋⠀⣠⠞⢪⣾⣿⢿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠸⡀⠀
+⠀⠀⣾⡼⣫⡾⢿⣯⣿⡿⠀⠀⠀⠀⠀⠀⠀⣼⣿⣷⣿⣿⣻⣿⣿⣿⠋⢀⣠⢴⣯⣾⣿⡿⠃⢀⠜⠁⣠⣾⡿⠁⠀⣿⣯⣟⢿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠸⠀
+⠀⢸⠯⣽⢉⣾⡟⠉⢻⡏⠀⠀⠀⠀⠀⠀⢸⣿⣿⣶⣿⢿⣿⣿⣿⣓⣛⣭⣔⣽⣿⣿⡿⢋⡽⠁⣠⣾⣿⢟⡁⡠⠊⠸⣿⠙⠻⣯⡿⠁⠀⠀⠀⠀⠀⠀⠀⠇
+⠀⢸⠀⢸⡟⠙⡇⠁⢸⠁⠀⠀⠀⠀⢀⣿⣉⣿⣿⣿⣯⣗⡪⠭⣉⣻⠛⣻⣾⣿⣿⣫⡶⠉⣠⣾⣿⠟⢁⣾⣿⠾⠛⣧⠘⣇⠀⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄
+⠀⢸⡠⢼⠃⠀⢹⣿⡞⠀⠀⠀⠀⠀⣼⣽⡏⠻⣍⡙⣿⢷⡛⢻⡿⣶⣽⣿⡿⣿⡿⠋⣠⣾⣿⡿⡡⢰⣿⠟⠀⠀⠀⠘⣧⠘⣷⠃⠀⠀⠀⠀⠀⠀⠀⢀⡾⠃
+⠀⢸⠁⠀⠇⠀⣼⡿⠁⠀⠀⠀⠀⣼⣿⢏⡘⢦⡈⠛⠿⣮⣉⣡⡤⠺⣻⣯⡾⠋⣠⢺⣿⣿⠋⠀⠀⣀⠨⢧⣤⠀⠠⠄⢹⡿⠃⠀⠀⠀⠀⠀⠀⠀⣴⠋⠀⠀
+⠀⢸⠀⠀⡇⠀⡏⠀⠀⠀⠀⠀⣴⢿⢹⣿⡉⠑⠛⠂⠀⠀⠁⠐⠉⠉⢔⣉⣤⣾⣿⣿⣿⡁⠂⡤⠋⠀⠈⠈⣇⡀⣀⣰⣿⠁⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀
+⠀⠘⣷⢮⠶⠾⠟⢳⠀⠀⠀⠸⣿⢯⣑⣾⣯⣿⣒⡶⠤⡤⢤⣤⣤⣾⣿⣿⣿⣿⣿⣿⣿⣥⡾⢿⣿⣲⠦⣤⣽⣿⣿⠈⠻⣷⡄⠀⠀⠀⢀⣾⠇⠀⠀⠀⠀⠀
+⠀⠰⣇⣠⡧⠤⠖⠺⡇⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣻⡿⠿⢛⣿⣿⣿⢿⣿⣿⣿⡿⢻⣟⣅⣠⡀⠈⠉⠛⠚⠛⠁⠸⡇⠀⠀⠹⣄⣴⣿⣿⣿⠀⠀⠀⠀⠀⠀
+⠀⠀⢹⡀⠀⠀⠀⠀⢳⠀⠀⢨⠿⣿⣿⣿⣿⣿⣿⣿⣤⣾⣿⣿⣿⣿⣶⠛⠉⠀⢀⣿⠟⠭⠭⠽⠶⣾⠷⣤⣀⣀⠀⣷⠀⢀⣐⣿⣿⣿⣿⣿⣗⠀⠀⠀⠀⠀
+⠀⠀⠀⡇⠀⠀⠀⠀⠈⢧⡴⠋⠀⣿⡈⢿⣿⣿⣿⣿⣿⣿⠛⠉⠘⣿⣿⣦⠀⢀⣾⡇⣿⠀⠀⠀⠀⠈⠉⢳⣿⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⠦⣶⠀⠀
+⠀⠀⠀⢳⠀⠀⠀⠀⠀⠘⣿⣶⣤⣸⡇⠈⢿⣿⣿⣿⣿⣿⣧⡀⠀⣹⣿⣿⣷⣾⡏⠐⠛⠀⢠⠀⢠⣾⢀⠞⡏⠀⠈⡯⠙⣿⡿⣻⠁⠀⠹⣧⠈⠁⠀⢹⡄⠀
+⠀⠀⠀⠸⡄⠀⠀⠀⠀⠀⠘⣿⣯⡙⠃⠀⠈⢿⣿⣿⡟⠘⣿⣿⣿⣿⣿⡿⢻⣿⡗⠄⠀⢰⡃⠀⠘⣣⢻⣼⠃⠀⢸⡇⡿⣿⣧⣽⣀⠀⠀⢹⡆⠰⣶⣦⣧⠀
+⠀⠀⠀⠀⢷⠀⠀⠀⠀⠀⠀⠈⠉⢷⡄⠀⠀⠘⢿⡟⠀⠀⠈⠛⠛⠻⡍⠀⢸⣿⠁⠀⠀⣆⠱⢄⣴⣥⣺⣟⠀⠀⡿⠉⢠⢻⠈⣿⣿⣷⣶⣶⣷⣖⣿⣿⣾⡀
+⠀⠀⠀⠀⠘⣇⠀⠀⠀⠀⠀⠀⠀⠀⠹⣦⣠⢹⡿⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⠄⠀⠀⢸⣴⣿⣿⣿⣿⣹⠀⣸⢣⡇⢈⡟⢠⣿⡏⢿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⢻⠬⡾⠁⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⢾⠆⡰⣿⣿⣿⣿⣿⣿⣾⣰⣯⣮⣄⣼⠃⣾⣿⠀⣼⡟⢿⣏⣿⣿⠿⠛⠃
+⠀⠀⠀⠀⠀⠀⠙⣦⠀⠀⠀⠀⠀⠀⠀⣸⣰⠃⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣿⣿⣷⣼⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣰⡿⠈⢠⣿⢷⡄⠙⢿⣏⠀⠀⠀
+⠀⠀⠀⢀⣀⣀⠀⠘⣷⡀⡀⠀⢀⣠⣾⠿⠿⣷⠶⢶⡿⠿⢷⣶⣀⣀⣻⣿⡟⢳⣽⣿⣿⣿⣿⣿⣿⣿⣯⣿⣿⣿⣿⣿⣿⡿⢠⠀⣼⡟⠀⠹⣦⠀⣾⠀⠀⠀
+⠀⠀⡴⠫⣿⠏⣉⣹⠉⠻⠶⠚⠋⣹⠁⠀⢸⡇⠀⢸⣤⣤⣤⡟⠉⢉⣿⠋⢡⣀⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣴⣿⠁⠀⠀⠈⠀⢹⡄⠀⠀
+⢀⢞⣴⣾⣿⠋⠀⠀⠀⠀⠀⠀⠀⣿⣷⣶⣿⡇⠀⣾⣿⣿⣿⡇⠀⣸⡏⠀⢠⡾⣳⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⢀⠀⠀⠀⠀⠀⢷⠀⠀
+⢈⠎⡏⣿⣿⣾⡀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⡇⠀⣿⣿⣿⣿⡇⢀⡿⠀⣠⡿⣱⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⡀⠀⠀⠀⢸⠀⠀
+⢠⠀⣷⣿⣿⣿⣷⣶⣶⣶⣶⣶⣶⣿⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣾⠃⣰⣽⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⢸⠀⠀
+⢸⢤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣜⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡟⠀⠀
+⠈⢾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀
+⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀⠀
+⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡉⠉⠋⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠙⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠇⠀⠰⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠷⠶⠶⠤⠤⠤⢀⠀
+
+
+
+
+
+
+
+⠀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣸⠘⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⡇⢱⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⡇⠈⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⢳⠀⠸⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⠈⡀⠀⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠘⡄⢣⠀⠈⢇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⡇⠈⡆⠀⠘⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢸⠀⠰⡀⠀⠰⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠈⡇⠀⢡⠀⠀⠱⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢸⡀⠀⢣⠀⠂⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢣⠀⠈⢧⠀⠀⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⣆⠀⠈⣆⠀⠊⢢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠘⡄⠀⠘⣇⠀⣠⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠘⡄⠀⠘⣜⠃⠀⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠸⡀⠀⠸⣦⡾⠉⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠹⡄⠀⠘⣧⢪⡲⡧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠹⡄⠀⠘⣯⡟⢳⡴⡀⠀⢀⣤⣴⣤⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢱⡀⠀⠈⢷⠻⠋⣼⣶⣿⡿⠃⠀⢳⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⡀⠀⠀⠳⣾⣿⡿⠛⠁⣠⡶⠋⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣽⣦⣴⠾⠛⠉⢀⣴⡟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⠿⠛⠉⠀⢀⣤⠶⣿⢿⡿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡗⠶⠒⠋⠙⣧⡔⠃⡸⢁⡯⢻⣆⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠈⠻⣎⣀⠤⠁⢺⢹⡷⢴⣾⣶⡀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢷⣄⠴⠃⡼⣣⣿⡿⢃⣞⣆⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢙⣷⣿⣿⡿⠋⠀⢿⣿⡿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠾⡿⢟⡄⠀⠀⠀⠈⢹⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢢⡙⠭⠂⠂⠀⠀⣠⣿⠋
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢄⣈⣠⡔⣋⠹⠃⠀
+
+
+
+
+
+
+
+⠀⠀⣰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢀⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢸⣏⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣼⡇⢻⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢠⣿⡇⠈⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣼⣿⣧⠀⠹⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⠀⠀⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢿⣿⣿⡀⠀⢸⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⣿⣿⡇⠀⠀⢻⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠸⣿⡿⡇⠀⠀⠀⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣿⡇⣧⠀⠀⠀⠸⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣿⡇⢻⡄⠀⠀⠀⢹⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢻⡇⠸⣇⠀⠀⠀⠀⢻⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢸⡇⠀⢻⡀⠀⠀⠀⠸⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢸⣇⠀⠘⡇⠀⠀⠀⠠⠻⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣿⠀⠀⢹⡀⠀⠀⠀⠀⢻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢿⡄⠀⠘⣷⡄⠀⠀⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢸⡇⠀⠀⢺⡇⠀⠀⠀⠀⠙⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣧⠀⠀⠀⢳⡀⠀⠀⠀⠐⠘⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣿⡆⠀⠀⠘⣷⡀⠀⠀⠀⠐⢿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠸⣿⡄⠀⠀⠈⣷⠀⠁⠀⢀⣀⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢿⡇⠀⠀⠀⠸⣦⠀⠀⠉⠁⠀⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠘⣷⠀⠀⠀⠀⠹⣆⠀⠀⠀⠀⢈⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢸⣧⠀⠀⠀⠀⢹⣄⣀⠀⠒⠊⠉⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⢿⡆⠀⠀⠀⠀⢿⣁⠀⠀⠀⠀⢘⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⣧⡀⠀⠀⠀⠈⢿⣄⡀⠀⠁⠀⠈⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠸⣧⠀⠀⠀⠀⠈⣯⠀⠀⠀⠀⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢻⣆⠀⠀⠀⠀⠘⣷⠀⠀⠀⠰⠊⠈⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡄⠀⠀⠀⠀⠙⣇⢁⡀⠀⠆⠀⠸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣷⡄⠀⠀⠀⠀⢻⣿⡀⠈⠀⠈⠀⡜⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⠀⠀⠀⠀⠀⠿⣧⣠⠀⢀⣼⣴⢛⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣧⡀⠀⠀⠀⠀⠸⣆⠰⢻⡭⠠⠉⡜⢷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⠀⠀⠀⠀⠀⠻⣟⡋⠀⠀⠎⠀⠞⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣦⠀⠀⠀⠀⠀⢹⣇⠀⠀⣠⣿⡾⣭⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣧⠀⠀⠀⠀⠀⢿⣧⡾⣫⠟⡤⠀⡘⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣇⠀⠀⠀⠀⠀⠹⣟⣁⠘⢀⡴⠀⢀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣷⡄⠀⠀⠀⠀⠻⣷⡖⠋⣴⢟⡛⣿⣻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣧⡀⠀⠀⠀⠀⠹⣷⣎⡵⢊⣤⡿⠃⠙⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣷⡆⠀⠀⠀⠀⠙⣿⣴⠿⢋⠵⢛⡶⡼⣧⡀⠀⠀⠀⠀⣠⣤⣤⡴⣶⢲⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣷⠀⠀⠀⠀⠀⠘⣿⣾⠁⣠⣾⣷⣡⠌⢿⡄⠀⢀⣴⣿⣿⣿⣿⣿⠋⠛⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣦⠀⠀⠀⠀⠀⠈⢿⣶⠹⣯⠿⠁⡠⢈⣿⣴⣿⣿⡿⣩⣿⡼⠃⠀⠀⠘⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣷⠀⠀⠀⠀⠀⠀⠹⣆⠁⠀⢀⣶⣟⣼⣿⣿⣿⣥⡶⠏⠀⠀⠀⠀⢀⣸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣧⠀⠀⠀⠀⠀⠀⠘⣧⣴⣯⣽⣿⣾⣿⣿⡿⠟⠀⠀⠀⠀⣠⣶⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣦⡀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⣠⣴⣿⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣈⣿⣶⠀⢀⣠⣶⣾⣿⡿⠟⠋⠉⠀⠀⢠⣴⣿⣿⡟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⣠⣴⣶⣾⣿⣿⣽⣿⣿⣿⠿⠋⠉⠀⠀⠀⠀⢀⣴⣾⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢻⣾⡿⢽⢿⣿⣿⠿⠛⠛⠉⠀⠀⠀⠀⠀⣠⣤⣾⢻⣿⣿⢹⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⡛⠛⠉⠀⠀⠀⠀⠀⠀⠀⣀⣤⣿⠟⠛⠛⢫⡿⠋⢸⣿⡟⣷⡙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣶⣤⣀⣀⣀⣠⣤⠶⠾⢿⣿⡄⠀⠀⣠⡾⠁⠀⣼⡿⠁⣿⣟⠷⣽⣆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣏⠉⠛⠛⠉⠀⠀⠀⠀⠀⠻⣿⣶⡞⠁⠀⠀⣠⡿⠁⠀⣿⣿⠃⢸⡿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢯⣳⣄⣠⠾⠋⠀⠀⠘⣻⠋⠀⣼⣿⠏⣿⣷⣄⠀⢀⣤⣼⣦⣀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣯⢷⡀⠀⢀⣤⠞⠁⠀⠀⢻⡿⢀⢻⣎⡽⢿⣏⢻⣿⣿⣻⣷⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣟⢿⡉⠁⠀⠀⠀⣠⡿⠁⢸⣿⡿⠁⣴⣿⣿⣿⣿⡟⠉⣻⣄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣝⢦⣀⣠⡾⠋⠀⢠⣾⠟⠁⣴⣿⣿⣿⡿⠟⠀⣴⣧⠙⣧⡀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣥⣀⣠⢤⣾⢋⣠⡾⣿⣿⣿⠟⢀⡼⣻⣿⡿⢠⣿⣿⣦⣤
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣭⣿⡿⣿⣿⣷⣶⠟⠁⠀⠈⠽⣿⣿⣿⣿⣾⠿⣛⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡟⢻⡿⣽⣼⣿⡿⠛⠁⠀⠀⠀⠀⠀⠾⠛⢿⡿⣃⣀⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣾⣿⣡⣾⣿⣿⣿⠿⠿⣆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢉⣾⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⠉⠉⠛⣫⣤⠴⢛⡥⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣧⣝
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢳⣔⠋⣡⠞⢋⣡⡶⢡⠖⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⡏⠈
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣷⡀⠊⠽⠋⡀⠀⣀⠴⠶⠀⢠⠀⣠⡞⢱⣿⠟⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢳⣄⠀⠀⠐⠋⠁⠀⢀⣤⣿⠟⠉⢉⣿⠟⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣦⣤⣤⡴⠾⣏⣉⣀⣤⡴⠛⠁⡀⠀⡀⠀
+
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⣠⣶⣶⠶⠖⠒⠒⠦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢠⠞⠁⠙⠏⢀⣀⣠⣤⣤⢬⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⡰⠃⠀⠐⠒⠉⠉⠉⠉⠉⠉⣩⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀
+⢀⠃⠀⠀⠀⠀⠀⠀⣀⣀⠤⠚⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠒⣉⠥⠄⠀⠩⠽⢶⣤⣀⠀⠀⠀
+⢸⠀⠀⠀⠀⣼⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⢋⡴⠋⠀⠀⠀⠀⠀⠀⠀⠈⠙⠳⢦⡀
+⠘⠀⠀⠀⠀⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠊⢠⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⡇⠀⠀⠀⠀⠑⢤⣀⣀⣀⣠⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠁⢠⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠂⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠤⠒⠁⠀⣰⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠘⣷⠀⠀⠀⠀⠀⠀⠠⣀⠀⠀⠀⠀⠀⠀⠈⠉⠒⠒⠒⠒⠒⠂⠉⠁⠀⠀⠀⢀⡴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠹⣆⠀⠀⣄⠀⠀⠀⠈⠑⢄⠀⠀⠀⡴⠀⠀⠀⢄⠀⠀⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠙⢦⡀⠈⠑⠢⢤⡤⠄⠀⢱⠀⢰⠁⠀⠀⠀⠈⢆⠀⠀⣀⡠⠔⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢰⠏⢹⣶⠒⣋⡥⣤⡄⠊⠁⠀⢸⡆⠀⠀⠀⠀⣸⠶⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢿⣿⣿⣿⡀⠘⣿⣶⡷⢤⢄⣀⠀⡇⠀⠀⠀⠀⢼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠙⠻⠿⢧⠱⣤⡼⣧⡞⠀⢾⡉⠻⢦⡀⠀⠀⠈⠓⠲⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⠒⠛⢿⡁⠀⠀⠠⡇⠀⠀⠙⣄⠀⠀⠀⠀⠈⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠢⣄⠀⠑⢄⠀⠀⠈⠓⠤⢄⣀⣀⡀⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⠃⢀⠼⠀⠀⠀⠀⠀⠀⠀⠀⠹⡀⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡤⢋⣍⣴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢰⣟⢻⠋⢿⠭⠋⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⢴⣿⣰⠀⡎⠣⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⣉⡙⠒⢚⣒⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⣿⡧⠻⠤⠿⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⢀⣠⣶⣿⣿⣷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠊⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠹⢿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣀⣬⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣼⣶⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠈⠉⠉⠁⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⣸⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠈⠙⠟⠀⣘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠟⠉⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⣿⣿⣿⣿⣿⣶⣤⣀⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣟⡛⠛⠛⠉⠉⠉⠻⣿⣿⣿⣿⣿⣯⣉⡉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠻⢿⣷⣤⡀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠷⣄
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠈⠛⠻⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠟⠛⠛⣹⠿⠿⠛⠋⠉⠉⠀⠀⠀⠀⠀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠛⠛⠋⠟⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣶⣿⣿⣿⣿⣷⣶⣶⣦⣄⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⠿⠛⠋⠉⠉⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣤⣤⣤⣤⣄⣀⣀⣿⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣠⣤⣤⣤⣤⣤⣤⣤⣤⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣀⣤⣤⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣀⡤⠴⠖⠛⠋⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠙⠛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⣻⣿⣿⣿⣿⣿⣿⠉⠙⠛⢿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⡿⠃⠀⢠⣶⣾⡟⢻⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⠿⣿⣿⣿⠟⠀⠀⠀⠀⢈⣠⣤⣾⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⠁⣼⣿⡿⠁⠀⠀⠀⠀⠀⠈⠛⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⡀⢿⣿⡇⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⡏⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠹⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣴⣾⡷⠄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⡿⣋⣜⠀⠀⠀⠀⠀⠀⠀⠀
+⠉⠉⠛⠶⣦⣄⡀⠀⠀⠀⠀⠀⠀⠠⣿⣿⣿⣿⡃⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠙⠻⣷⣦⣄⡀⠀⠀⠀⣿⣿⣮⡙⠯⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⡈⠻⣿⣿⣷⣄⣤⣾⣿⣿⣯⠓⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠘⠙⣾⡞⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣿⣸⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⢠⣤⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⢿⣿⣿⣿⣿⠿⢿⣧⣤⡶⠞⠿⣷⢲⣄
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠇⠀⠉⣽⣿⡟⠀⠀⠉⠁⠀⠀⠀⡸⠃⠃
+⠀⠀⠀⠀⠀⠀⠀⢀⣰⡇⠀⠀⣠⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣿⣿⠇⠀⢠⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢸⠟⡟⠀⢸⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠁⠁⣰⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⢿⣷⡤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⣿⣷⣶⣿⣷⣶⣤⣄⡀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆
+⠀⢠⣴⠾⠛⠛⠛⠛⠲⠦⠤⠴⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⡛⠛⠛⠿⠿⠃
+⢠⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣤⣤⣴⣶⣾⣿⣿⣿⣿⣷⣶⣤⣀⣀⣠⣾⣿⣿⣿⣿⣿⡿⠿⠿⣿⣿⣿⣷⣦⣄⠀⠀
+⠈⣿⣿⣶⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠙⠛⠋⠀⠀
+⠀⠘⢿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣶⣶⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠉⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠉⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠻⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠉⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠉⠙⣷⣆⠘⢿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⡟⠛⠛⠛⠛⠋⠀⣿⣿⣿⣿⠀⢤⡇⣽⠇⠀⠈⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⠀⠀⠉⠁⠀⠐⢰⣾⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣶⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠿⣿⣿⣷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠙⠻⠟⠛⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡇⢻⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠈⠿⠿⢇⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣴⣶⣶⣶⣶⣶⣦⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⣿⡿⠿⠛⠛⠋⠉⠉⠉⠉⠉⠙⠛⠻⠿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣦⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣠⣾⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣄⣀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣷⡄⠀⠀⠀⠀⠀
+⠀⠀⠀⢀⣾⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣴⣾⣿⣿⣿⡿⣶⣦⡀⠀⠀⠀⠀⠀⠈⠻⣿⣦⡀⠀⠀⠀
+⠀⠀⢠⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢤⣤⣿⣿⣿⣿⣿⣿⣿⣆⠘⣿⠟⣷⣦⣄⡀⠀⠀⠀⠘⣿⣷⡀⠀⠀
+⠀⢠⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢶⣤⣽⣿⣿⣿⣿⣿⣿⣿⡋⢠⣿⡧⠈⠙⣿⣿⣿⣶⣦⡄⠘⣿⣷⡀⠀
+⠀⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣴⣯⣩⣿⣿⣿⣿⣦⠘⣿⣧⠀
+⢸⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⠉⠉⠉⠛⢻⣿⢿⡿⡿⡿⢿⡟⠀⢻⣿⡄
+⣾⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢲⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣳⠀⠀⠀⠹⠋⠛⠽⠟⠋⠋⠀⠀⢸⣿⡇
+⣿⣿⠀⠀⠀⠀⠀⠀⠀⢀⡀⣦⣪⣿⣿⣿⣿⣿⡿⠹⠹⣿⣿⣿⣿⣷⣓⣴⢀⡀⡀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡇
+⣿⣿⠀⠀⠀⠀⠀⣤⣳⣶⣿⣿⣿⣿⣿⣿⡏⡿⠃⢀⡀⠈⠉⠛⠻⠿⣿⣷⣽⣟⠷⠶⡄⠀⠀⠀⠀⠀⢸⣿⡇
+⢸⣿⡆⣤⣄⣻⣷⣿⣿⣿⣿⣿⣿⡿⣿⡁⠇⠁⠀⢻⡞⠉⠀⠀⠀⠀⠀⠙⠻⠿⠟⠛⠀⠀⠀⠀⠀⠀⣸⣿⠇
+⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣄⣠⣠⡴⠿⣣⣿⡵⠧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡿⠀
+⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⠿⣿⣿⣿⣿⣴⡞⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⠃⠀
+⠀⠀⠹⣿⣿⣿⣿⣿⣿⢻⠿⣆⠘⠢⡘⠘⠛⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⠃⠀⠀
+⠀⠀⠀⠙⣿⣿⣿⡏⠙⢦⣣⠈⠖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣄⣀⢀⣦⣀⠀⢀⣠⣾⡿⠃⠀⠀⠀
+⠀⠀⠀⠀⠈⠻⣿⣧⡀⠀⠉⠣⡀⠀⠀⣠⣤⣀⣠⣤⣐⣴⣷⣅⣤⣦⣟⣿⢿⣸⣿⣿⣾⣿⣿⠟⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠉⠻⣿⣷⣄⣀⣴⣦⣤⣽⣟⣙⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⠿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⡿⣇⣠⣶⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⡿⠁⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⠏⠃⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣶⣶⣤⣴⣿⣿⡏⢀⣀⣀⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠔⠛⠛⢛⣛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⡈⠻⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠛⢉⣾⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠯⠭⠉⠛⠻⠿⣿⣿⠿⣶⣿⣿⣷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠟⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⡿⢋⣠⣤⠀⠀⠀⠀⠀⠀⠀⠉⠑⠂⠉⠉⠛⠛⠛⠿⢶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⡿⣿⣿⣿⣿⣿⣇⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠁⢿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡏⠀⠸⣿⣿⣿⣿⣿⣿⣿⣇⢠⠀⠀⠀⠀⠀⢿⡿⠿⠿⠟⠫⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡇⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣮⣧⠀⠀⠀⠀⠈⠳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⠀⠀⠀⢻⣿⣿⣿⣿⢿⣿⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣷⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠿⣿⠀⠙⣿⣿⣏⠙⠛⢿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠃⠀⠈⠻⣿⡄⠀⠀⠈⠻⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠄⠀⠀⠀⠹⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣶⣶⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⢿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡀⠀⣤⣾⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣇⠀⠻⢿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣆⠀⠀⠙⢿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣷⡄⠀⠈⢿⣿⣿⣿⣿⣿⣶⣦⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣦⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣧⠀⠘⠋⠻⣿⣿⣿⣿⣿⣍⠉⠻⢿⣿⠿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⡆⠀⠀⠀⣿⣿⠇⠘⢿⣿⣷⡀⠀⠹⣦⠈⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀⣿⣿⣧⠀⠀⠀⠹⣷⡄⠀⣸⣧⠀⠈⢿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣠⣀⣠⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡀⠀⠀⠘⢿⣿⣄⠀⠀⠀⠈⠀⢾⣿⣿⣤⣀⠀⢻⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣟⠻⣿⣿⣷⣦⣤⣀⣀⠀⢀⣀⣾⣿⣿⠻⣷⠀⠀⠀⠀⠻⣿⡇⠀⠀⠀⠀⠀⠉⠻⣿⣿⣿⣾⣿⣿⣷⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⣿⡄⠘⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢿⠀⢻⣧⠀⠀⠀⠀⢙⣷⣿⣿⣿⣿⣷⣧⣤⣾⣿⠿⠿⣶⣶⣶⣾⡿⠿⠿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠛⠿⣶⣤⣀⠉⠉⠋⠁⠀⠀⠀⠀⠀⠀⠀⢸⣿⡆⠀⠀⠀⡾⠻⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠈⣿⣿⣿⣿⣷⠀⠈⠻⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠙⠻⣿⣶⣤⣄⠀⠀⠀⠀⠀⠀⠀⣼⣿⠇⠀⠀⠀⠀⠀⠻⡿⠻⠿⣿⣿⣿⠁⢿⣷⡄⠀⢻⣿⣿⡿⠙⠓⠀⠀⠹⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠙⢿⣿⣿⣦⡀⠀⠀⠀⠀⠹⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⣰⣶⣿⣿⡁⠘⢿⣿⣇⣀⠹⣿⣧⣀⠀⡄⠀⠀⠈⢿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣦⣤⣀⣀⠀⠀⠙⠻⠦⠀⠀⠀⠀⣿⡶⠛⣻⣿⣿⣿⣦⡀⠙⠿⢿⣦⣈⣹⣿⣿⣿⠀⣴⠀⡀⠉⠻⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣷⣦⣄⠀⠀⡀⠀⠀⠀⠉⢴⡿⣿⣿⣿⡿⣿⣿⣶⣤⡈⠉⠉⠉⢿⣿⣿⣿⣿⣾⣇⠀⣀⠀⠉⢻⣦⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣯⠻⢿⣿⡛⢿⣿⡟⣋⡀⠀⠀⣤⣤⣶⣿⣿⣿⣿⣾⣿⣿⣿⣿⣷⣦⣤⣀⡈⠙⠛⠛⠿⠿⠛⠋⠀⢀⣤⣿⡿⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣷⣄⠈⢻⣦⣼⡿⠋⣁⣴⣆⣈⣽⣿⣿⣿⣿⣿⣿⣿⣿⣶⣭⣙⣻⣿⣿⣿⣿⣶⣶⣶⣶⣶⣶⡾⠿⠛⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣷⣴⡿⠏⠁⠾⠋⢙⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣭⣿⣿⡋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣷⣴⡟⠀⠙⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠉⠉⠛⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⠋⠀⠀⠀⠀⢀⣠⣿⡿⢿⣿⣿⣿⣿⣿⠋⠹⡏⠿⠀⠈⠉⠁⠀⠀⠀⠀⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣷⠀⠀⠘⠛⠛⠋⠁⠒⠛⣿⣿⣿⣿⣿⠆⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠟⢹⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⣼⢟⣿⣿⣿⣿⣴⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣷⣤⣀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⣀⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⣦⣹⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣧⠀⠀⠀⠀⠀⠾⣿⢿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡗⠀⠀⠀⠀⠀⠀⠀⢉⣿⣿⣿⣿⣿⣿⣴⣧⣀⠀⢀⡀⢀⠀⢠⡰⣦⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿⣿⣦⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣷⠀⠀⣦⣴⣶⣾⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⠀⠈⠛⠁⠛⠁⠈⢀⣿⠟⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠁⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠏⠙⣿⣿⣿⣿⣿⣿⡟⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡟⠟⠙⠋⠈⠃⠈⠋⢨⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣧⣠⣾⡄⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⢠⣀⣾⣾⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⢀⡀⢠⡀⠀⠀⡀⢀⡀⣀⣠⣤⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣸⣿⣿⣷⣿⣴⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
 
@@ -64,142 +2676,46 @@ Y~:.^?GBG?!!^:^?5PGGPPY77!^:..........~!7J5GP#BGB###########J~:..:~!~7PGGGG5?77!
 
 
 
-
-
-
-                                                                                                    
-                                                                                                    
-           .:                                                                               :^.     
-       .:.:5BY.:::::::::::::::::::.........::::..............:....................::::::::.^PG5~:.  
-      JGPPGBBBGPGPGGPGGGGGGGPGGGGPPPPPGPPGGGPB#PPPPPPPPPPPPPGGPGGGGGGGGGGGPGGPGPPGPGGPGGGGGGGG##BP^ 
-      PGPPPGGPGGPGGGGGGGGGGGGGPPPPPPP##B####B#@BGGGGGGGGGGGB#GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGPPGBB#5 
-      PBPGPGGGBGGGGGGGGGGGGGGGGGGGGGGGBBBBBBBB#BBBBBBBBBBB##BGGGGGGGGGGGGBGGBGGBGGBGBGGBBBGGGGGBBB5 
-      5BPGGGBGBGGBGGBGGGGGGGGGGGGBBBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBGGBBGBGBBGBBGBBBBGGGGBBBJ 
-      5BGGGBBGBBGBBBBBBBGBBBBGGGGGGGGGGGGGGGBGBBBBBGGGBBBBBBBBBBBBBGGGGGGBBBBBBBBBBBBBBBBBBBGGGB#G. 
-     :P#BGBBBB##B############BBB######&##B###############BB##&#################BBBBBBBBBBBBBBBBBBP. 
-    .P####BBGGGGPPPPPPPPPPPPPPPPBB#BBBGPPPPPPPPPPPPPPBBBBGPGGPPPPPPPPPPPPPPGGGPPPPPPPPPPPPPPPPPPPP  
-     ^~~7JP###BBBGPPPPPPPPPPPPGBB#####BGPPPPPPGGPGGGG#BBBPPGGGGPPGPPPPPPPPPGGBBBBBBBBBBBBBBBBBBGP?  
-           ^5#####BGPPPPPPGGGGGBGGGGGGGGGGGGGGBBB#####BBGBB##&&&########BBBGGBBBBBBGGGGGGGJ!?5J?~   
-             JB###BGPGGBB########BBGGGGBBB##&&&&&&#5YJ?7!!~^~!Y#&##&BJ!^::::::::::::......          
-             .GB#BBBGBBBBBBBGGGGGGGGGGB#&&@@&##BBB5            .5GP5:                     .         
-             .GBBBBBGGPPGGGGGGGPPPPGB##&&@#JBBBBGBB.            !GG7                                
-             7#BBB#GGGGGBBBB###BBBBB##&&&&5 :^~5GG#B!.          ~GG!                                
-            ^G#BBGBGGGBB###########B#&&&&BB^   .!YP##P?.       .JGG7                                
-           :P#BBGBGGGGGGGGGGGBBBBBGB##&&#BBBJ^:...~75G?......:~YPPG5                                
-          .5BBBGGGGGGGGGGGGGGGGGGB#####BYJJYGBP5YYYY5P5555555PGGPGPG!                               
-         :5BBBGGGGGGGGGGGGGGGGGGBB####?.    .^!???????7777!!!!!~~~~~:                               
-        ^PBBBGGGGGGGGGGGGGGGGGGGB####J                                                              
-       !GBBBGGGGGGGGGGGGGGGGGGGB####5.                                                              
-      ?BBBBGGGGGGGGGGGGGGGGGGGB####G:                                                               
-    .JBBBBGGGGGGGGGGGGGGGGGGGBB###B^                                                                
-   .YBBBBBGGBBBBBBBBBBBBBBGBB#####!                                                                 
-  .YBBBBBBBBGGGGBBBBBBBGGGBB##&&&?                                                                  
-  7BBBBBBB#GGBBBBBBBBBBBBB##&&&&5                                                                   
- :GBBBB###BBBBBBB#B###B####&&&&G.                                                                   
- ?#BBB#BBBBBB###B#########&&&&#^                                                                    
- :?PB##BGPGGGGGGGGGGGBBBB#&&&&Y                                                                     
-    ^JPPBGBBBBBGGGGGGGGGB#####7                                                                     
-       7B#####################^                                                                     
-       !?JJJYYY55PPPGGGGB##BBY.                                                                     
-                  ...:::^^::.                                                                       
-                                                                                                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                   .:~~^~!!77~:.  .                           .     
-       .......................................  :75G######&&&#B57.  ................................
-     ..................................... .. ^YB#&&&&&&#####&&&&G!. ...............................
-     .....................................   7B#####&&#G5YY55G###&#?.... ...........................
-     ...................................  .:?#########5?77777?5###&#~.... ..........................
-     .............................  ....^7JP########BJ!!!77777JG###&G^..............................
-     .................... ....       .^75B#########B5JYJJ7!7JY5G####&B?:............................
-     .......................     ..:^~7YG#####&&##BP55PPY?7Y5YPGB###&&&P: ..........................
-     .............. .     ...:^^~!!777?5B####&&##&GJJJJJ???YYJY5PB&&&&&&! . ........................
-     ............    ..:^~~!!77777777?5G##########5?7777??7JYJ?JYG@&&##B~...........................
-     .........  ..:~~!77777!!7777?JJJYYB&###B####BY?7777???JJ??J5B&&####?...........................
-     ...... ..:~!77777!!!!!77??JYJ?!^:.P&&#######GJ7777JY55PPYJJP&&#####Y...... ....................
-     .... .:~!777!!!!!!!777?JYJ7^:.   .G&####BB#@BJ7777?JYY55YJ5#&###&##G!: ........................
-     ....^!!7!!!!!!!!777?JJJ!^.    ...:G&&&#BB#&@@BYJ??7777?J5G####&&&&#&#BY^.......................
-     .. ^!!~!!!!!!!77?JJJ7^.   ... ...:P&&####&@@@@PJ?JJJJJ5G#####&&&&&&#B#BJ!..   .................
-     ....!7!!!!!!!7?Y55J~.       . .. !B#&###&&@@@@GJ7????JYPBBBB##&&&&&&&&GPPJ?!: ... .............
-     .....~7!!!!!!!7JJYYYJ7~:....   .!P&#&&#&@@@@&#55J?Y????YPGB######&&&&#GGPYJYP7 .. .............
-     ....  :!77!!!!777???JJYYJJJJ??7J?5##&&&@@@&#GP55YJYJ?JYY5PPPPGGBB#BGPYYYJJJJYY~...  ...........
-     ...... .^!?7777777777???JYY5555YY555PGB###BGPPP5YJJYYJJ??JJ?JJY5GGY?????????JJY?!7!:...........
-     ........ .^!??7777777777??JJYYYJ?JYYY555BPYYYJJJJJJJJJ??JJJYYYYPG5????777777?JYY~.:7...........
-     .......... .:~7??7777777???JJJJJ??JJYYYPGYYYJJJJJJJJJJJJYYYYYJYPPJ?J???77777??JYY^ ^...........
-     ...........   .^~7????????JJJJJ?J????J5G5YYYYJJJ????JJJYYYYYYYPG5J?JJJ???777??JJYJ.... ........
-     ..............   ..^~!7??JJJJJJJJJ???YGGYJJJJJJ?????JJYYYYY5PGBBBPYJJJYJ??????JJYY! ...........
-     .................    ..:^~!7?JYJYJ?JPGGGPYJJJJ??777?JYYYJJPGGGGBGBGYYYY5??????JJJY?............
-     ......................     ..:~YJ?JGBGGGG5JJJJJ?777?JJJJ5PGPPGGGGGBG5Y5GY?????JJYYJ:...........
-     .................... ...    . 75GPPGGPPPPPJ??JJ?777?JJJPGPPPPGGGGGGBB55G5J????JJJYY: ..........
-     ............................. 7G#GGPPPP5PPPY7?J?777??JPGP5555PGGGGGGB5YGPYJ????JJYY^ ..........
-     ...............................7GGGPP55555PPJ???7777J5GP5555PPPGGGGBBG5GGYJ????JJY5! ..........
-     ............................... 7GGGP5555PPGG5YJ?JJY5PPPP55PPPPGGGGBBBGGB5J????JJY5! ..........
-     ..............................:^!YGGGPP55PPPGGP555PGPPPGGPPPPPGGGGBBBBPGB5J????JJYY^ ..........
-     .............................::?5PGPGGGPPPPP555YYYYY5YYY5PPPPGGGGGGP5YYJ55J????JJYY: ..........
-     .............................::?Y5??JPPP5YJ?7777?????7!!!!77??JJJJJJJJY^J5?????JJYJ............
-     ................................~?5J7JJJ???77!!7777777!!!!!!!!777?JJJ5?.7PJ?????JY?............
-     ...............................  ..~JJJJ??77777777777777!!!!!!77???JYJ: ~PYJ?7??JY7............
-     ............................. .... ^JJJJ??777777777777777777777??JYYY^ .:55Y?77?JY^ . .........
-     ...................................7JJJJ??77777777777777????????JJYY~ ...YPY??7?JJ:.. .........
-     ................................ :7JJJ?J??77777777777777???????JJYY!.....55J????JY:.. .........
-     ................................^?JJ??????77777777777777???????JJY!.... ^5YJ????YY:.. .........
-     ...............................~??????????7777777777777777?????JYJ:.... !YJ????JY?... .........
-     ......................... .. .!??7???????77777777777777777777??JY?.... .JY?????YY~ .. .........
-     ............................^J?7777??????7777???7777777777777??JY?.... ^YJ????JY?.... .........
-     .......................... ^?5Y77777?????7777?J77777777777777??JYY:... !YJ???JYY: ... .........
-     ..........................:777Y5?777????777777777777777777777??JYY~ ...?Y????YY~ ..............
-     .................... ... :7?7!7JY?77????777777777777777777777??JYPY:..:JJ???JY!................
-     .........................7?7!!!!?5J7????77777777777777777777?YPPP55!  ~YJ??JY7... .............
-     ........................~??77!!!!?5Y???777777777777777777?J555YYJJYJ: 7J???Y?..................
-     .......................:??77777777?P5J?7777777777777777?Y5YJ???JJJY5!:J???YJ: .................
-     .................. ....!J?777777777YGP5Y?7777777777?JY5J?777???JJYY5Y7J??JJ: ..................
-     .................. ...:???77777777775PPPP5YYJYYY555PPY?777777???JYY5P?7?JY~ ...................
-     ......................!J??7777777777JPP555PPPPPPPPP5?777777777??JY5PJ7??YY:.. .................
-     .................. ..:????777777777??PPPP55555PPPPJ7777777777???JY557???YY^ ...................
-     .................... ~J???77777777???YGPPPPPPPPP5?777777777777??JJ55??J?JY7... ................
-     .....................!J??777777777???JPGPPPPPGG5?7777777777777???JYPJ?5J?JY: . ................
-     .....................7J??77777777?????JPGGGGGG5?77777777777777???JJ5YJG57JJ:.. ................
-     .....................7J??7777777??????JJYPGBBP?777777777777777???JJYJJBY?Y?... ................
-     ..................  .7J??7777777??????JJJY5P#P?7777777777777777??JJYJJBJY5!.. .................
-     .....................!J??7777777???????JJJY5G#Y?777777777777777???JJY5PJ5J... .................
-     .................... ~J??777777????????JJJY5PBY??777777777777777??JJY55Y5! .. .................
-     .................... ~J??777777????????JJJY5PP^7J?????JJJJYYYYYY555PPGGG57 .. .................
-     .................... ^JJ?77777?????????JJYY5P? ~GPPPPPGGGPPPPPPPPPGGGGBBB5... .................
-     .................. . :JJ?7777??????????JJY55Y: .YBGGGGGGGGGPPPPPPPPGGGGBBP:....................
-     ....          .......:JJ??77??????????JJJY557...:PBGGGGGGGGGGPPPGGGGGGBBBG^ . .................
-     ... .^^^^~^^^. .......?J??????????????JJYY5Y:... ^PBGGGGGGGGGGGGGGGGGBGGBP^ . .................
-     .. .J5555YYY5Y: ......7J????????????JJJJY55! .... ^PGGGGGPPGGPPPGGGGP5555Y^ . .................
-     .  .Y5Y7: .!55: ..... ^JJ?????????JJJJJYY5J:...... :7YYYYJJJJJ?JJJJJJJJYYY~ . .................
-     .. .Y5Y^ .~J55: .......7JJ???????JJJJJYY557 ..... . .!JJJJJ?????JJJJJJJJY5?.  .................
-      . .J555JJ5555: ...... :JJJJ????JJJJJYY55Y^ ...... ...!JJJJJ???JJJJJJJJJY5J. ..................
-
-
-
-
-
-
-
-
-
-]])
-
-
-
-
-
+                                        ,   ,
+                                        $,  $,     ,
+                                        "ss.$ss. .s'
+                                ,     .ss$$$$$$$$$$s,
+                                $. s$$$$$$$$$$$$$$`$$Ss
+                                "$$$$$$$$$$$$$$$$$$o$$$       ,
+                               s$$$$$$$$$$$$$$$$$$$$$$$$s,  ,s
+                              s$$$$$$$$$"$$$$$$""""$$$$$$"$$$$$,
+                              s$$$$$$$$$$s""$$$$ssssss"$$$$$$$$"
+                             s$$$$$$$$$$'         `"""ss"$"$s""
+                             s$$$$$$$$$$,              `"""""$  .s$$s
+                             s$$$$$$$$$$$$s,...               `s$$'  `
+                         `ssss$$$$$$$$$$$$$$$$$$$$####s.     .$$"$.   , s-
+                           `""""$$$$$$$$$$$$$$$$$$$$#####$$$$$$"     $.$'
+                                 "$$$$$$$$$$$$$$$$$$$$$####s""     .$$$|
+                                  "$$$$$$$$$$$$$$$$$$$$$$$$##s    .$$" $
+                                   $$""$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"   `
+                                  $$"  "$"$$$$$$$$$$$$$$$$$$$$S""""'
+                             ,   ,"     '  $$$$$$$$$$$$$$$$####s
+                             $.          .s$$$$$$$$$$$$$$$$$####"
+                 ,           "$s.   ..ssS$$$$$$$$$$$$$$$$$$$####"
+                 $           .$$$S$$$$$$$$$$$$$$$$$$$$$$$$#####"
+                 Ss     ..sS$$$$$$$$$$$$$$$$$$$$$$$$$$$######""
+                  "$$sS$$$$$$$$$$$$$$$$$$$$$$$$$$$########"
+           ,      s$$$$$$$$$$$$$$$$$$$$$$$$#########""'
+           $    s$$$$$$$$$$$$$$$$$$$$$#######""'      s'         ,
+           $$..$$$$$$$$$$$$$$$$$$######"'       ....,$$....    ,$
+            "$$$$$$$$$$$$$$$######"' ,     .sS$$$$$$$$$$$$$$$$s$$
+              $$$$$$$$$$$$#####"     $, .s$$$$$$$$$$$$$$$$$$$$$$$$s.
+   )          $$$$$$$$$$$#####'      `$$$$$$$$$###########$$$$$$$$$$$.
+  ((          $$$$$$$$$$$#####       $$$$$$$$###"       "####$$$$$$$$$$
+  ) \         $$$$$$$$$$$$####.     $$$$$$###"             "###$$$$$$$$$   s'
+ (   )        $$$$$$$$$$$$$####.   $$$$$###"                ####$$$$$$$$s$$'
+ )  ( (       $$"$$$$$$$$$$$#####.$$$$$###' -Tua Xiong     .###$$$$$$$$$$"
+ (  )  )   _,$"   $$$$$$$$$$$$######.$$##'                .###$$$$$$$$$$
+ ) (  ( \.         "$$$$$$$$$$$$$#######,,,.          ..####$$$$$$$$$$$"
+(   )$ )  )        ,$$$$$$$$$$$$$$$$$$####################$$$$$$$$$$$"
+(   ($$  ( \     _sS"  `"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$S$$,
+ )  )$$$s ) )  .      .   `$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"'  `$$
+  (   $$$Ss/  .$,    .$,,s$$$$$$##S$$$$$$$$$$$$$$$$$$$$$$$$S""        '
+    \)_$$$$$$$$$$$$$$$$$$$$$$$##"  $$        `$$.        `$$.
+        `"S$$$$$$$$$$$$$$$$$#"      $          `$          `$
+            `"""""""""""""'         '           '           '
